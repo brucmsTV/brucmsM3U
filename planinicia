@@ -1,6 +1,8 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/Public/guia-de-programacion.xml" tv-test="bruno2255.m3u"
 #EXTINF:-1 tvg-name="+ Listas en M3U.CL" tvg-logo="https://www.m3u.cl/logo/156___Listas_en_M3U_CL.png", + Listas en M3U.CL * | CL
 https://videostreaming.cloudserverlatam.com:443/htbbgdnudk/htbbgdnudk/playlist.m3u8
+#EXTINF:-1 tvg-id="320037" tvg-name="Gato con botas 2" tvg-logo="https://image.tmdb.org/t/p/w500/kuf6dutpsT0vSVehic3EZIqkOBt.jpg" group-title="Pelicula", Gato con botas 2
+http://clubtv.link/1005my/phpcode/peliculas.php?c=208.88.245.85/nuevo/gatoconbotas.el.ultimodeseo.dual.mkv&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="320030" tvg-name="Queen - En Vivo (Live Aid 13/07/1985)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGl6DWBAoywLONuLEoFxa2xY7Q1UuAnbwFRQ&s" group-title="Conciertos", Queen - En Vivo (Live Aid 13/07/1985)
 https://app.viloud.tv/hls/channel/6f0e1827a79303a4aa9d44425790b857.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320029" tvg-name="Los Prisioneros - En Vivo (Estadio Chile 1986)" tvg-logo="https://www.futuro.cl/wp-content/uploads/2022/09/los-prisioneros-1986-metro-web.jpg" group-title="Conciertos", Los Prisioneros - En Vivo (Estadio Chile 1986)
@@ -53,36 +55,42 @@ https://59ec5453559f0.streamlock.net/miamitv/smil:WEB4141/playlist.m3u8?Playlist
 http://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318526" tvg-name="Canal 13 (Internacional)" tvg-logo="https://cdn.m3u.cl/logo/1685_13_Internacional.png" group-title="Internacional", Canal 13 (Internacional)
 https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
-#EXTINF:-1 tvg-id="318822" tvg-name="La Caída (2004)" tvg-logo="https://image.tmdb.org/t/p/w500/rl5aC6Kh46kuEwZYf0lbIMvijr1.jpg" group-title="Pelicula", La Caída (2004)
-http://clubtv.link/abr2604/phpcode/peliculas.php?c=208.88.245.85/nuevo/la.caida.latino.2022.mkv&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
+#EXTINF:-1 tvg-id="320036" tvg-name="John Wick 4" tvg-logo="https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg" group-title="Pelicula", John Wick 4
+http://clubtv.link/1005my/phpcode/peliculas.php?c=208.88.245.85/nuevo/johnwick4.dual.2023.mkv&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
+#EXTINF:-1 tvg-id="320035" tvg-name="Juntos pero no revueltos" tvg-logo="https://image.tmdb.org/t/p/w500/9v4h3j0zwDDOQasBC2kJPpXVGck.jpg" group-title="Pelicula", Juntos pero no revueltos
+http://clubtv.link/1005my/phpcode/peliculas.php?c=208.88.245.85/nuevo/juntospnorevueltos.latino.2023.mkv&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
+#EXTINF:-1 tvg-id="320034" tvg-name="KRAKENS Y SIRENAS" tvg-logo="https://image.tmdb.org/t/p/w500/8ChIb3WzYAcza1vrXR56v510MWk.jpg" group-title="Pelicula", KRAKENS Y SIRENAS
+http://clubtv.link/1005my/phpcode/peliculas.php?c=208.88.245.85/nuevo/krakensysirenas.dual2023.mkv&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
+#EXTINF:-1 tvg-id="318822" tvg-name="La Caída" tvg-logo="https://image.tmdb.org/t/p/w500/rl5aC6Kh46kuEwZYf0lbIMvijr1.jpg" group-title="Pelicula", La Caída
+http://clubtv.link/1005my/phpcode/peliculas.php?c=208.88.245.85/nuevo/la.caida.latino.2022.mkv&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318821" tvg-name="Super Mario Bros: La Película (2023)" tvg-logo="https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg" group-title="Pelicula", Super Mario Bros: La Película (2023)
-http://clubtv.link/abr2604/phpcode/peliculas.php?c=208.88.245.85/nuevo/supermariobros.dual.2023.mkv&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
+http://clubtv.link/1005my/phpcode/peliculas.php?c=208.88.245.85/nuevo/supermariobros.dual.2023.mkv&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318820" tvg-name="MATILDA" tvg-logo="https://image.tmdb.org/t/p/w500/wnLbqoGRGdnPNjMV6rY75wgRamd.jpg" group-title="Pelicula", MATILDA
 http://clubtv.link/abr2604/phpcode/peliculas.php?c=208.88.245.85/nuevo/matilda.dual.2022.mkv&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318819" tvg-name="OPPENHEIMER: EL DILEMA DE LA BOMBA ATóMICA" tvg-logo="https://image.tmdb.org/t/p/w500/xwkYWcs8aypUtk3xDRUh0ndo4GA.jpg" group-title="Pelicula", OPPENHEIMER: EL DILEMA DE LA BOMBA ATóMICA
-http://clubtv.link/abr2604/phpcode/peliculas.php?c=208.88.245.85/nuevo/oppenheimer.el.dilema.delabomba.atomica.dual2023.mkv&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
+http://clubtv.link/1005my/phpcode/peliculas.php?c=208.88.245.85/nuevo/oppenheimer.el.dilema.delabomba.atomica.dual2023.mkv&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318818" tvg-name="Rápidos y Furiosos 10" tvg-logo="https://image.tmdb.org/t/p/w500/fiVW06jE7z9YnO4trhaMEdclSiC.jpg" group-title="Pelicula", Rápidos y Furiosos 10
-http://clubtv.link/abr2604/phpcode/peliculas.php?c=208.88.245.85/nuevo/fastfuriusx.dual.2023.mkv&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
+http://clubtv.link/1005my/phpcode/peliculas.php?c=notabasica.com/612132/Fast.X.2023.lati.mp4&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318763" tvg-name="LEGO Avengers: Código Rojo" tvg-logo="https://image.tmdb.org/t/p/w500//rDzig50dj7VpLwJ7SThbamETK1G.jpg" group-title="Pelicula", LEGO Avengers: Código Rojo
-http://clubtv.link/abr2604/phpcode/peliculas.php?c=208.88.245.85/nuevo/lego.avengers.codigo.rojo.dual2023.mkv&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
+http://clubtv.link/1005my/phpcode/peliculas.php?c=208.88.245.85/nuevo/lego.avengers.codigo.rojo.dual2023.mkv&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318762" tvg-name="Mickey y sus Amigos: Dulce o Truco" tvg-logo="https://image.tmdb.org/t/p/w500//5Gz3k1TqeAxL5M47XZzjltxQrMb.jpg" group-title="Pelicula", Mickey y sus Amigos: Dulce o Truco
-http://clubtv.link/abr2604/phpcode/peliculas.php?c=208.88.245.85/nuevo/mickey.y.sus.amigos.dulce.o.truco.dual.2023.mkv&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
+http://clubtv.link/1005my/phpcode/peliculas.php?c=208.88.245.85/nuevo/mickey.y.sus.amigos.dulce.o.truco.dual.2023.mkv&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318759" tvg-name="La Típica Navidad" tvg-logo="https://image.tmdb.org/t/p/w500//suDjK0qIsPoBNrAhWUtIjkIWx1G.jpg" group-title="Pelicula", La Típica Navidad
-http://clubtv.link/abr2604/phpcode/peliculas.php?c=208.88.245.81/nuevo/la.tipica.navidad.2023.dual.mkv&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
+http://clubtv.link/1005my/phpcode/peliculas.php?c=208.88.245.81/nuevo/la.tipica.navidad.2023.dual.mkv&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318758" tvg-name="Radical" tvg-logo="https://image.tmdb.org/t/p/w500//eSatbygYZp8ooprBHZdb6GFZxGB.jpg" group-title="Pelicula", Radical
-http://clubtv.link/abr2604/phpcode/peliculas.php?c=208.88.245.81/nuevo/radical.latino.2023.mkv&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
+http://clubtv.link/1005my/phpcode/peliculas.php?c=208.88.245.81/nuevo/radical.latino.2023.mkv&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318757" tvg-name="Los Menospreciados" tvg-logo="https://image.tmdb.org/t/p/w500//wj1VRcVsh39nkxLkZP8tuGd96tc.jp" group-title="Pelicula", Los Menospreciados
-http://clubtv.link/abr2604/phpcode/peliculas.php?c=208.88.245.81/nuevo/los.menospreciados.dual.2024.mkv&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
-#EXTINF:-1 tvg-id="318713" tvg-name="Spider-Man: A Través del Spiderverso" tvg-logo="https://image.tmdb.org/t/p/w500/8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg" group-title="Pelicula", Spider-Man: A Través del Spiderverso
-http://clubtv.link/abr2604/phpcode/peliculas.php?c=208.88.245.85:80/nuevo/spiderm.atravesdelspiderverso.2023dual.mkv&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
+http://clubtv.link/1005my/phpcode/peliculas.php?c=208.88.245.81/nuevo/los.menospreciados.dual.2024.mkv&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
+#EXTINF:-1 tvg-id="318713" tvg-name="Spider-Man: No Way Home (2021)" tvg-logo="https://image.tmdb.org/t/p/w500/5weKu49pzJCt06OPpjvT80efnQj.jpg" group-title="Pelicula", Spider-Man: No Way Home (2021)
+http://clubtv.link/1005my/phpcode/peliculas.php?c=notabasica.com/612132/SpiderManNoWayHome2021.SRREGIO.NET.mkv&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318714" tvg-name="Señora Influencer (2024)" tvg-logo="https://image.tmdb.org/t/p/w500//2PlHYTHLfZbhjmWOEMQm9ZqyK70.jpg" group-title="Pelicula", Señora Influencer (2024)
-http://clubtv.link/my0505/phpcode/peliculas.php?c=208.88.245.81/nuevo/senora.influencer.2024.latino.mkv&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
+http://clubtv.link/1005my/phpcode/peliculas.php?c=208.88.245.81/nuevo/senora.influencer.2024.latino.mkv&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318712" tvg-name="TROLLS 3" tvg-logo="https://image.tmdb.org/t/p/w500/bkpPTZUdq31UGDovmszsg2CchiI.jpg" group-title="Pelicula", TROLLS 3
-http://clubtv.link/my0505/phpcode/peliculas.php?c=208.88.245.85/nuevo/trolls3.todos.juntos.dual.2023.mkv&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
+http://clubtv.link/1005my/phpcode/peliculas.php?c=208.88.245.85/nuevo/trolls3.todos.juntos.dual.2023.mkv&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318711" tvg-name="Saw X" tvg-logo="https://image.tmdb.org/t/p/w500/aQPeznSu7XDTrrdCtT5eLiu52Yu.jpg" group-title="Pelicula", Saw X
-http://clubtv.link/my0505/phpcode/peliculas.php?c=208.88.245.85/nuevo/saw.x.dual.2023.mkv&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
+http://clubtv.link/1005my/phpcode/peliculas.php?c=208.88.245.85/nuevo/saw.x.dual.2023.mkv&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318709" tvg-name="South Park: Entrando al Panderverso (2023)" tvg-logo="https://image.tmdb.org/t/p/w500/18IsRVfs5MkkTcqTGlUAnka6sCh.jpg" group-title="Pelicula", South Park: Entrando al Panderverso (2023)
-http://clubtv.link/my0505/phpcode/peliculas.php?c=208.88.245.81/nuevo/sp.no.apto.para.menores.dual.2023.mkv&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
+http://clubtv.link/1005my/phpcode/peliculas.php?c=208.88.245.81/nuevo/sp.no.apto.para.menores.dual.2023.mkv&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318708" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/2048px-CNN_International_logo.svg.png" group-title="ESTADOS UNIDOS", CNN
 http://1tv41.icu:8080/4KCwCN/506843/104884?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320011" tvg-name="Claro Sports • América Latina" tvg-logo="" group-title="Deportes", Claro Sports • América Latina
@@ -373,8 +381,6 @@ http://pro.ipcover.lol:8080/6164819/7361615/311685?PlaylistM3UCL
 http://pro.ipcover.lol:8080/6164819/7361615/311700?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310178" tvg-name="Canal 2 de San Antonio" tvg-logo="https://cdn.m3u.cl/logo/76_Canal_2_de_San_Antonio.png" group-title="Chile", Canal 2 de San Antonio
 https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
-#EXTINF:-1 tvg-id="1239" tvg-name="Señal Mediabanco" tvg-logo="https://cdn.m3u.cl/logo/1239_Senal_Mediabanco.png", Señal Mediabanco
-https://unlimited1-cl-isp.dps.live/mediabanco/mediabanco.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319481" tvg-name="TVO San Vicente de Tagua Tagua" tvg-logo="https://cdn.m3u.cl/logo/340_TVO_San_Vicente.png" group-title="Chile", TVO San Vicente de Tagua Tagua
 https://5ff3d9babae13.streamlock.net:443/8014/8014/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319856" tvg-name="Sextavisión" tvg-logo="https://cdn.m3u.cl/logo/341_Sextavision.png" group-title="Chile", Sextavisión
@@ -387,6 +393,8 @@ https://unlimited2-cl-isp.dps.live/vtv/vtv.smil/playlist.m3u8?PlaylistM3UCL&Play
 https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319857" tvg-name="Carolina TV 2" tvg-logo="https://cdn.m3u.cl/logo/1127_Carolina_TV_2.png" group-title="Radio Tv Chile", Carolina TV 2
 https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="320033" tvg-name="Señal Mediabanco (Transmisión Ocasional)" tvg-logo="https://cdn.m3u.cl/logo/1239_Senal_Mediabanco.png" group-title="Chile", Señal Mediabanco (Transmisión Ocasional)
+https://unlimited1-cl-isp.dps.live/mediabanco/mediabanco.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="310165" tvg-name="Universidad Autónoma TV" tvg-logo="https://cdn.m3u.cl/logo/58_Universidad_Autonoma_TV.png" group-title="Chile", Universidad Autónoma TV
 https://unlimited1-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="310164" tvg-name="Canal 9 Bío-Bío Televisión" tvg-logo="https://cdn.m3u.cl/logo/353_Canal_9_Bio_Bi­o_TV.png" group-title="Regionales", Canal 9 Bío-Bío Televisión
