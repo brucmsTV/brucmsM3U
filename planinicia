@@ -256,9 +256,9 @@ http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318707" tvg-name="Canal 5 • México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Canal_5_Mexico_logo_2014.svg" group-title="Mexico", Canal 5 • México
 http://clubtv.link/my0505/phpcode/lista0.php?c=52&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318706" tvg-name="Azteca 7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Azt-72024.png/revision/latest?cb=20241021203534&path-prefix=es" group-title="Mexico", Azteca 7
-http://clubtv.link/my0505/phpcode/lista0.php?c=54&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
+http://clubtv.link/1005my/phpcode/lista0.php?c=54&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 tvg-id="318705" tvg-name="Azteca Uno" tvg-logo="https://static.wikia.nocookie.net/tv-azteca/images/9/98/Uno.png/revision/latest?cb=20200323172904&path-prefix=es" group-title="Mexico", Azteca Uno
-http://clubtv.link/my0505/phpcode/lista0.php?c=1&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
+http://clubtv.link/1005my/phpcode/lista0.php?c=1&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 tvg-id="316953" tvg-name="Teleritmo" tvg-logo="https://i.imgur.com/bR1HtpG.jpg" group-title="Mexico", Teleritmo
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="316952" tvg-name="Multimedios (Monterrey)" tvg-logo="https://i.imgur.com/dLAAhOT.jpg" group-title="Mexico", Multimedios (Monterrey)
