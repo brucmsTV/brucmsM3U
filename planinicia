@@ -13,6 +13,8 @@ http://pro.ipcover.lol:8080/movie/6164819/7361615/142183.mkv?PlaylistM3UCL
 http://pro.ipcover.lol:8080/movie/6164819/7361615/106503.mkv?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320025" tvg-name="AC/DC - En Vivo en el River Plate (Argentina - 2009)" tvg-logo="https://http2.mlstatic.com/D_Q_NP_833925-MLA79774422525_102024-O.webp" group-title="Conciertos", AC/DC - En Vivo en el River Plate (Argentina - 2009)
 http://pro.ipcover.lol:8080/movie/6164819/7361615/181907.mkv?PlaylistM3UCL
+#EXTINF:-1 tvg-id="320031" tvg-name="Los Bunkers - En Vivo (Festival de Viña 2024)" tvg-logo="https://todobunkers.cl/wp-content/uploads/2023/10/bunkers_vimna-1024x1024.webp" group-title="Conciertos", Los Bunkers - En Vivo (Festival de Viña 2024)
+https://app.viloud.tv/hls/channel/0896759398ad34721f5fcb4ababd63ee.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319683" tvg-name="Stingray Rock Alternativo" tvg-logo="https://i.imgur.com/mt8ulVX.png" group-title="Musica", Stingray Rock Alternativo
 https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319682" tvg-name="Stingray Remember the 80s" tvg-logo="https://i.imgur.com/6E3wYrb.png" group-title="Musica", Stingray Remember the 80s
@@ -83,7 +85,7 @@ http://clubtv.link/my0505/phpcode/peliculas.php?c=208.88.245.85/nuevo/saw.x.dual
 http://clubtv.link/my0505/phpcode/peliculas.php?c=208.88.245.81/nuevo/sp.no.apto.para.menores.dual.2023.mkv&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318708" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/2048px-CNN_International_logo.svg.png" group-title="ESTADOS UNIDOS", CNN
 http://1tv41.icu:8080/4KCwCN/506843/104884?PlaylistM3UCL
-#EXTINF:-1 tvg-id="320011" tvg-name="Claro Sports • América Latina" tvg-logo="" group-title="Premium", Claro Sports • América Latina
+#EXTINF:-1 tvg-id="320011" tvg-name="Claro Sports • América Latina" tvg-logo="" group-title="Deportes", Claro Sports • América Latina
 http://clubtv.link/1005my/phpcode/lista0.php?c=82&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318765" tvg-name="Telemundo • Puerto Rico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="Premium", Telemundo • Puerto Rico
 http://clubtv.link/1005my/phpcode/lista0.php?c=7&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
@@ -367,7 +369,7 @@ https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8?PlaylistM
 https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310180" tvg-name="Teletrak" tvg-logo="https://cdn.m3u.cl/logo/376_Teletrak.png" group-title="Deportes", Teletrak
 http://pro.ipcover.lol:8080/6164819/7361615/311685?PlaylistM3UCL
-#EXTINF:-1 tvg-id="319040" tvg-name="TNT Sports Premium • Chile" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" group-title="Chile", TNT Sports Premium • Chile
+#EXTINF:-1 tvg-id="319040" tvg-name="TNT Sports Premium • Chile" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" group-title="Deportes", TNT Sports Premium • Chile
 http://pro.ipcover.lol:8080/6164819/7361615/311700?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310178" tvg-name="Canal 2 de San Antonio" tvg-logo="https://cdn.m3u.cl/logo/76_Canal_2_de_San_Antonio.png" group-title="Chile", Canal 2 de San Antonio
 https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
@@ -533,4 +535,3 @@ http://pro.ipcover.lol:8080/6164819/7361615/311697?PlaylistM3UCL
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319482" tvg-name="Telecanal" tvg-logo="https://cdn.m3u.cl/logo/1025_Telecanal_Santa_Cruz.png" group-title="Chile", Telecanal
 https://eu1.servers10.com:8081/8194/index.m3u8?PlaylistM3UCL&PlaylistM3UCL
-
