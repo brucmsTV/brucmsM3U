@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://www.m3u.cl/epg/m3u.xml" tv-test="bruno2255.m3u"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/Public/guia-de-programacion.xml" tv-test="bruno2255.m3u"
 #EXTINF:-1 tvg-name="+ Listas en M3U.CL" tvg-logo="https://www.m3u.cl/logo/156___Listas_en_M3U_CL.png", + Listas en M3U.CL * | CL
 https://videostreaming.cloudserverlatam.com:443/htbbgdnudk/htbbgdnudk/playlist.m3u8
 #EXTINF:-1 tvg-id="320011" tvg-name="Claro Sports" tvg-logo="" group-title="Premium", Claro Sports
