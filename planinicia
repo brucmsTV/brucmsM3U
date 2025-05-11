@@ -373,6 +373,8 @@ http://pro.ipcover.lol:8080/6164819/7361615/311685?PlaylistM3UCL
 http://pro.ipcover.lol:8080/6164819/7361615/311700?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310178" tvg-name="Canal 2 de San Antonio" tvg-logo="https://cdn.m3u.cl/logo/76_Canal_2_de_San_Antonio.png" group-title="Chile", Canal 2 de San Antonio
 https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="1239" tvg-name="Señal Mediabanco" tvg-logo="https://cdn.m3u.cl/logo/1239_Senal_Mediabanco.png", Señal Mediabanco
+https://unlimited1-cl-isp.dps.live/mediabanco/mediabanco.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319481" tvg-name="TVO San Vicente de Tagua Tagua" tvg-logo="https://cdn.m3u.cl/logo/340_TVO_San_Vicente.png" group-title="Chile", TVO San Vicente de Tagua Tagua
 https://5ff3d9babae13.streamlock.net:443/8014/8014/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319856" tvg-name="Sextavisión" tvg-logo="https://cdn.m3u.cl/logo/341_Sextavision.png" group-title="Chile", Sextavisión
