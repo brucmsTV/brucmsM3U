@@ -1,8 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/Public/guia-de-programacion.xml" tv-test="bruno2255.m3u"
 #EXTINF:-1 tvg-name="+ Listas en M3U.CL" tvg-logo="https://www.m3u.cl/logo/156___Listas_en_M3U_CL.png", + Listas en M3U.CL * | CL
 https://videostreaming.cloudserverlatam.com:443/htbbgdnudk/htbbgdnudk/playlist.m3u8
-#EXTINF:-1 tvg-id="320011" tvg-name="Claro Sports" tvg-logo="" group-title="Premium", Claro Sports
-http://clubtv.link/1005my/phpcode/lista0.php?c=82&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="320010" tvg-name="Claro Sports" tvg-logo="" group-title="Premium", Claro Sports
 http://clubtv.link/1005my/phpcode/lista0.php?c=82&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319683" tvg-name="Stingray Rock Alternativo" tvg-logo="https://i.imgur.com/mt8ulVX.png" group-title="Musica", Stingray Rock Alternativo
