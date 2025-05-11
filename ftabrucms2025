@@ -14,6 +14,8 @@ http://tv14s.xyz:8080/71700855/71700855/53719?PlaylistM3UCL
 http://tv14s.xyz:8080/71700855/71700855/1818?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318546" tvg-name="Disney" tvg-logo="" group-title="Infantil", Disney
 http://clubtv.link/1005my/phpcode/lista0.php?c=44&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
+#EXTINF:-1 tvg-id="319066" tvg-name="Star" tvg-logo="" group-title="Premium", Star
+http://clubtv.link/1005my/phpcode/lista0.php?c=37&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318719" tvg-name="EWW Bruno" tvg-logo="https://i.imgur.com/Xi2IfT2.jpeg" group-title="XXX", EWW Bruno
 https://app.viloud.tv/hls/channel/41acea9f176a8283ef76fabb6f2d90a6.m3u8?PlaylistM3UCL
 
