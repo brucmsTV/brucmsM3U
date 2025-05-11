@@ -12,6 +12,8 @@ https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowi
 http://tv14s.xyz:8080/71700855/71700855/53719?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319458" tvg-name="FOX News " tvg-logo="" group-title="ESTADOS UNIDOS", FOX News 
 http://tv14s.xyz:8080/71700855/71700855/1818?PlaylistM3UCL
+#EXTINF:-1 tvg-id="319092" tvg-name="¡Hola! TV • América Latina" tvg-logo="" group-title="Premium", ¡Hola! TV • América Latina
+http://tv1.tvendirect.online:8080/vNqwkr3j9MwP/FPUcMVXz4rSk1/311903?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318546" tvg-name="Disney" tvg-logo="" group-title="Infantil", Disney
 http://clubtv.link/1005my/phpcode/lista0.php?c=44&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319066" tvg-name="Star" tvg-logo="" group-title="Premium", Star
