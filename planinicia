@@ -1,8 +1,8 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/Public/guia-de-programacion.xml" tv-test="bruno2255.m3u"
 #EXTINF:-1 tvg-name="+ Listas en M3U.CL" tvg-logo="https://www.m3u.cl/logo/156___Listas_en_M3U_CL.png", + Listas en M3U.CL * | CL
 https://videostreaming.cloudserverlatam.com:443/htbbgdnudk/htbbgdnudk/playlist.m3u8
-#EXTINF:-1 tvg-id="320037" tvg-name="Gato con botas 2" tvg-logo="https://image.tmdb.org/t/p/w500/kuf6dutpsT0vSVehic3EZIqkOBt.jpg" group-title="Pelicula", Gato con botas 2
-http://clubtv.link/1005my/phpcode/peliculas.php?c=208.88.245.85/nuevo/gatoconbotas.el.ultimodeseo.dual.mkv&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
+#EXTINF:-1 tvg-id="320043" tvg-name="Mega (ES)" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2021/04/12/7DC7BFBE-A48A-4898-BCEE-166C6812F73F//720x540.jpg" group-title="ESPAÑA", Mega (ES)
+http://185.189.225.150:85/mega/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320030" tvg-name="Queen - En Vivo (Live Aid 13/07/1985)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGl6DWBAoywLONuLEoFxa2xY7Q1UuAnbwFRQ&s" group-title="Conciertos", Queen - En Vivo (Live Aid 13/07/1985)
 https://app.viloud.tv/hls/channel/6f0e1827a79303a4aa9d44425790b857.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320029" tvg-name="Los Prisioneros - En Vivo (Estadio Chile 1986)" tvg-logo="https://www.futuro.cl/wp-content/uploads/2022/09/los-prisioneros-1986-metro-web.jpg" group-title="Conciertos", Los Prisioneros - En Vivo (Estadio Chile 1986)
@@ -15,8 +15,16 @@ http://pro.ipcover.lol:8080/movie/6164819/7361615/142183.mkv?PlaylistM3UCL
 http://pro.ipcover.lol:8080/movie/6164819/7361615/106503.mkv?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320025" tvg-name="AC/DC - En Vivo en el River Plate (Argentina - 2009)" tvg-logo="https://http2.mlstatic.com/D_Q_NP_833925-MLA79774422525_102024-O.webp" group-title="Conciertos", AC/DC - En Vivo en el River Plate (Argentina - 2009)
 http://pro.ipcover.lol:8080/movie/6164819/7361615/181907.mkv?PlaylistM3UCL
+#EXTINF:-1 tvg-id="320042" tvg-name="Vevo Retro Rock" tvg-logo="https://i.imgur.com/H1Aap4E.png" group-title="Musica", Vevo Retro Rock
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce917-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5b34f49b-bb11-47dd-b65b-7c5074a9925c&PlaylistM3UCL
 #EXTINF:-1 tvg-id="320031" tvg-name="Los Bunkers - En Vivo (Festival de Viña 2024)" tvg-logo="https://todobunkers.cl/wp-content/uploads/2023/10/bunkers_vimna-1024x1024.webp" group-title="Conciertos", Los Bunkers - En Vivo (Festival de Viña 2024)
 https://app.viloud.tv/hls/channel/0896759398ad34721f5fcb4ababd63ee.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="320041" tvg-name="Vevo Latino" tvg-logo="https://i.imgur.com/D7SwmuB.png" group-title="Musica", Vevo Latino
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce911-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a7c08002-33dc-40eb-8b3c-28a20a838cdb&PlaylistM3UCL
+#EXTINF:-1 tvg-id="320040" tvg-name="Vevo 1970s" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg" group-title="Musica", Vevo 1970s
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc205-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65607a14-91b8-4a2f-acee-142424cbaf0b&PlaylistM3UCL
+#EXTINF:-1 tvg-id="320039" tvg-name="Vevo 2K" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="Musica", Vevo 2K
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc208-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c78a281-5d61-4850-8b62-74632f015343&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319683" tvg-name="Stingray Rock Alternativo" tvg-logo="https://i.imgur.com/mt8ulVX.png" group-title="Musica", Stingray Rock Alternativo
 https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319682" tvg-name="Stingray Remember the 80s" tvg-logo="https://i.imgur.com/6E3wYrb.png" group-title="Musica", Stingray Remember the 80s
@@ -55,6 +63,8 @@ https://59ec5453559f0.streamlock.net/miamitv/smil:WEB4141/playlist.m3u8?Playlist
 http://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318526" tvg-name="Canal 13 (Internacional)" tvg-logo="https://cdn.m3u.cl/logo/1685_13_Internacional.png" group-title="Internacional", Canal 13 (Internacional)
 https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="320037" tvg-name="Gato con botas 2" tvg-logo="https://image.tmdb.org/t/p/w500/kuf6dutpsT0vSVehic3EZIqkOBt.jpg" group-title="Pelicula", Gato con botas 2
+http://clubtv.link/1005my/phpcode/peliculas.php?c=208.88.245.85/nuevo/gatoconbotas.el.ultimodeseo.dual.mkv&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="320036" tvg-name="John Wick 4" tvg-logo="https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg" group-title="Pelicula", John Wick 4
 http://clubtv.link/1005my/phpcode/peliculas.php?c=208.88.245.85/nuevo/johnwick4.dual.2023.mkv&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="320035" tvg-name="Juntos pero no revueltos" tvg-logo="https://image.tmdb.org/t/p/w500/9v4h3j0zwDDOQasBC2kJPpXVGck.jpg" group-title="Pelicula", Juntos pero no revueltos
@@ -93,45 +103,45 @@ http://clubtv.link/1005my/phpcode/peliculas.php?c=208.88.245.85/nuevo/saw.x.dual
 http://clubtv.link/1005my/phpcode/peliculas.php?c=208.88.245.81/nuevo/sp.no.apto.para.menores.dual.2023.mkv&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318708" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/2048px-CNN_International_logo.svg.png" group-title="ESTADOS UNIDOS", CNN
 http://1tv41.icu:8080/4KCwCN/506843/104884?PlaylistM3UCL
-#EXTINF:-1 tvg-id="320011" tvg-name="Claro Sports • América Latina" tvg-logo="" group-title="Deportes", Claro Sports • América Latina
+#EXTINF:-1 tvg-id="320011" tvg-name="Claro Sports • América Latina" tvg-logo="https://yt3.googleusercontent.com/h88IKJCItR4KafxYzqfMphDkLzXdREH24qDrW-CzFMedCCjBl4D2baR3xWF48tOkNltM6MM9hA=s900-c-k-c0x00ffffff-no-rj" group-title="Deportes", Claro Sports • América Latina
 http://clubtv.link/1005my/phpcode/lista0.php?c=82&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318765" tvg-name="Telemundo • Puerto Rico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="Premium", Telemundo • Puerto Rico
 http://clubtv.link/1005my/phpcode/lista0.php?c=7&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
-#EXTINF:-1 tvg-id="319092" tvg-name="¡Hola! TV • América Latina" tvg-logo="" group-title="Premium", ¡Hola! TV • América Latina
+#EXTINF:-1 tvg-id="319092" tvg-name="¡Hola! TV • América Latina" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mDfvj3lBIIByegg9yN9bA-QLVN8nurP250cE5GBwTw6H8=s900-c-k-c0x00ffffff-no-rj" group-title="Premium", ¡Hola! TV • América Latina
 http://tv1.tvendirect.online:8080/vNqwkr3j9MwP/FPUcMVXz4rSk1/311903?PlaylistM3UCL
-#EXTINF:-1 tvg-id="319066" tvg-name="Star Channel • Latin America" tvg-logo="" group-title="Premium", Star Channel • Latin America
+#EXTINF:-1 tvg-id="319066" tvg-name="Star Channel • Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg" group-title="Premium", Star Channel • Latin America
 http://clubtv.link/1005my/phpcode/lista0.php?c=37&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
-#EXTINF:-1 tvg-id="318550" tvg-name="Warner Channel • Panregional" tvg-logo="" group-title="Premium", Warner Channel • Panregional
+#EXTINF:-1 tvg-id="318550" tvg-name="Warner Channel • Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Premium", Warner Channel • Panregional
 http://clubtv.link/1005my/phpcode/lista0.php?c=2&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
-#EXTINF:-1 tvg-id="318549" tvg-name="USA Network • Latin America" tvg-logo="" group-title="Premium", USA Network • Latin America
+#EXTINF:-1 tvg-id="318549" tvg-name="USA Network • Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" group-title="Premium", USA Network • Latin America
 http://clubtv.link/1005my/phpcode/lista0.php?c=9&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
-#EXTINF:-1 tvg-id="318547" tvg-name="TCM • América Latina" tvg-logo="" group-title="Premium", TCM • América Latina
+#EXTINF:-1 tvg-id="318547" tvg-name="TCM • América Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="Premium", TCM • América Latina
 http://clubtv.link/1005my/phpcode/lista0.php?c=73&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
-#EXTINF:-1 tvg-id="318545" tvg-name="National Geographic • Panregional" tvg-logo="" group-title="Premium", National Geographic • Panregional
+#EXTINF:-1 tvg-id="318545" tvg-name="National Geographic • Panregional" tvg-logo="https://yt3.googleusercontent.com/GC-FpT0nbV0nuF_QXKzaNHTV545TR1gQfULZaZOYgf58D8AfDxWanLlaQU366UKq44DadPMC=s900-c-k-c0x00ffffff-no-rj" group-title="Premium", National Geographic • Panregional
 http://clubtv.link/1005my/phpcode/lista0.php?c=15&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
-#EXTINF:-1 tvg-id="318544" tvg-name="History • Latinoamérica" tvg-logo="" group-title="Premium", History • Latinoamérica
+#EXTINF:-1 tvg-id="318544" tvg-name="History • Latinoamérica" tvg-logo="https://yt3.googleusercontent.com/ak1k-8WLkiRj4ZrWOMTDYzMIK97iuhb9Ocy7251h47o7S6R7imwl4ivKQAO1sRxlPzDK_rPx6A=s900-c-k-c0x00ffffff-no-rj" group-title="Premium", History • Latinoamérica
 http://clubtv.link/1005my/phpcode/lista0.php?c=19&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
-#EXTINF:-1 tvg-id="318543" tvg-name="TNT Series • Colombia" tvg-logo="" group-title="Premium", TNT Series • Colombia
+#EXTINF:-1 tvg-id="318543" tvg-name="TNT Series • Colombia" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tnt-series_m.png" group-title="Premium", TNT Series • Colombia
 http://clubtv.link/1005my/phpcode/lista0.php?c=5&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
-#EXTINF:-1 tvg-id="318542" tvg-name="TNT • América Latina" tvg-logo="" group-title="Premium", TNT • América Latina
+#EXTINF:-1 tvg-id="318542" tvg-name="TNT • América Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg" group-title="Premium", TNT • América Latina
 http://clubtv.link/1005my/phpcode/lista0.php?c=6&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318523" tvg-name="Space • Latinoamérica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Space_2008.svg/revision/latest?cb=20200216172603&path-prefix=es" group-title="Premium", Space • Latinoamérica
 http://clubtv.link/1005my/phpcode/lista0.php?c=10&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318522" tvg-name="AXN • Andes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/AXN_2015.svg/revision/latest?cb=20210405161841&path-prefix=es" group-title="Premium", AXN • Andes
 http://clubtv.link/1005my/phpcode/lista0.php?c=55&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
-#EXTINF:-1 tvg-id="318769" tvg-name="HBO Xtreme • Latinoamérica" tvg-logo="" group-title="Premium", HBO Xtreme • Latinoamérica
+#EXTINF:-1 tvg-id="318769" tvg-name="HBO Xtreme • Latinoamérica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s" group-title="Premium", HBO Xtreme • Latinoamérica
 http://clubtv.link/1005my/phpcode/lista0.php?c=16&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
-#EXTINF:-1 tvg-id="318768" tvg-name="HBO Signature • Latinoamérica" tvg-logo="" group-title="Premium", HBO Signature • Latinoamérica
+#EXTINF:-1 tvg-id="318768" tvg-name="HBO Signature • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_Signature.svg" group-title="Premium", HBO Signature • Latinoamérica
 http://clubtv.link/1005my/phpcode/lista0.php?c=20&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
-#EXTINF:-1 tvg-id="318767" tvg-name="HBO Family • Latinoamérica" tvg-logo="" group-title="Premium", HBO Family • Latinoamérica
+#EXTINF:-1 tvg-id="318767" tvg-name="HBO Family • Latinoamérica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJRIWFgQrQ5k4ZufJyms_2wa89EkiimMjmog&s" group-title="Premium", HBO Family • Latinoamérica
 http://clubtv.link/1005my/phpcode/lista0.php?c=22&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
-#EXTINF:-1 tvg-id="318766" tvg-name="HBO Plus • Latinoamérica" tvg-logo="" group-title="Premium", HBO Plus • Latinoamérica
+#EXTINF:-1 tvg-id="318766" tvg-name="HBO Plus • Latinoamérica" tvg-logo="https://static.wikia.nocookie.net/rarter/images/b/ba/Logohboplus2019.png/revision/latest?cb=20231222070039" group-title="Premium", HBO Plus • Latinoamérica
 http://clubtv.link/1005my/phpcode/lista0.php?c=21&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318521" tvg-name="HBO 2 • Latinoamérica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/HBO2_logo.svg/revision/latest?cb=20230305153839&path-prefix=es" group-title="Premium", HBO 2 • Latinoamérica
 http://clubtv.link/1005my/phpcode/lista0.php?c=23&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318520" tvg-name="HBO • Latinoamérica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest?cb=20201126030141" group-title="Premium", HBO • Latinoamérica
 http://clubtv.link/1005my/phpcode/lista0.php?c=24&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
-#EXTINF:-1 tvg-id="319070" tvg-name="Studio Universal • Latinoamérica" tvg-logo="" group-title="Premium", Studio Universal • Latinoamérica
+#EXTINF:-1 tvg-id="319070" tvg-name="Studio Universal • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/330px-StudioUniversal2016.png" group-title="Premium", Studio Universal • Latinoamérica
 https://mx1.gt-app.com70&token=Tecnoplus11&f=.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318519" tvg-name="Universal Reality" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Universal_Reality.svg/revision/latest?cb=20220311032056" group-title="Premium", Universal Reality
 http://clubtv.link/1005my/phpcode/lista0.php?c=34&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
@@ -143,9 +153,9 @@ http://clubtv.link/1005my/phpcode/lista0.php?c=43&token=Tecnoplus11&f=.m3u8&Play
 http://clubtv.link/1005my/phpcode/lista0.php?c=44&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318359" tvg-name="Nick Jr • Latin America" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Nick_Jr..svg/revision/latest?cb=20240519091307" group-title="Infantil", Nick Jr • Latin America
 http://clubtv.link/1005my/phpcode/lista0.php?c=13&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
-#EXTINF:-1 tvg-id="318358" tvg-name="Tooncast" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/05/Tooncast.svg/revision/latest?cb=20200107001607&path-prefix=es" group-title="Infantil", Tooncast
+#EXTINF:-1 tvg-id="318358" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png" group-title="Infantil", Tooncast
 http://clubtv.link/1005my/phpcode/lista0.php?c=14&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
-#EXTINF:-1 tvg-id="318551" tvg-name="Cartoonito • Latinoamérica" tvg-logo="" group-title="Infantil", Cartoonito • Latinoamérica
+#EXTINF:-1 tvg-id="318551" tvg-name="Cartoonito • Latinoamérica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxEt-vItqB3vQnM-6yyd2ByKRR4ZJpP6pzUQ&s" group-title="Infantil", Cartoonito • Latinoamérica
 http://clubtv.link/1005my/phpcode/lista0.php?c=53&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319672" tvg-name="Treehouse TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Treehouse_TV_logo.svg/1200px-Treehouse_TV_logo.svg.png" group-title="Infantil", Treehouse TV
 http://tv14s.xyz:8080/71700855/71700855/57371?PlaylistM3UCL
@@ -153,15 +163,15 @@ http://tv14s.xyz:8080/71700855/71700855/57371?PlaylistM3UCL
 http://tv14s.xyz:8080/71700855/71700855/14741?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318357" tvg-name="Cartoon Network • Latinoamérica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest?cb=20210726224754" group-title="Infantil", Cartoon Network • Latinoamérica
 http://clubtv.link/1005my/phpcode/lista0.php?c=51&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
-#EXTINF:-1 tvg-id="319068" tvg-name="Adult Swim • América Latina" tvg-logo="" group-title="Premium", Adult Swim • América Latina
+#EXTINF:-1 tvg-id="319068" tvg-name="Adult Swim • América Latina" tvg-logo="https://play-lh.googleusercontent.com/lnAGp2JZZqyOLv-NrHDDYXvHNEfJBGBksoPru2DUmrfVvmwhtptUtbjcG5e580a5prms=w240-h480-rw" group-title="Premium", Adult Swim • América Latina
 http://181.78.208.25:8000/play/a02m/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318356" tvg-name="Discovery Kids • América Latina" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/revision/latest?cb=20210930223617&path-prefix=es" group-title="Infantil", Discovery Kids • América Latina
 http://clubtv.link/1005my/phpcode/lista0.php?c=45&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
-#EXTINF:-1 tvg-id="318355" tvg-name="A and E • América Latina" tvg-logo="" group-title="Premium", A and E • América Latina
+#EXTINF:-1 tvg-id="318355" tvg-name="A and E • América Latina" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlHhC969E-bz8fLsjZy8au0aNyx2TsmBTZEg&s" group-title="Premium", A and E • América Latina
 http://clubtv.link/1005my/phpcode/lista0.php?c=58&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
-#EXTINF:-1 tvg-id="319090" tvg-name="HGTV • Latinoamérica" tvg-logo="" group-title="Premium", HGTV • Latinoamérica
+#EXTINF:-1 tvg-id="319090" tvg-name="HGTV • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="Premium", HGTV • Latinoamérica
 http://tv1.tvendirect.online:8080/vNqwkr3j9MwP/FPUcMVXz4rSk1/311858?PlaylistM3UCL
-#EXTINF:-1 tvg-id="319088" tvg-name="Love Nature" tvg-logo="" group-title="Premium", Love Nature
+#EXTINF:-1 tvg-id="319088" tvg-name="Love Nature" tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="Premium", Love Nature
 http://tv14s.xyz:8080/71700855/71700855/47324?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318354" tvg-name="Animal Planet • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="Premium", Animal Planet • Latinoamérica
 http://clubtv.link/1005my/phpcode/lista0.php?c=56&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
@@ -171,15 +181,15 @@ http://clubtv.link/1005my/phpcode/lista0.php?c=11&token=Tecnoplus11&f=.m3u8&Play
 http://clubtv.link/1005my/phpcode/lista1.php?c=a02h&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="320012" tvg-name="MTV Latino • Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/MTV_2021_%28brand_version%29.svg" group-title="Premium", MTV Latino • Sur
 http://clubtv.link/1005my/phpcode/lista3.php?c=a03b&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
-#EXTINF:-1 tvg-id="318351" tvg-name="FX • Chile" tvg-logo="" group-title="Premium", FX • Chile
+#EXTINF:-1 tvg-id="318351" tvg-name="FX • Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="Premium", FX • Chile
 http://clubtv.link/1005my/phpcode/lista0.php?c=27&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
-#EXTINF:-1 tvg-id="318352" tvg-name="Univisión • Latinoamérica" tvg-logo="" group-title="Premium", Univisión • Latinoamérica
+#EXTINF:-1 tvg-id="318352" tvg-name="Univisión • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="Premium", Univisión • Latinoamérica
 http://clubtv.link/1005my/phpcode/lista0.php?c=3&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
-#EXTINF:-1 tvg-id="318350" tvg-name="Paramount Network • Latin America" tvg-logo="" group-title="Premium", Paramount Network • Latin America
+#EXTINF:-1 tvg-id="318350" tvg-name="Paramount Network • Latin America" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLoRd9VTYqvBCqVqRdExUMyjK_3jsV1xxWg&s" group-title="Premium", Paramount Network • Latin America
 http://clubtv.link/1005my/phpcode/lista0.php?c=12&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
-#EXTINF:-1 tvg-id="318349" tvg-name="Golden Premier" tvg-logo="" group-title="Premium", Golden Premier
+#EXTINF:-1 tvg-id="318349" tvg-name="Golden Premier" tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg" group-title="Premium", Golden Premier
 http://clubtv.link/1005my/phpcode/lista0.php?c=25&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
-#EXTINF:-1 tvg-id="318348" tvg-name="Golden Plus" tvg-logo="" group-title="Premium", Golden Plus
+#EXTINF:-1 tvg-id="318348" tvg-name="Golden Plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Golden_Plus_2017.png/revision/latest?cb=20191215194002&path-prefix=es" group-title="Premium", Golden Plus
 http://clubtv.link/1005my/phpcode/lista0.php?c=26&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318347" tvg-name="Discovery Home and Health • Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="Premium", Discovery Home and Health • Sur
 http://clubtv.link/1005my/phpcode/lista0.php?c=46&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
@@ -193,11 +203,11 @@ http://clubtv.link/1005my/phpcode/lista2.php?c=a02n&f=.m3u8&token=Tecnoplus11&Pl
 http://clubtv.link/1005my/phpcode/lista2.php?c=a02l&f=.m3u8&token=Tecnoplus11&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318344" tvg-name="Discovery Channel • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/2019_Discovery_logo.svg" group-title="Premium", Discovery Channel • Latinoamérica
 http://clubtv.link/1005my/phpcode/lista0.php?c=47&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
-#EXTINF:-1 tvg-id="318343" tvg-name="ESPN 3 • México" tvg-logo="" group-title="Deportes", ESPN 3 • México
+#EXTINF:-1 tvg-id="318343" tvg-name="ESPN 3 • México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes", ESPN 3 • México
 http://clubtv.link/1005my/phpcode/lista0.php?c=39&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
-#EXTINF:-1 tvg-id="318342" tvg-name="ESPN 2 • México" tvg-logo="" group-title="Deportes", ESPN 2 • México
+#EXTINF:-1 tvg-id="318342" tvg-name="ESPN 2 • México" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMkr2RzuQwTckHKkKyRG6lJD-RyjurAfRqxQ&s" group-title="Deportes", ESPN 2 • México
 http://clubtv.link/1005my/phpcode/lista0.php?c=40&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
-#EXTINF:-1 tvg-id="318341" tvg-name="ESPN 1 • México" tvg-logo="" group-title="Deportes", ESPN 1 • México
+#EXTINF:-1 tvg-id="318341" tvg-name="ESPN 1 • México" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPloc1JEBHcAbAwueDD-wwAoQFp_Tsxmfq9g&s" group-title="Deportes", ESPN 1 • México
 http://clubtv.link/1005my/phpcode/lista0.php?c=41&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318540" tvg-name="Palestine TV" tvg-logo="https://cdn.m3u.cl/logo/1512_Palestine_TV.png" group-title="PALESTINA", Palestine TV
 https://pbc.furrera.ps/palestinehd/index.m3u8?PlaylistM3UCL&PlaylistM3UCL
@@ -215,7 +225,7 @@ http://monstertv.site:8080/wjhughes/v8ehcdzrsHd3/1000526?PlaylistM3UCL
 http://monstertv.site:8080/wjhughes/v8ehcdzrsHd3/1003180?PlaylistM3UCL
 #EXTINF:-1 tvg-id="316990" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="ESTADOS UNIDOS", MTV
 https://fl5.moveonjoy.com/MTV_2/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="319411" tvg-name="FXX" tvg-logo="https://www.google.cl/url?sa=i&url=https%3A%2F%2Fes.m.wikipedia.org%2Fwiki%2FArchivo%3AFXX_Logo.svg&psig=AOvVaw2Nl9sFo_BChtVYg8bK64ee&ust=1746584393418000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiyzIvkjY0DFQAAAAAdAAAAABAE" group-title="ESTADOS UNIDOS", FXX
+#EXTINF:-1 tvg-id="319411" tvg-name="FXX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/FXX_Logo.svg" group-title="ESTADOS UNIDOS", FXX
 http://monstertv.site:8080/wjhughes/v8ehcdzrsHd3/999399?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318023" tvg-name="Comedy Central (US)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMj49OK_7OIRyOtU4EPJ_tVxyNmmAARDFMqA&s" group-title="ESTADOS UNIDOS", Comedy Central (US)
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8?PlaylistM3UCL
@@ -235,19 +245,19 @@ https://amg01542-foxweatherllc-foxweather-xumo-ve91o.amagi.tv/playlist.m3u8?Play
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318026" tvg-name="Bloomberg TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmITD-lgTwN7sjF4EoXeKMF_1NrLhZBcilag&s" group-title="ESTADOS UNIDOS", Bloomberg TV
 http://monstertv.site:8080/wjhughes/v8ehcdzrsHd3/999755?PlaylistM3UCL
-#EXTINF:-1 tvg-id="319670" tvg-name="Sky Sports F1 " tvg-logo="" group-title="Reino Unido (UK)", Sky Sports F1 
+#EXTINF:-1 tvg-id="319670" tvg-name="Sky Sports F1 " tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kiEuPmeOVl-LKB42k9s2crSFOWaV8mLleSufLg1teuM20=s900-c-k-c0x00ffffff-no-rj" group-title="Reino Unido (UK)", Sky Sports F1 
 http://tv14s.xyz:8080/71700855/71700855/53704?PlaylistM3UCL
-#EXTINF:-1 tvg-id="319668" tvg-name="History Channel (UK)" tvg-logo="" group-title="Reino Unido (UK)", History Channel (UK)
+#EXTINF:-1 tvg-id="319668" tvg-name="History Channel (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/History_%282021%29.svg" group-title="Reino Unido (UK)", History Channel (UK)
 http://tv14s.xyz:8080/71700855/71700855/53686?PlaylistM3UCL
-#EXTINF:-1 tvg-id="319671" tvg-name="TLC (Reino Unido)" tvg-logo="" group-title="Reino Unido (UK)", TLC (Reino Unido)
+#EXTINF:-1 tvg-id="319671" tvg-name="TLC (Reino Unido)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="Reino Unido (UK)", TLC (Reino Unido)
 http://tv14s.xyz:8080/71700855/71700855/53681?PlaylistM3UCL
-#EXTINF:-1 tvg-id="319667" tvg-name="Discovery Channel (Reino Unido)" tvg-logo="" group-title="Reino Unido (UK)", Discovery Channel (Reino Unido)
+#EXTINF:-1 tvg-id="319667" tvg-name="Discovery Channel (Reino Unido)" tvg-logo="https://yt3.googleusercontent.com/fUU0ZIkqRoDbsSYiSFomiywGa2SOjbh1HxoACHa3nthh0XyCtyNNg_OAlxaD6k1QXr7Y1A-F=s900-c-k-c0x00ffffff-no-rj" group-title="Reino Unido (UK)", Discovery Channel (Reino Unido)
 http://tv14s.xyz:8080/71700855/71700855/53684?PlaylistM3UCL
-#EXTINF:-1 tvg-id="319669" tvg-name="Channel 4 " tvg-logo="" group-title="Reino Unido (UK)", Channel 4 
+#EXTINF:-1 tvg-id="319669" tvg-name="Channel 4 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Channel_4_Logo_2023.svg/1200px-Channel_4_Logo_2023.svg.png" group-title="Reino Unido (UK)", Channel 4 
 http://tv14s.xyz:8080/71700855/71700855/99138?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319681" tvg-name="CBeebies" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-cbeebies-uk.png" group-title="Reino Unido (UK)", CBeebies
 http://pro.ipcover.lol:8080/6164819/7361615/414608?PlaylistM3UCL
-#EXTINF:-1 tvg-id="319479" tvg-name="Channel 5 " tvg-logo="" group-title="Reino Unido (UK)", Channel 5 
+#EXTINF:-1 tvg-id="319479" tvg-name="Channel 5 " tvg-logo="https://yt3.googleusercontent.com/enXyzvFyiw9Xy2xeVcbN6YYG26CP-CbZSUDd5dJ9aPkaIvE4J5I8dH3ttNhSn_cv7H73AfYG=s900-c-k-c0x00ffffff-no-rj" group-title="Reino Unido (UK)", Channel 5 
 http://tv14s.xyz:8080/71700855/71700855/53653?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319456" tvg-name="Cartoon Network (Reino Unido)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest?cb=20210726224754" group-title="Reino Unido (UK)", Cartoon Network (Reino Unido)
 http://tv14s.xyz:8080/71700855/71700855/53719?PlaylistM3UCL
@@ -445,6 +455,8 @@ https://unlimited3-cl.dps.live/beethovenfm/gotardis/audio/now/livestream1.m3u8?P
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319812" tvg-name="Radio Disney " tvg-logo="https://cdn.onlineradiobox.com/img/l/0/62400.v17.png" group-title="Radio Tv Chile", Radio Disney 
 https://mdstrm.com/audio/67fe714d82a1ac0e129ae3cc/live.m3u8?dist=web-radiodisney&PlaylistM3UCL
+#EXTINF:-1 tvg-id="320038" tvg-name="Radio Usach" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/3543.v16.png" group-title="Radio Tv Chile", Radio Usach
+https://stv4.janus.cl/playlist/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319846" tvg-name="Rock & Pop" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/2920.v8.png" group-title="Radio Tv Chile", Rock & Pop
 https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_AND_POPAAC.aac?dist=onlineradiobox&PlaylistM3UCL
 #EXTINF:-1 tvg-id="310048" tvg-name="Cooperativa" tvg-logo="https://cdn.m3u.cl/logo/422_Cooperativa.png" group-title="Radio Tv Chile", Cooperativa
