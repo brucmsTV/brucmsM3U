@@ -1,8 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/Public/guia-de-programacion.xml" tv-test="bruno2255.m3u"
 #EXTINF:-1 tvg-name="+ Listas en M3U.CL" tvg-logo="https://www.m3u.cl/logo/156___Listas_en_M3U_CL.png", + Listas en M3U.CL * | CL
 https://videostreaming.cloudserverlatam.com:443/htbbgdnudk/htbbgdnudk/playlist.m3u8
-#EXTINF:-1 tvg-id="320043" tvg-name="Mega (ES)" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2021/04/12/7DC7BFBE-A48A-4898-BCEE-166C6812F73F//720x540.jpg" group-title="ESPAÑA", Mega (ES)
-http://185.189.225.150:85/mega/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320030" tvg-name="Queen - En Vivo (Live Aid 13/07/1985)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGl6DWBAoywLONuLEoFxa2xY7Q1UuAnbwFRQ&s" group-title="Conciertos", Queen - En Vivo (Live Aid 13/07/1985)
 https://app.viloud.tv/hls/channel/6f0e1827a79303a4aa9d44425790b857.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320029" tvg-name="Los Prisioneros - En Vivo (Estadio Chile 1986)" tvg-logo="https://www.futuro.cl/wp-content/uploads/2022/09/los-prisioneros-1986-metro-web.jpg" group-title="Conciertos", Los Prisioneros - En Vivo (Estadio Chile 1986)
@@ -15,10 +13,10 @@ http://pro.ipcover.lol:8080/movie/6164819/7361615/142183.mkv?PlaylistM3UCL
 http://pro.ipcover.lol:8080/movie/6164819/7361615/106503.mkv?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320025" tvg-name="AC/DC - En Vivo en el River Plate (Argentina - 2009)" tvg-logo="https://http2.mlstatic.com/D_Q_NP_833925-MLA79774422525_102024-O.webp" group-title="Conciertos", AC/DC - En Vivo en el River Plate (Argentina - 2009)
 http://pro.ipcover.lol:8080/movie/6164819/7361615/181907.mkv?PlaylistM3UCL
-#EXTINF:-1 tvg-id="320042" tvg-name="Vevo Retro Rock" tvg-logo="https://i.imgur.com/H1Aap4E.png" group-title="Musica", Vevo Retro Rock
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce917-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5b34f49b-bb11-47dd-b65b-7c5074a9925c&PlaylistM3UCL
 #EXTINF:-1 tvg-id="320031" tvg-name="Los Bunkers - En Vivo (Festival de Viña 2024)" tvg-logo="https://todobunkers.cl/wp-content/uploads/2023/10/bunkers_vimna-1024x1024.webp" group-title="Conciertos", Los Bunkers - En Vivo (Festival de Viña 2024)
 https://app.viloud.tv/hls/channel/0896759398ad34721f5fcb4ababd63ee.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="320042" tvg-name="Vevo Retro Rock" tvg-logo="https://i.imgur.com/H1Aap4E.png" group-title="Musica", Vevo Retro Rock
+http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce917-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5b34f49b-bb11-47dd-b65b-7c5074a9925c&PlaylistM3UCL
 #EXTINF:-1 tvg-id="320041" tvg-name="Vevo Latino" tvg-logo="https://i.imgur.com/D7SwmuB.png" group-title="Musica", Vevo Latino
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce911-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a7c08002-33dc-40eb-8b3c-28a20a838cdb&PlaylistM3UCL
 #EXTINF:-1 tvg-id="320040" tvg-name="Vevo 1970s" tvg-logo="https://images.pluto.tv/channels/5f32f26bcd8aea00071240e5/featuredImage.jpg" group-title="Musica", Vevo 1970s
@@ -321,6 +319,12 @@ https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8?P
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="316950" tvg-name="Telesafor" tvg-logo="https://i.imgur.com/PrhB3SI.jpg" group-title="ESPAÑA", Telesafor
 http://video.telesafor.com/hls/video_high.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="320044" tvg-name="BabyTV (ES)" tvg-logo="https://i.imgur.com/4BDJ5FT.png" group-title="ESPAÑA", BabyTV (ES)
+http://185.189.225.150:85/BabyTV/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="320043" tvg-name="Mega (ES)" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2021/04/12/7DC7BFBE-A48A-4898-BCEE-166C6812F73F//720x540.jpg" group-title="ESPAÑA", Mega (ES)
+http://185.189.225.150:85/mega/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="320045" tvg-name="Nova" tvg-logo="https://i.imgur.com/Vx1F4o5.png" group-title="ESPAÑA", Nova
+http://185.189.225.150:85/nova/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319680" tvg-name="Antena 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6dtC1BvPcFHYtA9Z3EtmZffEYR8RSs1Xq-w&s" group-title="ESPAÑA", Antena 3
 http://monstertv.site:8080/wjhughes/v8ehcdzrsHd3/1017825?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310455" tvg-name="TVE 24h" tvg-logo="https://cdn.m3u.cl/logo/598_TVE_24H.png" group-title="ESPAÑA", TVE 24h
