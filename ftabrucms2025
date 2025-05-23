@@ -1,7 +1,15 @@
 #EXTINF:-1 tvg-id="309980" tvg-name="La Red HD" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png" group-title="Chile", La Red HD
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="309982" tvg-name="TV+ HD" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png" group-title="Chile", TV+ HD
-http://pro.ipcover.lol:8080/6164819/7361615/311697?PlaylistM3UCL
+http://38.7.204.232:8010/play/a2p6/index.m3u8
+#EXTINF:-1 tvg-id="452" tvg-name="TVN SD" tvg-logo="https://cdn.m3u.cl/logo/452_TVN.png", TVN SD
+http://tv14s.xyz:8080/71700855/71700855/164888
+#EXTINF:-1 tvg-id="455" tvg-name="Mega HD" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png", Mega HD
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1153" tvg-name="CHV SD" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", CHV SD
+http://tv14s.xyz:8080/71700855/71700855/164884
+#EXTINF:-1 tvg-id="457" tvg-name="Canal 13 SD" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png", Canal 13 SD
+http://tv14s.xyz:8080/71700855/71700855/164885
 #EXTINF:-1 tvg-id="309997" tvg-name="SANTIAGO TV" tvg-logo="https://cdn.m3u.cl/logo/53_STGO_TV.png" group-title="Chile", SANTIAGO TV
 https://stv4.janus.cl/playlist/stream.m3u8?s=lq&t=&id=luflljxo&q=&d=w&PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="310179" tvg-name="Carolina TV" tvg-logo="https://cdn.m3u.cl/logo/27_Carolina_TV.png" group-title="Radio Tv Chile", Carolina TV
@@ -19,10 +27,8 @@ http://tv1.tvendirect.online:8080/vNqwkr3j9MwP/FPUcMVXz4rSk1/311903?PlaylistM3UC
 #EXTINF:-1 tvg-id="310451" tvg-name="SEÑAL COLOMBIA" tvg-logo="https://cdn.m3u.cl/logo/128_Senal_Colombia.png" group-title="Colombia", SEÑAL COLOMBIA
 http://tv14s.xyz:8080/71700855/71700855/78711?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318546" tvg-name="Disney" tvg-logo="" group-title="Infantil", Disney
-http://clubtv.link/1005my/phpcode/lista0.php?c=44&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
+http://clubtv.link/may1705/phpcode/lista0.php?c=44&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 tvg-id="319066" tvg-name="Star" tvg-logo="" group-title="Premium", Star
-http://clubtv.link/1005my/phpcode/lista0.php?c=37&token=Tecnoplus11&f=.m3u8&PlaylistM3UCL
+http://clubtv.link/may1705/phpcode/lista0.php?c=37&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 tvg-id="318719" tvg-name="EWW Bruno" tvg-logo="https://i.imgur.com/Xi2IfT2.jpeg" group-title="XXX", EWW Bruno
 https://app.viloud.tv/hls/channel/41acea9f176a8283ef76fabb6f2d90a6.m3u8?PlaylistM3UCL
-
-
