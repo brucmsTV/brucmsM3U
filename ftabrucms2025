@@ -32,3 +32,5 @@ http://clubtv.link/my2505/phpcode/lista0.php?c=44&token=Tecnoplus11&f=.m3u8
 http://clubtv.link/my2505/phpcode/lista1.php?c=a03r&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 tvg-id="318719" tvg-name="EWW Bruno" tvg-logo="https://i.imgur.com/Xi2IfT2.jpeg" group-title="XXX", EWW Bruno
 https://app.viloud.tv/hls/channel/41acea9f176a8283ef76fabb6f2d90a6.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="318719" tvg-name="EWW TV" tvg-logo="https://i.imgur.com/Xi2IfT2.jpeg" group-title="EWW", EWW TV
+https://live.adultiptv.net/bigdick.m3u8?PlaylistM3UCL
