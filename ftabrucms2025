@@ -6,7 +6,7 @@ http://38.7.204.232:8010/play/a2p6/index.m3u8
 http://tv14s.xyz:8080/71700855/71700855/164888
 #EXTINF:-1 tvg-id="455" tvg-name="Mega HD" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png", Mega HD
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1153" tvg-name="CHV SD" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png", CHV SD
+#EXTINF:-1 tvg-id="1153" tvg-name="CHV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Emblema_de_Chilevisi%C3%B3n.png", CHV SD
 http://tv14s.xyz:8080/71700855/71700855/164884
 #EXTINF:-1 tvg-id="457" tvg-name="Canal 13 SD" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png", Canal 13 SD
 http://tv14s.xyz:8080/71700855/71700855/164885
@@ -18,6 +18,8 @@ https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8?PlaylistM3
 https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319456" tvg-name="Cartoon Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest?cb=20210726224754" group-title="Reino Unido (UK)", Cartoon Network
 http://tv14s.xyz:8080/71700855/71700855/53719?PlaylistM3UCL
+#EXTINF:-1 tvg-id="319456" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Discovery_Kids_Logo_2021-Presente.webp" group-title="Infantil", Discovery Kids
+http://clubtv.link/my2505/phpcode/lista1.php?c=a02k&token=Tecnoplus11&f=.m3u8
 #EXTINF:-1 tvg-id="319458" tvg-name="FOX News" tvg-logo="" group-title="ESTADOS UNIDOS", FOX News 
 http://tv14s.xyz:8080/71700855/71700855/1818?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320082" tvg-name="Radio María" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/2896.v8.png" group-title="Radio Tv Chile", Radio María
