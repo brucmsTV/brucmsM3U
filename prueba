@@ -4,6 +4,8 @@ https://bond-v.zappingtv.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3ND
 http://200.59.188.3:8000/play/a05j
 #EXTINF:-1, C13 HD
 https://marine2.miplay.cl/c13/index.m3u8
+#EXTINF:-1, TVN HD
+https://marine2.miplay.cl/tvnchile/index.m3u8
 #EXTINF:-1, TV+ HD
 https://marine2.miplay.cl/tvmas/index.m3u8
 #EXTINF:-1, La Red HD
