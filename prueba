@@ -13,7 +13,7 @@ https://marine2.miplay.cl/24horas/index.m3u8
 #EXTINF:-1, TV+ HD
 https://marine2.miplay.cl/tvmas/index.m3u8
 #EXTINF:-1, TV+ 2
-https://rudo.video/public/dpsPlayer/8.20.0.n/live-jireh.js?v=20250528_V00&ch=tvmas
+https://storage.googleapis.com/testtopbox-public/video_content/bbb/master.m3u
 #EXTINF:-1, La Red HD
 https://marine2.miplay.cl/LARED/index.m3u8
 #EXTINF:-1, TVR
