@@ -10,4 +10,6 @@ https://marine2.miplay.cl/24horas/index.m3u8
 https://marine2.miplay.cl/tvmas/index.m3u8
 #EXTINF:-1, Chilevisión Contigo
 https://jmp2.uk/plu-62aa5740a47b6c000769f407.m3u8
+#EXTINF:-1, Clan (ES) 
+https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
 
