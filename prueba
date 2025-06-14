@@ -1,25 +1,13 @@
-#EXTINF:-1,Senpai TV
-https://bond-v.zappingtv.com/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NDkyNjE5MzEsImtleSI6IjBmYzYyOWEyMGMyOTc4ODM0MWFlZjg3MTlkYmFjMmM4OWFkMmRkNGY4NzU5ZGU0MzEzN2JlZTc0YTViYmVhYWEifQ.s0DORxtbF7qCJIS81lqP5qVcLnRdtN-QySIS378cM8Q/playlist.m3u8
 #EXTINF:-1,Claro Sports Chile
 http://200.59.188.3:8000/play/a05j
 #EXTINF:-1, T13
 https://marine2.miplay.cl/t13/index.m3u8
-#EXTINF:-1, C13 HD
-https://marine2.miplay.cl/c13/index.m3u8
-#EXTINF:-1, TVN HD
+#EXTINF:-1, TVN HD (NO FUNCIONANDO)
 https://marine2.miplay.cl/tvnchile/index.m3u8
 #EXTINF:-1, Canal 24 Horas HD
 https://marine2.miplay.cl/24horas/index.m3u8
 #EXTINF:-1, TV+ HD
 https://marine2.miplay.cl/tvmas/index.m3u8
-#EXTINF:-1, TV+ 2
-https://storage.googleapis.com/testtopbox-public/video_content/bbb/master.m3u
-#EXTINF:-1, La Red HD
-https://marine2.miplay.cl/LARED/index.m3u8
-#EXTINF:-1, TVR
-https://marine2.miplay.cl/tvr/index.m3u8
-#EXTINF:-1, BioBio TV
-https://marine2.miplay.cl/biobiotv/index.m3u8
 #EXTINF:-1, Chilevisión Contigo
 https://jmp2.uk/plu-62aa5740a47b6c000769f407.m3u8
 
