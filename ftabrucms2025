@@ -2,18 +2,34 @@
 https://unlimited1-cl-isp.dps.live/lared/lared.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="309982" tvg-name="TV+ HD" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png" group-title="Chile", TV+ HD
 http://38.7.204.232:8010/play/a2p6/index.m3u8
-#EXTINF:-1 tvg-id="452" tvg-name="TVN HD" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png", TVN HD
+#EXTINF:-1 tvg-id="452" tvg-name="TVN HD" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png" group-title="Chile", TVN HD
 http://tv14s.xyz:8080/71700855/71700855/164888
-#EXTINF:-1 tvg-id="455" tvg-name="Mega HD" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png", Mega HD
+#EXTINF:-1 tvg-id="455" tvg-name="Mega HD" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="Chile", Mega HD
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1153" tvg-name="CHV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Emblema_de_Chilevisi%C3%B3n.png", CHV SD
+#EXTINF:-1 tvg-id="320324" tvg-name="Mega 2" tvg-logo="https://cdn-w.tvdaldia.cl/logos/cartelera-tv/mega2.png" group-title="Chile", Mega 2
+http://tvpremiund.ddns.me:2082/a778822/a669988/56930?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1153" tvg-name="CHV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Emblema_de_Chilevisi%C3%B3n.png" group-title="Chile", CHV SD
 http://tv14s.xyz:8080/71700855/71700855/164884
-#EXTINF:-1 tvg-id="457" tvg-name="Canal 13 SD" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png", Canal 13 SD
+#EXTINF:-1 tvg-id="457" tvg-name="Canal 13 SD" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png" group-title="Chile", Canal 13 SD
 http://tv14s.xyz:8080/71700855/71700855/164885
 #EXTINF:-1 tvg-id="309991" tvg-name="TVR" tvg-logo="https://cdn.m3u.cl/logo/77_TVR.png" group-title="Regionales", TVR
 https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321572" tvg-name="REC TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/13rec_2025.svg/revision/latest/scale-to-width-down/200?cb=20250416192151" group-title="Chile (RESPALDOS)", 13 Rec (Respaldo)
 https://marine2.miplay.cl/rec/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="320327" tvg-name="Via X" tvg-logo="https://pbs.twimg.com/profile_images/1635423578651852802/dwa1KZ_o_400x400.jpg" group-title="Chile", Via X
+http://tvpremiund.ddns.me:2082/a778822/a669988/56929?PlaylistM3UCL
+#EXTINF:-1 tvg-id="320746" tvg-name="Via X Esports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIQ2coqUc8z6ox1MvjhM76lLrOZTpntkXKQA&s" group-title="Chile", Via X Esports
+http://38.7.204.232:8010/play/a2me/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="319029" tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/1200px-CNN_Chile_logo_2017.svg.png" group-title="Chile", CNN Chile
+http://1tv41.icu:8080/4KCwCN/506843/164892?PlaylistM3UCL
+#EXTINF:-1 tvg-id="320795" tvg-name="ETC TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT8kibM-TVeyf1fsAOmBF8QwI0nXzqd9NFGQ&s" group-title="Chile", ETC TV
+http://45.181.122.46:8090/play/a00t?PlaylistM3UCL
+#EXTINF:-1 tvg-id="318033" tvg-name="Zona Latina" tvg-logo="https://yt3.googleusercontent.com/C-QlHq6oLPiaP2JMbpgVrC6X2kEgbk_sEqm91YR7YLrT2c9X8nc7h25QF-ES-N59U2aPEj-R=s900-c-k-c0x00ffffff-no-rj" group-title="Chile", Zona Latina
+http://38.7.204.232:8010/play/a2gm/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="320802" tvg-name="CDO 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSW-nHiuPgUl3CjyD-3n8zkPtUf0R4JdFH4oA&s" group-title="Deportes", CDO 2
+http://tvpremiund.ddns.me:2082/a778822/a669988/9399?PlaylistM3UCL
+#EXTINF:-1 tvg-id="321694" tvg-name="TNT Sports • Chile" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU1xPXLYb8ydng1WIFCZtoN7tlAeqpYeicjw&s" group-title="Deportes", TNT Sports • Chile
+http://tvpremiund.ddns.me:2082/a778822/a669988/57161?PlaylistM3UCL
 #EXTINF:-1 tvg-id="309997" tvg-name="SANTIAGO TV" tvg-logo="https://cdn.m3u.cl/logo/53_STGO_TV.png" group-title="Chile", SANTIAGO TV
 https://stv4.janus.cl/playlist/stream.m3u8?s=lq&t=&id=luflljxo&q=&d=w&PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="310179" tvg-name="Carolina TV" tvg-logo="https://cdn.m3u.cl/logo/27_Carolina_TV.png" group-title="Radio Tv Chile", Carolina TV
@@ -22,8 +38,6 @@ https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8?PlaylistM3
 https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319456" tvg-name="Cartoon Network" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest?cb=20210726224754" group-title="Reino Unido (UK)", Cartoon Network
 http://tv14s.xyz:8080/71700855/71700855/53719?PlaylistM3UCL
-#EXTINF:-1 tvg-id="319456" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Discovery_Kids_Logo_2021-Presente.webp" group-title="Infantil", Discovery Kids
-http://clubtv.link/jun01/phpcode/lista0.php?c=45&token=TecnoplusJunio03&f=.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319458" tvg-name="FOX News" tvg-logo="" group-title="ESTADOS UNIDOS", FOX News 
 http://tv14s.xyz:8080/71700855/71700855/1818?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320082" tvg-name="Radio María" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/2896.v8.png" group-title="Radio Tv Chile", Radio María
