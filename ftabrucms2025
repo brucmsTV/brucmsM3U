@@ -54,3 +54,5 @@ http://38.7.204.232:8010/play/a2p4/index.m3u8?PlaylistM3UCL
 https://app.viloud.tv/hls/channel/41acea9f176a8283ef76fabb6f2d90a6.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318719" tvg-name="EWW TV" tvg-logo="https://i.imgur.com/Xi2IfT2.jpeg" group-title="EWW", EWW TV
 https://live.adultiptv.net/bigdick.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="457" tvg-name="Canal 13 (Compatible WP)" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png" group-title="Chile", Canal 13 (Compatible WP)
+https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/dedeccf2-6715-478e-a583-4261f39df3ac:SCL/master.m3u8
