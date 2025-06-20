@@ -2,8 +2,6 @@
 http://200.59.188.3:8000/play/a05j
 #EXTINF:-1, T13
 https://marine2.miplay.cl/t13/index.m3u8
-#EXTINF:-1, TVN HD (NO FUNCIONANDO)
-https://marine2.miplay.cl/tvnchile/index.m3u8
 #EXTINF:-1, Canal 24 Horas HD
 https://marine2.miplay.cl/24horas/index.m3u8
 #EXTINF:-1, TV+ HD
@@ -16,3 +14,5 @@ https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://185.189.225.150:85/comedycentral/index.m3u8
 #EXTINF:-1, ETC TV
 http://45.181.122.46:8090/play/a00t
+#EXTINF:-1, La Red
+https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
