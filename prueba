@@ -16,3 +16,5 @@ http://185.189.225.150:85/comedycentral/index.m3u8
 http://45.181.122.46:8090/play/a00t
 #EXTINF:-1, La Red
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1, TV Más HD
+https://rudo.video/public/dpsPlayer/8.20.0.n/live-jireh.js?v=20250528_V00&ch=tvmas
