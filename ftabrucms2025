@@ -62,3 +62,5 @@ http://38.211.242.128:8001/play/a09s/index.m3u8
 http://38.211.242.128:8001/play/a05g/index.m3u8 
 #EXTINF:-1,DSPORTS + 
 http://38.211.242.128:8001/play/a05h/index.m3u8
+#EXTINF:-1, BEFDYT TV HD
+https://api.m3use.projectmoose.xyz/m3u/BrunoFlores2525/BRUCMS/6854da0adeeec70abb6b1379.m3u8?uid=BrunoFlores2525&pkey=mD4nA73p
