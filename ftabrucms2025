@@ -56,3 +56,9 @@ https://app.viloud.tv/hls/channel/41acea9f176a8283ef76fabb6f2d90a6.m3u8?Playlist
 https://live.adultiptv.net/bigdick.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="457" tvg-name="Canal 13 (Compatible WP)" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png" group-title="Chile", Canal 13 (Compatible WP)
 https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/dedeccf2-6715-478e-a583-4261f39df3ac:SCL/master.m3u8
+#EXTINF:-1,DSPORTS 1 
+http://38.211.242.128:8001/play/a09s/index.m3u8 
+#EXTINF:-1,DSPORTS 2 
+http://38.211.242.128:8001/play/a05g/index.m3u8 
+#EXTINF:-1,DSPORTS + 
+http://38.211.242.128:8001/play/a05h/index.m3u8
