@@ -26,3 +26,5 @@ https://api.m3use.projectmoose.xyz/m3u/BrunoFlores2525/BRUCMS/6854da0adeeec70abb
 https://mdstrm.com/live-stream-playlist/63ee47e1daeeb80a30d98ef4.m3u8
 #EXTINF:-1, Megatiempo
 https://mdstrm.com/live-stream-playlist/56f97fc0b9bb39786b04a3b0.m3u8
+#EXTINF:-1, Canal 13
+https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/a09f0642-516e-40a8-af7b-226ad5e26cec:SCL/variant/ed68044fabc13545b407e1c2beeee886/bandwidth/1623600.m3u8
