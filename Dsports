@@ -1,6 +1,7 @@
-DSPORTS 1 
-38.211.242.128:8001/play/a09s/index.m3u8 
-DSPORTS 2 
-38.211.242.128:8001/play/a05g/index.m3u8 
-DSPORTS + 
-38.211.242.128:8001/play/a05h/index.m3u8
+#EXTM3U
+#EXTINF:-1,DSPORTS 1 
+http://38.211.242.128:8001/play/a09s/index.m3u8 
+#EXTINF:-1,DSPORTS 2 
+http://38.211.242.128:8001/play/a05g/index.m3u8 
+#EXTINF:-1,DSPORTS + 
+http://38.211.242.128:8001/play/a05h/index.m3u8
