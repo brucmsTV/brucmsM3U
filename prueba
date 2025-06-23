@@ -30,4 +30,6 @@ https://mdstrm.com/live-stream-playlist/56f97fc0b9bb39786b04a3b0.m3u8
 https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/a09f0642-516e-40a8-af7b-226ad5e26cec:SCL/variant/ed68044fabc13545b407e1c2beeee886/bandwidth/1623600.m3u8
 #EXTINF:-1, Comedy Central UK
 http://mu3241218.oknirvana.club:8880/D12m4714/96067027/2928
+#EXTINF:-1, Telehit Música
+https://45.68.35.218:4001/play/a00p/index.m3u8
 
