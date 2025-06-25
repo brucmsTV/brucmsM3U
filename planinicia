@@ -125,6 +125,8 @@ http://1tv41.icu:8080/4KCwCN/506843/104884?PlaylistM3UCL
 http://38.180.133.31:8000/play/a0yi/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320011" tvg-name="Claro Sports • América Latina" tvg-logo="https://yt3.googleusercontent.com/h88IKJCItR4KafxYzqfMphDkLzXdREH24qDrW-CzFMedCCjBl4D2baR3xWF48tOkNltM6MM9hA=s900-c-k-c0x00ffffff-no-rj" group-title="Deportes", Claro Sports • América Latina
 http://200.59.188.3:8000/play/a05j?PlaylistM3UCL
+#EXTINF:-1 tvg-id="318703" tvg-name="Cine Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Cine_Latino_logo.svg" group-title="Premium", Cine Latino
+http://45.184.87.142:8000/play/a05c?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321179" tvg-name="Eurochannel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Qppj0AtJDCzjcBYlOY5nWD9RR2Kpx_9Zxg&s" group-title="Premium", Eurochannel
 http://190.217.80.250:8888/play/a02w/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321302" tvg-name="UCL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJxcOYW5-997o8SQEKUgM4r3tqHvfkrjvBbA&s" group-title="Premium", UCL TV
@@ -280,7 +282,7 @@ http://181.188.216.5:18000/play/a0h5/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318349" tvg-name="Golden Premier" tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg" group-title="Premium", Golden Premier
 http://clubtv.link/ju0614/phpcode/lista0.php?c=25&token=TecnoplusJunio03&f=.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318348" tvg-name="Golden Plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Golden_Plus_2017.png/revision/latest?cb=20191215194002&path-prefix=es" group-title="Premium", Golden Plus
-http://38.7.204.232:8010/play/a2co/index.m3u8?PlaylistM3UCL
+http://45.184.87.142:8000/play/a037?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318347" tvg-name="Discovery Home and Health • Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="Premium", Discovery Home and Health • Sur
 http://181.188.216.5:18000/play/a00w/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321306" tvg-name="TLC • Latinoamérica" tvg-logo="https://yt3.googleusercontent.com/RzWGuPEoU86dJsKmz2cMtOlqh9VS9Uy_T1rm6YS8Jt01qnDKSVdduBlQj0tsP-zQ0F7429fEpQ=s900-c-k-c0x00ffffff-no-rj" group-title="Premium", TLC • Latinoamérica
@@ -335,28 +337,16 @@ http://tv14s.xyz:8080/71700855/71700855/9308?PlaylistM3UCL
 http://tv14s.xyz:8080/71700855/71700855/9818?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318023" tvg-name="Comedy Central (US)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMj49OK_7OIRyOtU4EPJ_tVxyNmmAARDFMqA&s" group-title="ESTADOS UNIDOS", Comedy Central (US)
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="320810" tvg-name="Barney 24/7" tvg-logo="https://i.ytimg.com/vi/N_ZSjd-z5ok/maxresdefault.jpg" group-title="series", Barney 24/7
-http://tvpremiund.ddns.me:2082/a778822/a669988/30968?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321120" tvg-name="Baby Shark 24/7" tvg-logo="https://static.bandainamcoent.eu/high/baby-shark/baby-shark-sing-and-swim-party/00-page-product/BSSP-header-mobile.jpg" group-title="series", Baby Shark 24/7
-http://tvpremiund.ddns.me:2082/a778822/a669988/49660?PlaylistM3UCL
-#EXTINF:-1 tvg-id="321121" tvg-name="Bob Esponja 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8eFeGKi1WiuRLvSyfyYTTTHhpwmRZYQjahQ&s" group-title="series", Bob Esponja 24/7
-http://tvpremiund.ddns.me:2082/a778822/a669988/7094?PlaylistM3UCL
-#EXTINF:-1 tvg-id="320809" tvg-name="El Chavo del 8 24/7" tvg-logo="https://m.media-amazon.com/images/M/MV5BNmRkZmIxMmYtMjY5Ny00MzA3LWI1MmYtZDg3MjBhZDFlZTY5XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg" group-title="series", El Chavo del 8 24/7
-http://tvpremiund.ddns.me:2082/a778822/a669988/3614?PlaylistM3UCL
+https://api.m3use.projectmoose.xyz/m3u/BrunoFlores2525/BRUCMS/685c58e2831e8c34d57a9134.m3u8?uid=BrunoFlores2525&pkey=mD4nA73p&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321307" tvg-name="GokuTV" tvg-logo="" group-title="series", GokuTV
 http://38.7.204.232:8010/play/a2by/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321196" tvg-name="El Chavo del 8 24/7 - YouTube" tvg-logo="https://img.europapress.es/fotoweb/fotonoticia_20140711121225_1200.jpg" group-title="YouTube (Solo Disponible en VLC o IPTV)", El Chavo del 8 24/7 - YouTube
 https://www.youtube.com/watch?v=hct5qjC_n9M&PlaylistM3UCL
-#EXTINF:-1 tvg-id="320335" tvg-name="Los Simpson 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="series", Los Simpson 24/7
-http://tvpremiund.ddns.me:2082/a778822/a669988/31721?PlaylistM3UCL
-#EXTINF:-1 tvg-id="321243" tvg-name="Masha y el Oso (24/7) - YouTube" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiNZDj3aq6QbAjOtyxumQ-N9N5Raa--oUuVw&s" group-title="YouTube (Solo Disponible en VLC o IPTV)", Masha y el Oso (24/7) - YouTube
-https://www.youtube.com/live/ezUxQwz7Vl4?si=10APcb8fCiPpQ-Xs&PlaylistM3UCL
-#EXTINF:-1 tvg-id="321227" tvg-name="Peppa Pig 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Peppa_Pig_logo.svg/800px-Peppa_Pig_logo.svg.png" group-title="YouTube (Solo Disponible en VLC o IPTV)", Peppa Pig 24/7
-https://www.youtube.com/live/EhY4CuZxTTE?si=QA-O_gES9xA50z2N&PlaylistM3UCL
+#EXTINF:-1 tvg-id="321227" tvg-name="Peppa Pig 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Peppa_Pig_logo.svg/800px-Peppa_Pig_logo.svg.png" group-title="series", Peppa Pig 24/7
+https://api.m3use.projectmoose.xyz/m3u/BrunoFlores2525/BRUCMS/685c56bd641707f58eb40522.m3u8?uid=BrunoFlores2525&pkey=mD4nA73p&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321228" tvg-name="Pocoyó 24/7 - YouTube" tvg-logo="https://es.web.img3.acsta.net/pictures/14/07/11/13/29/214878.jpg" group-title="YouTube (Solo Disponible en VLC o IPTV)", Pocoyó 24/7 - YouTube
 https://www.youtube.com/live/YpIbV5jEBb0?si=MmTj2boQWUlxW7sA&PlaylistM3UCL
-#EXTINF:-1 tvg-id="321176" tvg-name="The Thundercats 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwOzJjHe-pDiCivkCbVLtg0yc1sA6IDP3cLA&s" group-title="series", The Thundercats 24/7
-http://tvpremiund.ddns.me:2082/a778822/a669988/48793?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321244" tvg-name="The Amazing World of Gumball (Inglés - 24/7) - YouTube" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/8/80/El_Increible_Mundo_de_Gumball.jpg/revision/latest?cb=20220312182759&path-prefix=es" group-title="YouTube (Solo Disponible en VLC o IPTV)", The Amazing World of Gumball (Inglés - 24/7) - YouTube
 https://www.youtube.com/live/nIyaCRNwxhU?si=vdXfYdjoAVS3fvAz&PlaylistM3UCL
 #EXTINF:-1 tvg-id="320751" tvg-name="Series 80s" tvg-logo="" group-title="series", Series 80s
@@ -645,19 +635,19 @@ https://radio.mediadev.cl/radio/8070/rtlcurico?PlaylistM3UCL
 https://stream.zeno.fm/c69kjwcpvfrvv?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319699" tvg-name="Radio Artesanía 100.5 FM" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/3485.v4.png" group-title="Radio Tv Chile", Radio Artesanía 100.5 FM
 http://200.24.229.253:8010/;?PlaylistM3UCL
-#EXTINF:-1 tvg-id="319853" tvg-name="Radio Caramelo 94.7 FM" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/88483.v11.png" group-title="Radio Tv Chile", Radio Caramelo 94.7 FM
+#EXTINF:-1 tvg-id="319853" tvg-name="Radio Caramelo 94.7 FM" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/88483.v11.png" group-title="Radios San Fernando - Chile", Radio Caramelo 94.7 FM
 https://audio4.tustreaming.cl/7330/stream?PlaylistM3UCL
-#EXTINF:-1 tvg-id="319688" tvg-name="RTL San Fernando 93.7 FM" tvg-logo="https://radiortl.cl/wp-content/uploads/2023/05/cropped-rtl-logo-cuadrado-300x300-1.jpg" group-title="Radio Tv Chile", RTL San Fernando 93.7 FM
+#EXTINF:-1 tvg-id="319688" tvg-name="RTL San Fernando 93.7 FM" tvg-logo="https://radiortl.cl/wp-content/uploads/2023/05/cropped-rtl-logo-cuadrado-300x300-1.jpg" group-title="Radios San Fernando - Chile", RTL San Fernando 93.7 FM
 https://radio.mediadev.cl/radio/8110/san_fernando?PlaylistM3UCL
-#EXTINF:-1 tvg-id="319852" tvg-name="Radio Punto9" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/62871.v15.png" group-title="Radio Tv Chile", Radio Punto9
+#EXTINF:-1 tvg-id="319852" tvg-name="Radio Punto9" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/62871.v15.png" group-title="Radios San Fernando - Chile", Radio Punto9
 https://stream.zeno.fm/t5jmgbldfruvv?PlaylistM3UCL
-#EXTINF:-1 tvg-id="321184" tvg-name="Radio Rancagua 99.5 FM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTURrkKYqT7-WuimWkndUosHn3-GRUNBntWlA&s" group-title="Radio Tv Chile", Radio Rancagua 99.5 FM
+#EXTINF:-1 tvg-id="321184" tvg-name="Radio Rancagua 99.5 FM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTURrkKYqT7-WuimWkndUosHn3-GRUNBntWlA&s" group-title="Radios Rancagua - Chile", Radio Rancagua 99.5 FM
 https://tv.arkeo.cl:1936/radiorancagua/radiorancagua/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321691" tvg-name="Radio Graneros TV" tvg-logo="https://cdn.m3u.cl/logo/1486_Radio_Graneros_TV.png" group-title="Radio Tv Chile", Radio Graneros TV
 https://stmv5.voxtvhd.com.br/radiogranerostv/radiogranerostv/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
-#EXTINF:-1 tvg-id="321185" tvg-name="Radio El Tipógrafo 98.9 FM" tvg-logo="https://assets.eltipografo.cl/img/logo.png" group-title="Radio Tv Chile", Radio El Tipógrafo 98.9 FM
+#EXTINF:-1 tvg-id="321185" tvg-name="Radio El Tipógrafo 98.9 FM" tvg-logo="https://assets.eltipografo.cl/img/logo.png" group-title="Radios Rancagua - Chile", Radio El Tipógrafo 98.9 FM
 https://audio.streaminghd.cl:2000/stream/tipografo-radio/stream?PlaylistM3UCL
-#EXTINF:-1 tvg-id="310053" tvg-name="Radio Fiessta" tvg-logo="https://cdn.m3u.cl/logo/401_Radio_Fiessta.png" group-title="Radio Tv Chile", Radio Fiessta
+#EXTINF:-1 tvg-id="310053" tvg-name="Radio Fiessta" tvg-logo="https://cdn.m3u.cl/logo/401_Radio_Fiessta.png" group-title="Radios Rancagua - Chile", Radio Fiessta
 https://www.cloudscriptdog.cl:19360/fiesta-video-01/fiesta-video-01.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319849" tvg-name="Sonar FM" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/2988.v8.png" group-title="Radio Tv Chile", Sonar FM
 https://mdstrm.com/audio/5c915724519bce27671c4d15/icecast.audio?property=radiobox&PlaylistM3UCL
@@ -737,8 +727,6 @@ https://stmv5.voxtvhd.com.br/nativatv/nativatv/playlist.m3u8?PlaylistM3UCL&Playl
 https://signal.suyaitv.cl/live/35/playlist.m3u8?username=ZZDemoM3uCL&password=JpunQr45z7&PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319859" tvg-name="La Nuestra TV" tvg-logo="https://cdn.m3u.cl/logo/1472_La_Nuestra.png" group-title="Musica", La Nuestra TV
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
-#EXTINF:-1 tvg-id="310183" tvg-name="VideoHit" tvg-logo="https://us-east-1.tixte.net/uploads/memilio-cdn.tixte.co/videohit_new_negro.png" group-title="Musica", VideoHit
-https://streaming-cl.sh1ny.space/memfs/c3185a20-390f-4fe7-b063-fe5c3236e7fd.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="320757" tvg-name="La Granja TV" tvg-logo="https://cdn.m3u.cl/logo/1001_La_Granja_TV.png" group-title="Chile", La Granja TV
 https://oracle.streaminghd.cl/8126/8126/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="310162" tvg-name="El 3 de Conce" tvg-logo="https://cdn.m3u.cl/logo/65_El_3_de_Conce.png" group-title="Chile", El 3 de Conce
@@ -822,7 +810,7 @@ https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8?PlaylistM
 #EXTINF:-1 tvg-id="309989" tvg-name="T13 En Vivo" tvg-logo="https://cdn.m3u.cl/logo/1054_T13.png" group-title="Noticias Chile", T13 En Vivo
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="316957" tvg-name="Canal 13 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Canal_13_2025.svg/revision/latest/scale-to-width-down/1000?cb=20250415161306" group-title="Chile", Canal 13 
-https://m3u.cl/channel/c13.php?PlaylistM3UCL&PlaylistM3UCL
+https://m3u.cl/channel/c13.php?PlaylistM3UCL&PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="320905" tvg-name="Chilevisión (Respaldo)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Emblema_de_Chilevisi%C3%B3n.png" group-title="Chile (RESPALDOS)", Chilevisión (Respaldo)
 http://tv14s.xyz:8080/71700855/71700855/164884?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322050" tvg-name="Chilevisión Contigo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Chvcontigoptv.png/revision/latest?cb=20231014035938&path-prefix=es" group-title="Chile", Chilevisión Contigo
@@ -849,8 +837,8 @@ https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL&Pl
 http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310002" tvg-name="NTV" tvg-logo="https://cdn.m3u.cl/logo/45_NTV.png" group-title="Chile", NTV
 https://panel.miplay.cl:8082/ntv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="321303" tvg-name="TVN (Respaldo 2)" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png" group-title="Chile (RESPALDOS)", TVN (Respaldo 2)
-https://mdstrm.com/live-stream-playlist/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="321303" tvg-name="TVN SD" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png" group-title="Chile (RESPALDOS)", TVN SD
+http://200.113.4.75:7210/play/a007/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318698" tvg-name="TVN" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png" group-title="Chile", TVN
 http://181.188.216.5:18000/play/a00u/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318541" tvg-name="UCV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/UCV_2_2014.png/revision/latest?cb=20190813044108&path-prefix=es" group-title="Chile", UCV 2
@@ -864,7 +852,7 @@ https://marine2.miplay.cl/tateti/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="309982" tvg-name="TV Más" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png" group-title="Chile", TV Más
 https://marine2.miplay.cl/tvmas/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="309980" tvg-name="La Red" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png" group-title="Chile", La Red
-https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8?PlaylistM3UCL
+https://alba-cl-lared-lared.stream.mediatiquestream.com/original.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319482" tvg-name="Telecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Telecanal_-_2011_logo_%283D_variant%29.png" group-title="Chile", Telecanal
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321170" tvg-name="M3U.cl TV" tvg-logo="https://play-lh.googleusercontent.com/puuSUeBe_IVC4n3M_-Pd6wM81715kgcVhvf5jsN5PI9C63EEEZ3qWBrPKCqX2utS_w" group-title="INFORMATIVO", M3U.cl TV
