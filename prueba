@@ -36,4 +36,10 @@ https://45.68.35.218:4001/play/a00p/index.m3u8
 https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8
 #EXTINF:-1, CAMARA DE SEGURIDAD
 http://192.168.1.98:4747/video?640x480
+#EXTINF:-1, Mega
+https://cl-a3-p-e-av11.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/TdvXGBreTYyJZiwX63BRIA/stream/e5ae28cc-11c5-4502-a374-de677144b99c:CHS/variant/4391a7b407903ed9bd54764f8d2a7cfd/bandwidth/1075800.m3u8?aid=53bc2bcae41e2d9c662e1ba7&uid=GKvKW5AMq4svRKJ73iObupDNVpILa58y&sid=6Vbrc6TwV4rCe3UXINegRpDXscejcW1n&pid=JnFOSub8ucMgD5pNsG0sPmCDMjTrI2a1&pid_dvr=7igpoceqz0cAlPVsP46AyFJs43PcLaL8&ref=https%3A%2F%2Fwww.mega.cl%2F&without_cookies=false&listenerid=&dnt=true&access_token=qftXHK61I0hiGLPwzScBNivJ2VWZGnqnFdTOnngXxasR7uSIWIBVUjzWmKDXm1foi8g3cpLDDRN&adInsertionGoogleStreamId=e5ae28cc-11c5-4502-a374-de677144b99c%3ACHS&es=cl-a3-p-e-av11.cdn.mdstrm.com&ote=1750906907650&ot=MBygqp3NYNpsk7fiUu1IMA&proto=https&pz=cl
+#EXTINF:-1, Meganoticias OPC1
+rtsp://edge-cl.edge.mdstrm.com:80/live-s/c7726799c6c30cecf3971e9d3b1966c3_144p
+#EXTINF:-1, Meganoticias
+https://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8
 
