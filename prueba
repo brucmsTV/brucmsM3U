@@ -30,5 +30,7 @@ http://192.168.1.98:4747/video?640x480
 https://vmf.edge-apps.net/embed/live.php?streamname=c7live01-20034&amp;autoplay=true
 #EXTINF:-1, El Nueve OPC1
 https://g5.mc-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
+#EXTINF:-1, prueba
+https://capo5play.com/capo.php?player=desktop&live=capodeportes
 
 
