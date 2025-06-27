@@ -32,5 +32,12 @@ https://vmf.edge-apps.net/embed/live.php?streamname=c7live01-20034&amp;autoplay=
 https://g5.mc-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
 #EXTINF:-1, prueba
 https://capo5play.com/capo.php?player=desktop&live=capodeportes
+#EXTINF:-1, CANAL 5 HD
+https://live2.saohgdasregions.fun:9091/2_/tracks-v1a1/mono.m3u8
+#EXTINF:-1, Las Estrellas Mexico
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_1.m3u8
+#EXTINF:-1, Ecuavisa
+https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
+
 
 
