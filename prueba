@@ -40,6 +40,8 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_1.m3u8
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 #EXTINF:-1, Teleamazonas
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8
+#EXTINF:-1, Canal 13 HD
+https://origin.dpsgo.com/ssai/event/bFL1IVq9RNGlWQaqgiFuNw/master.m3u8?auth-token=event=bFL1IVq9RNGlWQaqgiFuNw~exp=1751082369~hmac=5657740f3e14f452b48511a2d4ea8192015997d42d94ad874ef40b5b192f3866
 
 
 
