@@ -46,7 +46,12 @@ https://origin.dpsgo.com/ssai/event/bFL1IVq9RNGlWQaqgiFuNw/master.m3u8?auth-toke
 https://cl-a3-p-e-av11.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/v_bxtRiGT92YslxiOUyeVQ/stream/632a530e-f0d6-4e4b-a075-752c1c39eca2:MRN2/master.m3u8?aid=53bc2bcae41e2d9c662e1ba7&uid=GKvKW5AMq4svRKJ73iObupDNVpILa58y&sid=zExaTyh2dQ7qsWvz6yJSl5jL77nemUk0&pid=9YXcjqIdE6GEEO3iFC7i71h9aTugmQiA&pid_dvr=6Jt2Ji5OQZhH8x4my8KfQnqK3Pra3zfO&ref=https%3A%2F%2Fwww.megatiempo.cl%2F&without_cookies=false&listenerid=&dnt=true&access_token=liMsNY2DcfUwhx8bTE6HdsG1NWvy4cbUWHZkQNpNW0J79kIz5MxxER52NuocsQuytFp2sUWKTQ3&adInsertionGoogleStreamId=632a530e-f0d6-4e4b-a075-752c1c39eca2%3AMRN2&es=cl-a3-p-e-av11.cdn.mdstrm.com&ote=1751167950887&ot=4hj5LQJ-bTUWbqaTMeoNKQ&proto=https&pz=cl
 #EXTINF:-1, Bombi TV
 https://tv.arkeo.cl:1936/bombitv/bombitv/chunklist_w308801834.m3u8
-
+#EXTINF:-1, Mega 2
+https://panel.miplay.cl:8081/mega2/index.m3u8
+#EXTINF:-1, Telecanal
+https://panel.miplay.cl:8081/telecanal/index.m3u8
+#EXTINF:-1, Canal 13
+https://marine2.miplay.cl/c13/mono.m3u8
 
 
 
