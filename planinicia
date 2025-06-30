@@ -331,8 +331,8 @@ https://apollo.production-public.tubi.io/live/ac-kttv.m3u8?PlaylistM3UCL
 http://tv14s.xyz:8080/71700855/71700855/121234?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318770" tvg-name="NBC (KNBC) - Los Angeles [SD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/NBC_logo_2022_%28vertical%29.svg" group-title="ESTADOS UNIDOS", NBC (KNBC) - Los Angeles [SD]
 http://tv14s.xyz:8080/71700855/71700855/120656?PlaylistM3UCL
-#EXTINF:-1 tvg-id="318772" tvg-name="ABC (WABC) - New York [SD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="ESTADOS UNIDOS", ABC (WABC) - New York [SD]
-http://tv14s.xyz:8080/71700855/71700855/121139?PlaylistM3UCL
+#EXTINF:-1 tvg-id="318772" tvg-name="ABC (WABC) - New York [HD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="ESTADOS UNIDOS", ABC (WABC) - New York [HD]
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321491" tvg-name="National Geographic (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png" group-title="ESTADOS UNIDOS", National Geographic (USA)
 http://tv14s.xyz:8080/71700855/71700855/46722?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320881" tvg-name="History USA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png" group-title="ESTADOS UNIDOS", History USA
@@ -507,6 +507,8 @@ http://181.188.216.5:18000/play/a0m8/index.m3u8?PlaylistM3UCL
 http://181.188.216.5:18000/play/a0q4/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322051" tvg-name="Clan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Clan_logo.svg/1200px-Clan_logo.svg.png" group-title="ESPAÑA", Clan
 https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="322392" tvg-name="El País TV" tvg-logo="https://i.ibb.co/cQwqfFC/ees.jpg" group-title="ESPAÑA", El País TV
+https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310455" tvg-name="TVE 24h" tvg-logo="https://cdn.m3u.cl/logo/598_TVE_24H.png" group-title="ESPAÑA", TVE 24h
 https://ztnr.rtve.es/ztnr/1694255.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="310453" tvg-name="La 2" tvg-logo="https://cdn.m3u.cl/logo/614_La_2.png" group-title="ESPAÑA", La 2
@@ -613,6 +615,8 @@ https://v1.tustreaming.cl/enlineamauletv/index.m3u8?PlaylistM3UCL&PlaylistM3UCL
 https://marine2.miplay.cl/molinatv/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321561" tvg-name="TVR Canal 11" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwQmuKdnnd5XYnZaZk_Q3eR080MhTlESrnuQ&s" group-title="Chile", TVR Canal 11
 https://cloudpro.servidoresdestream.com:8081/8006/index.m3u8?PlaylistM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="322393" tvg-name="RTV HD (Chimbarongo)" tvg-logo="https://i.imgur.com/o1pUzGJ.jpeg" group-title="Chile", RTV HD (Chimbarongo)
+https://eu1.servers10.com:8081/8162/tracks-v1a1/mono.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322098" tvg-name="Telecanal Santa Cruz" tvg-logo="https://cdn.m3u.cl/logo/1025_Telecanal_Santa_Cruz.png" group-title="Chile", Telecanal Santa Cruz
 https://eu1.servers10.com:8081/8194/index.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318764" tvg-name="Pichilemu TV" tvg-logo="https://cdn.m3u.cl/logo/66_Pichilemu_TV.png" group-title="Chile", Pichilemu TV
@@ -854,7 +858,7 @@ http://181.188.216.5:18000/play/a0ii/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320811" tvg-name="Megatiempo" tvg-logo="https://yt3.googleusercontent.com/RzCO1IBS2apaz17btCM4JMmgPE4bvb8brS3C_9Rp5FNbxxsipFQOYLCMh8TqeWIt-mrmy-b8=s900-c-k-c0x00ffffff-no-rj" group-title="Chile", Megatiempo
 https://api.m3use.projectmoose.xyz/m3u/BrunoFlores2525/BRUCMS/68572300dc1dfbc7e71a662b.m3u8?uid=BrunoFlores2525&pkey=mD4nA73p&PlaylistM3UCL
 #EXTINF:-1 tvg-id="310175" tvg-name="Meganoticias" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwxEO03gK-QrKTR_qwT76CzhAhQZwYXfnn8Q&s" group-title="Noticias Chile", Meganoticias
-https://api.m3use.projectmoose.xyz/m3u/BrunoFlores2525/BRUCMS/6858cbd4641707f58eb40519.m3u8?uid=BrunoFlores2525&pkey=mD4nA73p&PlaylistM3UCL
+https://api.m3use.projectmoose.xyz/m3u/BrunoFlores2525/BRUCMS/68572300dc1dfbc7e71a662b.m3u8?uid=BrunoFlores2525&pkey=mD4nA73p&PlaylistM3UCL
 #EXTINF:-1 tvg-id="322366" tvg-name="Mega [SD]" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="Canales - Chile [SD]", Mega [SD]
 http://200.113.4.75:7210/play/a008/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320794" tvg-name="Mega (Respaldo) [1080p]" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="Chile (RESPALDOS)", Mega (Respaldo) [1080p]
