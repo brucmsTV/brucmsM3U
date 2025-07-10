@@ -289,6 +289,8 @@ http://181.188.216.5:18000/play/a0q6/index.m3u8?PlaylistM3UCL
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321173" tvg-name="Canal del Caballo " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_xvWxCk74O1qQ5cB8JKhbTHBryd68HFHXnA&s" group-title="Deportes", Canal del Caballo 
 https://stream.canaldelcaballo.cl/video/video.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="322270" tvg-name="Campo Abierto TV" tvg-logo="https://cdn.m3u.cl/logo/437_Campo_Abierto_TV.png" group-title="Chile", Campo Abierto TV
+https://v2.tustreaming.cl:443/catvlive/index.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319858" tvg-name="TNE" tvg-logo="https://cdn.m3u.cl/logo/168_TNE.png" group-title="RELIGIOSO", TNE
 https://v2.tustreaming.cl/tnetv/index.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="311884" tvg-name="Canal ISB" tvg-logo="https://cdn.m3u.cl/logo/159_Canal_ISB.png" group-title="RELIGIOSO", Canal ISB
