@@ -2125,6 +2125,8 @@ https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8?PlaylistM3UCL
 https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="520" tvg-name="Venevision" tvg-logo="https://cdn.m3u.cl/logo/520_Venevision.png", Venevision | VE
 http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-name="+ Listas en M3U.CL" tvg-logo="https://www.m3u.cl/logo/156___Listas_en_M3U_CL.png", + Listas en M3U.CL * | CL
+https://videostreaming.cloudserverlatam.com:443/htbbgdnudk/htbbgdnudk/playlist.m3u8
 #EXTINF:-1 tvg-id="322443" tvg-name="Sin EPG" tvg-logo="" group-title="PRUEBA", Sin EPG
 https://i.imgur.com/8PYoeq1.mp4?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318833" tvg-name="BEFDYT TV - YouTube" tvg-logo="https://yt3.googleusercontent.com/v6rJI6z27p1JOg80l_astX63_Pl-xHZCdnUu7Dzw36N3sYVjJBPUyx4C6Puf0q9FJMpGfyERGg4=s160-c-k-c0x00ffffff-no-rj" group-title="YouTube (Solo Disponible en VLC o IPTV)", BEFDYT TV - YouTube
@@ -2143,6 +2145,10 @@ https://www.youtube.com/live/BU1xAaNL3w0?si=EK8lPeYtSh1X_48B&PlaylistM3UCL
 https://www.youtube.com/live/6QoLEltTzIM?si=LGrpGpQ8hCDJVL0Z&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321236" tvg-name="Times Square - Nueva York - Cámara de Seguridad [4K]" tvg-logo="" group-title="YouTube (Solo Disponible en VLC o IPTV)", Times Square - Nueva York - Cámara de Seguridad [4K]
 https://www.youtube.com/live/rnXIjl_Rzy4?si=mxgbNrtEH910rTVD&PlaylistM3UCL
+#EXTINF:-1 tvg-id="322450" tvg-name="Cámaras de Seguridad - Valparaíso - Chile (V Región)" tvg-logo="" group-title="Cámaras de Seguridad", Cámaras de Seguridad - Valparaíso - Chile (V Región)
+https://api.m3use.projectmoose.xyz/m3u/BrunoFlores2525/BRUCMS/68688522ab6f7b95d5db8a0a.m3u8?uid=BrunoFlores2525&pkey=mD4nA73p&PlaylistM3UCL
+#EXTINF:-1 tvg-id="322449" tvg-name="Cámaras de Seguridad - La Serena - Chile" tvg-logo="" group-title="Cámaras de Seguridad", Cámaras de Seguridad - La Serena - Chile
+https://api.m3use.projectmoose.xyz/m3u/BrunoFlores2525/BRUCMS/686883ec71fdeb3de4cf9029.m3u8?uid=BrunoFlores2525&pkey=mD4nA73p&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321234" tvg-name="Plaza Baquedano - Cámara de Seguridad [1080p]" tvg-logo="" group-title="Cámaras de Seguridad", Plaza Baquedano - Cámara de Seguridad [1080p]
 https://api.m3use.projectmoose.xyz/m3u/BrunoFlores2525/BRUCMS/6859d4ea6ff979ea8d295818.m3u8?uid=BrunoFlores2525&pkey=mD4nA73p&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321233" tvg-name="Costanera Center - Santiago de Chile - Cámara de Seguridad [1080p]" tvg-logo="" group-title="YouTube (Solo Disponible en VLC o IPTV)", Costanera Center - Santiago de Chile - Cámara de Seguridad [1080p]
@@ -2193,6 +2199,12 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc208-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c78a281-5d61-4850-8b62-74632f015343&PlaylistM3UCL
 #EXTINF:-1 tvg-id="320752" tvg-name="Stingray IConcerts" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_msajB7Az5nNajLgcde0CgODsMqN-EpJ2dcfd8JveWIiuQ=s900-c-k-c0x00ffffff-no-rj" group-title="Musica", Stingray IConcerts
 http://181.188.216.5:18000/play/a0j4/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="322102" tvg-name="Reggae" tvg-logo="" group-title="Musica", Reggae
+https://api.m3use.projectmoose.xyz/m3u/BrunoFlores2525/BRUCMS/686f040b67e3941dd1ed9d10.m3u8?uid=BrunoFlores2525&pkey=mD4nA73p&PlaylistM3UCL
+#EXTINF:-1 tvg-id="322105" tvg-name="Symphonic" tvg-logo="" group-title="Musica", Symphonic
+https://api.m3use.projectmoose.xyz/m3u/BrunoFlores2525/BRUCMS/6808d43ed55a92ef4386b153.m3u8?uid=BrunoFlores2525&pkey=mD4nA73p&PlaylistM3UCL
+#EXTINF:-1 tvg-id="322101" tvg-name="Love Music" tvg-logo="" group-title="Musica", Love Music
+https://api.m3use.projectmoose.xyz/m3u/BrunoFlores2525/BRUCMS/686f00b167e3941dd1ed9d0f.m3u8?uid=BrunoFlores2525&pkey=mD4nA73p&PlaylistM3UCL
 #EXTINF:-1 tvg-id="322104" tvg-name="Rock Latino" tvg-logo="" group-title="Musica", Rock Latino
 https://api.m3use.projectmoose.xyz/m3u/BrunoFlores2525/BRUCMS/685b36faa94eb1ec02fa3cd3.m3u8?uid=BrunoFlores2525&pkey=mD4nA73p&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319683" tvg-name="Stingray Rock Alternativo" tvg-logo="https://i.imgur.com/mt8ulVX.png" group-title="Musica", Stingray Rock Alternativo
@@ -2469,14 +2481,14 @@ http://fl3.moveonjoy.com/Comedy_Central/index.m3u8?PlaylistM3UCL
 https://api.m3use.projectmoose.xyz/m3u/BrunoFlores2525/BRUCMS/685c58e2831e8c34d57a9134.m3u8?uid=BrunoFlores2525&pkey=mD4nA73p&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321307" tvg-name="GokuTV" tvg-logo="" group-title="series", GokuTV
 http://38.7.204.232:8010/play/a2by/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="321196" tvg-name="El Chavo del 8 24/7 - YouTube" tvg-logo="https://img.europapress.es/fotoweb/fotonoticia_20140711121225_1200.jpg" group-title="YouTube (Solo Disponible en VLC o IPTV)", El Chavo del 8 24/7 - YouTube
-https://www.youtube.com/watch?v=hct5qjC_n9M&PlaylistM3UCL
+#EXTINF:-1 tvg-id="321196" tvg-name="El Chavo del 8 24/7" tvg-logo="https://img.europapress.es/fotoweb/fotonoticia_20140711121225_1200.jpg" group-title="series", El Chavo del 8 24/7
+https://api.m3use.projectmoose.xyz/m3u/BrunoFlores2525/BRUCMS/685c5860cf2a32dd05675486.m3u8?uid=BrunoFlores2525&pkey=mD4nA73p&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321227" tvg-name="Peppa Pig 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Peppa_Pig_logo.svg/800px-Peppa_Pig_logo.svg.png" group-title="series", Peppa Pig 24/7
 https://api.m3use.projectmoose.xyz/m3u/BrunoFlores2525/BRUCMS/685c56bd641707f58eb40522.m3u8?uid=BrunoFlores2525&pkey=mD4nA73p&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321228" tvg-name="Pocoyó 24/7 - YouTube" tvg-logo="https://es.web.img3.acsta.net/pictures/14/07/11/13/29/214878.jpg" group-title="YouTube (Solo Disponible en VLC o IPTV)", Pocoyó 24/7 - YouTube
 https://www.youtube.com/live/YpIbV5jEBb0?si=MmTj2boQWUlxW7sA&PlaylistM3UCL
-#EXTINF:-1 tvg-id="321244" tvg-name="The Amazing World of Gumball (Inglés - 24/7) - YouTube" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/8/80/El_Increible_Mundo_de_Gumball.jpg/revision/latest?cb=20220312182759&path-prefix=es" group-title="YouTube (Solo Disponible en VLC o IPTV)", The Amazing World of Gumball (Inglés - 24/7) - YouTube
-https://www.youtube.com/live/nIyaCRNwxhU?si=vdXfYdjoAVS3fvAz&PlaylistM3UCL
+#EXTINF:-1 tvg-id="321244" tvg-name="The Amazing World of Gumball (Inglés - 24/7)" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/8/80/El_Increible_Mundo_de_Gumball.jpg/revision/latest?cb=20220312182759&path-prefix=es" group-title="series", The Amazing World of Gumball (Inglés - 24/7)
+https://api.m3use.projectmoose.xyz/m3u/BrunoFlores2525/BRUCMS/68688331e2a5897767525776.m3u8?uid=BrunoFlores2525&pkey=mD4nA73p&PlaylistM3UCL
 #EXTINF:-1 tvg-id="320751" tvg-name="Series 80s" tvg-logo="" group-title="series", Series 80s
 http://38.7.204.232:8010/play/a2cd/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319457" tvg-name="South Park 24/7 (EN INGLÉS)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXINP8hfR4Nin_yGnCRR8E5ZHiRo_YvK2DKQ&s" group-title="series", South Park 24/7 (EN INGLÉS)
@@ -2693,6 +2705,8 @@ http://181.188.216.5:18000/play/a01e/index.m3u8?PlaylistM3UCL
 http://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310181" tvg-name="D13" tvg-logo="https://cdn.m3u.cl/logo/1199_D13.png" group-title="Deportes", D13
 https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8?PlaylistM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="322270" tvg-name="Campo Abierto TV" tvg-logo="https://cdn.m3u.cl/logo/437_Campo_Abierto_TV.png" group-title="Chile", Campo Abierto TV
+https://v2.tustreaming.cl:443/catvlive/index.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318537" tvg-name="FutGO" tvg-logo="https://cdn.m3u.cl/logo/1598_FutGO.png" group-title="Deportes", FutGO
 https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321301" tvg-name="Teletrak (RESPALDO)" tvg-logo="https://cdn.m3u.cl/logo/376_Teletrak.png" group-title="Chile (RESPALDOS)", Teletrak (RESPALDO)
