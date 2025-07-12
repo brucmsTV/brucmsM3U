@@ -279,6 +279,8 @@ https://v1.tustreaming.cl/tv5linares/index.m3u8?PlaylistM3UCL&PlaylistM3UCL
 https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321694" tvg-name="TNT Sports • Chile" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU1xPXLYb8ydng1WIFCZtoN7tlAeqpYeicjw&s" group-title="Deportes", TNT Sports • Chile
 http://200.113.4.75:7210/play/a011/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="322269" tvg-name="CDO 2" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cdo-2-cl.png" group-title="Deportes", CDO 2
+http://45.5.150.5:8888/play/a13c/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310181" tvg-name="D13" tvg-logo="https://cdn.m3u.cl/logo/1199_D13.png" group-title="Deportes", D13
 https://origin.dpsgo.com/ssai/event/uFiYkh4CQPCPgbs7WPKhXw/master.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318537" tvg-name="FutGO" tvg-logo="https://cdn.m3u.cl/logo/1598_FutGO.png" group-title="Deportes", FutGO
