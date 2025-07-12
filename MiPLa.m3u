@@ -1,13 +1,27 @@
+#EXTM3U
+#EXTINF:-1,BioBio TV
 https://panel.miplay.cl:8082/biobiotv/index.m3u8
+#EXTINF:-1,Canal 2 de San Antonio
 https://panel.miplay.cl:8082/canal2sanantonio/index.m3u8
+#EXTINF:-1,Girovisual
 https://panel.miplay.cl:8082/girovisual/index.m3u8
+#EXTINF:-1,ITV Patagonia
 https://panel.miplay.cl:8082/itv/index.m3u8
+#EXTINF:-1,Mega HD
 https://panel.miplay.cl:8082/mega/index.m3u8
+#EXTINF:-1,Mix247TV
 https://panel.miplay.cl:8082/mix247tv/index.m3u8
+#EXTINF:-1,Spectrum Channel
 https://panel.miplay.cl:8082/spectrumchannel/index.m3u8
+#EXTINF:-1,STGOTV
 https://panel.miplay.cl:8082/stgotv/index.m3u8
+#EXTINF:-1,T13 en vivo
 https://panel.miplay.cl:8082/t13/index.m3u8
+#EXTINF:-1,TV Más HD
 https://panel.miplay.cl:8082/tvmas/index.m3u8
+#EXTINF:-1,TV Más 2
 https://panel.miplay.cl:8082/tvmas2/index.m3u8
+#EXTINF:-1,Tevex
 https://panel.miplay.cl:8082/tevex/index.m3u8
+#EXTINF:-1,Telecanal Santa Cruz
 https://panel.miplay.cl:8082/telecanalsantacruz/index.m3u8
