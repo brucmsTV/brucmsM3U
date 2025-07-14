@@ -1,0 +1,110 @@
+#EXTINF:-1 tvg-id="320331" tvg-name="13c" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Canal_13C_2025.svg/revision/latest?cb=20250415234114" group-title="Chile", 13c
+http://181.188.216.5:18000/play/a0qj/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="317771" tvg-name="24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/24_horas_2023_logo.png" group-title="Chile", 24 Horas
+http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="318355" tvg-name="A&E" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlHhC969E-bz8fLsjZy8au0aNyx2TsmBTZEg&s" group-title="Chile", A&E
+http://181.188.216.5:18000/play/a0h9/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="322269" tvg-name="CDO 2" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cdo-2-cl.png" group-title="Chile", CDO 2
+http://45.5.150.5:8888/play/a13c/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="318339" tvg-name="CDTV" tvg-logo="https://cdn.m3u.cl/logo/445_Camara_de_Diputados.png" group-title="Chile", CDTV
+https://camara.03.wl.cdnz.cl/camara19/live/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="319029" tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/1200px-CNN_Chile_logo_2017.svg.png" group-title="Chile", CNN Chile
+http://200.113.4.75:7210/play/a01k/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="316957" tvg-name="Canal 13" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Canal_13_2025.svg/revision/latest/scale-to-width-down/1000?cb=20250415161306" group-title="Chile", Canal 13 
+https://m3u.cl/channel/c13.php?PlaylistM3UCL&PlaylistM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="321178" tvg-name="Canal Claro" tvg-logo="https://yt3.googleusercontent.com/CLwrr6AgezK18olQVA-g40gHG7fHV2APLmmnzNZ6Cu4ZHhJuM5GE5d5LKaJ8iVl4iB9XsdZWrQ=s900-c-k-c0x00ffffff-no-rj" group-title="Chile", Canal Claro
+http://38.180.133.31:8000/play/a0yi/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="318357" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="Chile", Cartoon Network
+http://181.188.216.5:18000/play/a0ps/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="318699" tvg-name="Chilevisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Emblema_de_Chilevisi%C3%B3n.png" group-title="Chile", Chilevisión
+http://181.188.216.5:18000/play/a0ii/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="321487" tvg-name="Cinecanal • Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Chile", Cinecanal • Chile
+http://181.188.216.5:18000/play/a0co/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="320011" tvg-name="Claro Sports" tvg-logo="https://yt3.googleusercontent.com/h88IKJCItR4KafxYzqfMphDkLzXdREH24qDrW-CzFMedCCjBl4D2baR3xWF48tOkNltM6MM9hA=s900-c-k-c0x00ffffff-no-rj" group-title="Chile", Claro Sports
+http://200.59.188.3:8000/play/a05j?PlaylistM3UCL
+#EXTINF:-1 tvg-id="320801" tvg-name="DSports" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1749885149510" group-title="Chile", DSports
+http://38.211.242.128:8001/play/a05g/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="318344" tvg-name="Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/2019_Discovery_logo.svg" group-title="Chile", Discovery Channel
+http://181.188.216.5:18000/play/a0dr/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="318356" tvg-name="Discovery Kids • Chile" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/revision/latest?cb=20210930223617&path-prefix=es" group-title="Chile", Discovery Kids • Chile
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/DISCOVERYKIDS/20-hls/live-media.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="318342" tvg-name="ESPN 2" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMkr2RzuQwTckHKkKyRG6lJD-RyjurAfRqxQ&s" group-title="Chile", ESPN 2
+http://181.188.216.5:18000/play/a00b/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="321566" tvg-name="ESPN Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="Chile", ESPN Premium
+http://181.188.216.5:18000/play/a0lq/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="320795" tvg-name="ETC TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT8kibM-TVeyf1fsAOmBF8QwI0nXzqd9NFGQ&s" group-title="Chile", ETC TV
+http://45.181.122.46:8090/play/a00t?PlaylistM3UCL
+#EXTINF:-1 tvg-id="318351" tvg-name="FX • Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="Chile", FX • Chile
+http://181.188.216.5:18000/play/a0gm/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="320743" tvg-name="Funbox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FunBox_TV_logo.svg/800px-FunBox_TV_logo.svg.png" group-title="Chile", Funbox
+http://38.7.204.232:8010/play/a2bx/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="318520" tvg-name="HBO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest?cb=20201126030141" group-title="Chile", HBO
+http://181.188.216.5:18000/play/a0hm/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="309980" tvg-name="La Red" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png" group-title="Chile", La Red
+https://alba-cl-lared-lared.stream.mediatiquestream.com/original.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="309986" tvg-name="Mega" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="Chile", Mega
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="310002" tvg-name="NTV" tvg-logo="https://cdn.m3u.cl/logo/45_NTV.png" group-title="Chile", NTV
+https://panel.miplay.cl:8082/ntv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="318700" tvg-name="Radio Pauta" tvg-logo="https://cdn.m3u.cl/logo/882_Pauta_TV.png" group-title="Radio Tv Chile", Radio Pauta
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/playlist.m3u8?
+#EXTINF:-1 tvg-id="320328" tvg-name="Rec TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/13rec_2025.svg/revision/latest/scale-to-width-down/200?cb=20250416192151" group-title="Chile", Rec TV
+https://panel.miplay.cl:8082/rec/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="318523" tvg-name="Space" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Space_2008.svg/revision/latest?cb=20200216172603&path-prefix=es" group-title="Chile", Space
+http://181.188.216.5:18000/play/a0a4/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="319066" tvg-name="Star Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg" group-title="Chile", Star Channel
+http://181.188.216.5:18000/play/a0ow/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="319070" tvg-name="Studio Universal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/330px-StudioUniversal2016.png" group-title="Chile", Studio Universal
+http://181.188.216.5:18000/play/a0o5/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="309989" tvg-name="T13" tvg-logo="https://cdn.m3u.cl/logo/1054_T13.png" group-title="Chile", T13
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="318542" tvg-name="TNT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg" group-title="Chile", TNT
+http://181.188.216.5:18000/play/a00x/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="321694" tvg-name="TNT Sports 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU1xPXLYb8ydng1WIFCZtoN7tlAeqpYeicjw&s" group-title="Chile", TNT Sports 3
+http://200.113.4.75:7210/play/a011/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="319040" tvg-name="TNT Sports Premium" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" group-title="Chile", TNT Sports Premium
+http://181.188.216.5:18000/play/a009/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="318525" tvg-name="TV Chile" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1PqQtCIIFcAZ-Z0t4Sv647SJAo93DMQlUOg&s" group-title="Chile", TV Chile
+http://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="318340" tvg-name="TV Senado" tvg-logo="https://cdn.m3u.cl/logo/444_TV_Senado.png" group-title="Chile", TV Senado
+https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="318698" tvg-name="TVN" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png" group-title="Chile", TVN
+http://181.188.216.5:18000/play/a00u/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="319482" tvg-name="Telecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Telecanal_-_2011_logo_%283D_variant%29.png" group-title="Chile", Telecanal
+https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="310180" tvg-name="Teletrak" tvg-logo="https://cdn.m3u.cl/logo/376_Teletrak.png" group-title="Chile", Teletrak
+https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="310180" tvg-name="Teletrak 2" tvg-logo="https://cdn.m3u.cl/logo/376_Teletrak.png" group-title="Chile", Teletrak 2
+https://teletraktv.janus.cl/playlist/stream.m3u8
+#EXTINF:-1 tvg-id="309992" tvg-name="UChile TV" tvg-logo="https://cdn.m3u.cl/logo/1017_U_Chile_TV.png" group-title="Chile", UChile TV
+https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="320800" tvg-name="Universal TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="Chile", Universal TV
+http://181.188.216.5:18000/play/a0o9/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="310038" tvg-name="Vision Plus TV" tvg-logo="https://cdn.m3u.cl/logo/1024_Vision_Plus_TV.jpg" group-title="Chile", Vision Plus TV
+https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="320327" tvg-name="Via X" tvg-logo="https://pbs.twimg.com/profile_images/1635423578651852802/dwa1KZ_o_400x400.jpg" group-title="Chile", Via X
+http://181.188.216.5:18000/play/a0fh/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="320746" tvg-name="Via X Esports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIQ2coqUc8z6ox1MvjhM76lLrOZTpntkXKQA&s" group-title="Chile", Via X Esports
+http://181.188.216.5:18000/play/a01f/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="318033" tvg-name="Zona Latina" tvg-logo="https://yt3.googleusercontent.com/C-QlHq6oLPiaP2JMbpgVrC6X2kEgbk_sEqm91YR7YLrT2c9X8nc7h25QF-ES-N59U2aPEj-R=s900-c-k-c0x00ffffff-no-rj" group-title="Chile", Zona Latina
+http://200.59.188.3:8000/play/a05d?PlaylistM3UCL
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
