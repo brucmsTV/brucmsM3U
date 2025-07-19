@@ -5,7 +5,7 @@ http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3U
 #EXTINF:-1 tvg-id="318355" tvg-name="A&E" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlHhC969E-bz8fLsjZy8au0aNyx2TsmBTZEg&s" group-title="Chile", A&E
 http://181.188.216.5:18000/play/a0h9/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322269" tvg-name="CDO 2" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cdo-2-cl.png" group-title="Chile", CDO 2
-http://45.5.150.5:8888/play/a13c/index.m3u8?PlaylistM3UCL
+http://179.51.136.19:8000/play/a1in/index.m3u8
 #EXTINF:-1 tvg-id="318339" tvg-name="CDTV" tvg-logo="https://cdn.m3u.cl/logo/445_Camara_de_Diputados.png" group-title="Chile", CDTV
 https://camara.03.wl.cdnz.cl/camara19/live/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319029" tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/1200px-CNN_Chile_logo_2017.svg.png" group-title="Chile", CNN Chile
@@ -71,7 +71,7 @@ https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL&PlaylistM3UC
 #EXTINF:-1 tvg-id="318698" tvg-name="TVN" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png" group-title="Chile", TVN
 http://181.188.216.5:18000/play/a00u/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319482" tvg-name="Telecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Telecanal_-_2011_logo_%283D_variant%29.png" group-title="Chile", Telecanal
-https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
+http://179.51.136.19:8000/play/a1hv/index.m3u8
 #EXTINF:-1 tvg-id="310180" tvg-name="Teletrak" tvg-logo="https://cdn.m3u.cl/logo/376_Teletrak.png" group-title="Chile", Teletrak
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310180" tvg-name="Teletrak 2" tvg-logo="https://cdn.m3u.cl/logo/376_Teletrak.png" group-title="Chile", Teletrak 2
