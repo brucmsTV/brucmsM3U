@@ -1,7 +1,5 @@
 #EXTINF:-1 tvg-id="309980" tvg-name="La Red HD" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png" group-title="Chile", La Red HD
 https://alba-cl-lared-lared.stream.mediatiquestream.com/original.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="309982" tvg-name="TV+ HD" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png" group-title="Chile", TV+ HD
-https://marine2.miplay.cl/tvmas/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="452" tvg-name="TVN HD" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png" group-title="Chile", TVN HD
 http://tv14s.xyz:8080/71700855/71700855/164888
 #EXTINF:-1 tvg-id="455" tvg-name="Mega HD" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="Chile", Mega HD
