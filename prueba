@@ -26,20 +26,12 @@ https://api.m3use.projectmoose.xyz/m3u/BrunoFlores2525/BRUCMS/6854da0adeeec70abb
 https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8
 #EXTINF:-1, CAMARA DE SEGURIDAD
 http://192.168.1.98:4747/video?640x480
-#EXTINF:-1, El Nueve
-https://vmf.edge-apps.net/embed/live.php?streamname=c7live01-20034&amp;autoplay=true
 #EXTINF:-1, El Nueve OPC1
 https://g5.mc-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8
-#EXTINF:-1, prueba
-https://capo5play.com/capo.php?player=desktop&live=capodeportes
-#EXTINF:-1, CANAL 5 HD
-https://live2.saohgdasregions.fun:9091/2_/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Las Estrellas Mexico
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_1.m3u8
 #EXTINF:-1, Ecuavisa
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
-#EXTINF:-1, Teleamazonas
-https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/playlist.m3u8
 #EXTINF:-1, TVN HD
 https://mdstrm.com/live-stream-playlist/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
 #EXTINF:-1, Radio la consentida NORMAL
