@@ -18,8 +18,6 @@ http://181.188.216.5:18000/play/a01f/index.m3u8?PlaylistM3UCL
 http://200.113.4.75:7210/play/a01k/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320795" tvg-name="ETC TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT8kibM-TVeyf1fsAOmBF8QwI0nXzqd9NFGQ&s" group-title="Chile", ETC TV
 http://45.181.122.46:8090/play/a00t?PlaylistM3UCL
-#EXTINF:-1 tvg-id="318033" tvg-name="Zona Latina" tvg-logo="https://yt3.googleusercontent.com/C-QlHq6oLPiaP2JMbpgVrC6X2kEgbk_sEqm91YR7YLrT2c9X8nc7h25QF-ES-N59U2aPEj-R=s900-c-k-c0x00ffffff-no-rj" group-title="Chile", Zona Latina
-http://200.59.188.3:8000/play/a05d?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321694" tvg-name="TNT Sports • Chile" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU1xPXLYb8ydng1WIFCZtoN7tlAeqpYeicjw&s" group-title="Deportes", TNT Sports • Chile
 http://200.113.4.75:7210/play/a011/index.m3u8
 #EXTINF:-1 tvg-id="322269" tvg-name="CDO 2" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cdo-2-cl.png" group-title="Deportes", CDO 2
@@ -46,11 +44,5 @@ http://181.188.216.5:18000/play/a004/index.m3u8?PlaylistM3UCL
 http://181.188.216.5:18000/play/a0ow/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318719" tvg-name="EWW TV" tvg-logo="https://i.imgur.com/Xi2IfT2.jpeg" group-title="EWW", EWW TV
 https://live.adultiptv.net/bigdick.m3u8?PlaylistM3UCL
-#EXTINF:-1,DSPORTS 1 
-http://38.211.242.128:8001/play/a09s/index.m3u8 
-#EXTINF:-1,DSPORTS 2 
-http://38.211.242.128:8001/play/a05g/index.m3u8 
-#EXTINF:-1,DSPORTS + 
-http://38.211.242.128:8001/play/a05h/index.m3u8
 #EXTINF:-1, BEFDYT TV HD
 https://api.m3use.projectmoose.xyz/m3u/BrunoFlores2525/BRUCMS/6854da0adeeec70abb6b1379.m3u8?uid=BrunoFlores2525&pkey=mD4nA73p
