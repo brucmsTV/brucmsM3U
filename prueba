@@ -30,5 +30,6 @@ https://sonic.portalfoxmix.club/8194/stream
 https://jireh-7-hls-video-cl-movistar.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8
 #EXTINF:-1, MEGANOTICIAS AHORA
 https://mdstrm.com/live-stream/561430ae330428c223687e1e?.m3u8
-
+#EXTINF:-1, SurfBeat Radio
+https://player.streaminghd.cl/audio/v2/9170/surfbeatsradio-1
 
