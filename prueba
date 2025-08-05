@@ -1,9 +1,5 @@
-#EXTINF:-1,Claro Sports Chile
-http://200.59.188.3:8000/play/a05j
 #EXTINF:-1, Chilevisión Contigo
 https://jmp2.uk/plu-62aa5740a47b6c000769f407.m3u8
-#EXTINF:-1, Clan (ES) 
-https://d3nnqrdb77sy13.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-eimbp20cszixb/Clan_ES.m3u8
 #EXTINF:-1, Comedy Central (ES)
 http://185.189.225.150:85/comedycentral/index.m3u8
 #EXTINF:-1, ETC TV
@@ -26,12 +22,13 @@ https://g5.mc-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_1.m3u8
 #EXTINF:-1, Ecuavisa
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
-#EXTINF:-1, TVN HD
-https://mdstrm.com/live-stream-playlist/5346f5f2c1e6f5810b5b9df0.m3u8?PlaylistM3UCL
 #EXTINF:-1, Radio la consentida NORMAL
 https://stream.connected305.xyz:8000/stream
 #EXTINF:-1, Radio AMOR FM 104.9
 https://sonic.portalfoxmix.club/8194/stream
-
+#EXTINF:-1, BIO-BIO - LA RADIO TV
+https://jireh-7-hls-video-cl-movistar.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8
+#EXTINF:-1, MEGANOTICIAS AHORA
+https://mdstrm.com/live-stream/561430ae330428c223687e1e?.m3u8
 
 
