@@ -32,4 +32,13 @@ https://jireh-7-hls-video-cl-movistar.dps.live/hls-video/339f69c6122f6d8f4574732
 https://mdstrm.com/live-stream/561430ae330428c223687e1e?.m3u8
 #EXTINF:-1, SurfBeat Radio
 https://player.streaminghd.cl/audio/v2/9170/surfbeatsradio-1
-
+#EXTINF:-1, JUEGOS PANAMERICANOS SEÑAL 1
+https://jireh-5-hls-video-cl-movistar.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13gopan1/13gopan1.smil/pan1/livestream2/chunks.m3u8
+#EXTINF:-1, JUEGOS PANAMERICANOS SEÑAL 4
+https://jireh-6-hls-video-cl-movistar.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13gopan4/13gopan4.smil/pan4/livestream2/chunks.m3u8
+#EXTINF:-1, JUEGOS PANAMERICANOS SEÑAL 5
+https://jireh-7-hls-video-cl-movistar.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13gopan5/13gopan5.smil/pan5/livestream2/chunks.m3u8
+#EXTINF:-1, JUEGOS PANAMERICANOS SEÑAL 6
+https://jireh-8-hls-video-cl-movistar.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13gopan6/13gopan6.smil/pan6/livestream1/chunks.m3u8
+#EXTINF:-1, JUEGOS PANAMERICANOS SEÑAL SELECCIÓN
+https://dai.google.com/linear/hls/pa/event/LhHrVtyeQkKZ-Ye_xEU75g/stream/8c860889-57e2-4263-aeb7-2ea5fd2c179d:CBF2/variant/e39cfe804a012b82b694d927f1618bd9/bandwidth/1664240.m3u8
