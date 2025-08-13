@@ -1,8 +1,9 @@
+#EXTM3U
 #EXTINF:-1, Chilevisión Contigo
 https://jmp2.uk/plu-62aa5740a47b6c000769f407.m3u8
-#EXTINF:-1, ETC TV
+#EXTINF:-1, CL | MEGAMEDIA | ETC TV
 http://45.181.122.46:8090/play/a00t
-#EXTINF:-1, La Red
+#EXTINF:-1, CL | La Red
 https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1, DNews
 https://api.m3use.projectmoose.xyz/m3u/BrunoFlores2525/BRUCMS/684301bc0214d18907789461.m3u8?uid=BrunoFlores2525&pkey=mD4nA73p
@@ -24,7 +25,7 @@ https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb70
 https://stream.connected305.xyz:8000/stream
 #EXTINF:-1, Radio AMOR FM 104.9
 https://sonic.portalfoxmix.club/8194/stream
-#EXTINF:-1, BIO-BIO - LA RADIO TV
+#EXTINF:-1, CL | Bío Bío TV
 https://jireh-7-hls-video-cl-movistar.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8
 #EXTINF:-1, JUEGOS PANAMERICANOS SEÑAL 1
 https://jireh-5-hls-video-cl-movistar.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13gopan1/13gopan1.smil/pan1/livestream2/chunks.m3u8
@@ -36,7 +37,7 @@ https://jireh-7-hls-video-cl-movistar.dps.live/hls-video/ey6283je82983je9823je8j
 https://jireh-8-hls-video-cl-movistar.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13gopan6/13gopan6.smil/pan6/livestream1/chunks.m3u8
 #EXTINF:-1, JUEGOS PANAMERICANOS SEÑAL SELECCIÓN
 https://dai.google.com/linear/hls/pa/event/LhHrVtyeQkKZ-Ye_xEU75g/stream/8c860889-57e2-4263-aeb7-2ea5fd2c179d:CBF2/variant/e39cfe804a012b82b694d927f1618bd9/bandwidth/1664240.m3u8
-#EXTINF:-1, Canal 13 HD
+#EXTINF:-1, CL | Canal 13
 https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/66c832b4-6145-46fa-a33f-8feed860f06c:SCL2/variant/ed68044fabc13545b407e1c2beeee886/bandwidth/1623600.m3u8
 #EXTINF:-1, TVN SEÑAL INTERNET
 https://mdstrm.com/live-stream/57a498c4d7b86d600e5461cb?.m3u8
