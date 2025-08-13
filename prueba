@@ -1,7 +1,5 @@
 #EXTINF:-1, Chilevisión Contigo
 https://jmp2.uk/plu-62aa5740a47b6c000769f407.m3u8
-#EXTINF:-1, Comedy Central (ES)
-http://185.189.225.150:85/comedycentral/index.m3u8
 #EXTINF:-1, ETC TV
 http://45.181.122.46:8090/play/a00t
 #EXTINF:-1, La Red
@@ -28,10 +26,6 @@ https://stream.connected305.xyz:8000/stream
 https://sonic.portalfoxmix.club/8194/stream
 #EXTINF:-1, BIO-BIO - LA RADIO TV
 https://jireh-7-hls-video-cl-movistar.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/bbtv/livestream2/chunks.m3u8
-#EXTINF:-1, MEGANOTICIAS AHORA
-https://mdstrm.com/live-stream/561430ae330428c223687e1e?.m3u8
-#EXTINF:-1, SurfBeat Radio
-https://player.streaminghd.cl/audio/v2/9170/surfbeatsradio-1
 #EXTINF:-1, JUEGOS PANAMERICANOS SEÑAL 1
 https://jireh-5-hls-video-cl-movistar.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13gopan1/13gopan1.smil/pan1/livestream2/chunks.m3u8
 #EXTINF:-1, JUEGOS PANAMERICANOS SEÑAL 4
@@ -44,4 +38,11 @@ https://jireh-8-hls-video-cl-movistar.dps.live/hls-video/ey6283je82983je9823je8j
 https://dai.google.com/linear/hls/pa/event/LhHrVtyeQkKZ-Ye_xEU75g/stream/8c860889-57e2-4263-aeb7-2ea5fd2c179d:CBF2/variant/e39cfe804a012b82b694d927f1618bd9/bandwidth/1664240.m3u8
 #EXTINF:-1, Canal 13 HD
 https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/66c832b4-6145-46fa-a33f-8feed860f06c:SCL2/variant/ed68044fabc13545b407e1c2beeee886/bandwidth/1623600.m3u8
-
+#EXTINF:-1, TVN SEÑAL INTERNET
+https://mdstrm.com/live-stream/57a498c4d7b86d600e5461cb?.m3u8
+#EXTINF:-1, FM TIEMPO ONLINE
+https://cl-a3-p-e-av11-audio.cdn.mdstrm.com/live-audio-aw/639b7943e0a27908a55dbf9e/playlist.m3u8
+#EXTINF:-1, CAROLINA DANCE
+https://jireh-1-hls-audio-cl-isp.dps.live/hls-audio/716888c72e2079612211a7130f67a27d/carolinadance/playlist/index1-edge.m3u8
+#EXTINF:-1, CAROLINA FM AUDIO
+https://cl-a3-p-e-av11-audio.cdn.mdstrm.com/live-audio-aw/637f68ddce4b1208597d8a86/playlist.m3u8
