@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1,Bío Bío TV
+https://panel.miplay.cl:8082/biobiotv/index.m3u8
 #EXTINF:-1,Canal 2 de San Antonio
 https://panel.miplay.cl:8082/canal2sanantonio/index.m3u8
 #EXTINF:-1,Girovisual
