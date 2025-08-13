@@ -1,13 +1,7 @@
 #EXTINF:-1 tvg-id="309980" tvg-name="La Red HD" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png" group-title="Chile", La Red HD
 https://alba-cl-lared-lared.stream.mediatiquestream.com/original.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="452" tvg-name="TVN HD" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png" group-title="Chile", TVN HD
-http://tv14s.xyz:8080/71700855/71700855/164888
 #EXTINF:-1 tvg-id="455" tvg-name="Mega HD" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="Chile", Mega HD
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1153" tvg-name="CHV SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Emblema_de_Chilevisi%C3%B3n.png" group-title="Chile", CHV SD
-http://tv14s.xyz:8080/71700855/71700855/164884
-#EXTINF:-1 tvg-id="457" tvg-name="Canal 13 SD" tvg-logo="https://cdn.m3u.cl/logo/457_Canal_13.png" group-title="Chile", Canal 13 SD
-http://tv14s.xyz:8080/71700855/71700855/164885
 #EXTINF:-1 tvg-id="309991" tvg-name="TVR" tvg-logo="https://cdn.m3u.cl/logo/77_TVR.png" group-title="Regionales", TVR
 https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="320327" tvg-name="Via X" tvg-logo="https://pbs.twimg.com/profile_images/1635423578651852802/dwa1KZ_o_400x400.jpg" group-title="Chile", Via X
@@ -28,14 +22,10 @@ https://stv4.janus.cl/playlist/stream.m3u8?s=lq&t=&id=luflljxo&q=&d=w&PlaylistM3
 https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319857" tvg-name="Carolina TV 2" tvg-logo="https://cdn.m3u.cl/logo/1127_Carolina_TV_2.png" group-title="Radio Tv Chile", Carolina TV 2
 https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
-#EXTINF:-1 tvg-id="319458" tvg-name="FOX News" tvg-logo="" group-title="ESTADOS UNIDOS", FOX News 
-http://tv14s.xyz:8080/71700855/71700855/1818?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320082" tvg-name="Radio María" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/2896.v8.png" group-title="Radio Tv Chile", Radio María
 https://rmaria2.janus.cl/playlist/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319092" tvg-name="Hola TV" tvg-logo="" group-title="Premium", Hola TV
 http://181.188.216.5:18000/play/a0da/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="310451" tvg-name="SEÑAL COLOMBIA" tvg-logo="https://cdn.m3u.cl/logo/128_Senal_Colombia.png" group-title="Colombia", SEÑAL COLOMBIA
-http://tv14s.xyz:8080/71700855/71700855/78711?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318546" tvg-name="Disney" tvg-logo="" group-title="Infantil", Disney
 http://181.188.216.5:18000/play/a004/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319066" tvg-name="Star" tvg-logo="" group-title="Premium", Star
