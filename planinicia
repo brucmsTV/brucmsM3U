@@ -131,6 +131,20 @@ https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL&PlaylistM3UC
 http://1tv41.icu:8080/4KCwCN/506843/104884?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321178" tvg-name="Canal Claro" tvg-logo="https://yt3.googleusercontent.com/CLwrr6AgezK18olQVA-g40gHG7fHV2APLmmnzNZ6Cu4ZHhJuM5GE5d5LKaJ8iVl4iB9XsdZWrQ=s900-c-k-c0x00ffffff-no-rj" group-title="INFORMATIVO", Canal Claro
 http://38.180.133.31:8000/play/a0yi/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1524" tvg-name="Juegos Panamericanos Junior Asunción 2025 - Señal 1" tvg-logo="https://cdn.m3u.cl/logo/1524_Juegos_Panamericanos_Junior_Asuncion_2025___Senal_1.png", Juegos Panamericanos Junior Asunción 2025 - Señal 1 ✪ | CL
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13gopan1/13gopan1.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1525" tvg-name="Juegos Panamericanos Junior Asunción 2025 - Señal 2" tvg-logo="https://cdn.m3u.cl/logo/1525_Juegos_Panamericanos_Junior_Asuncion_2025___Senal_2.png", Juegos Panamericanos Junior Asunción 2025 - Señal 2 ✪ | CL
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13gopan2/13gopan2.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1526" tvg-name="Juegos Panamericanos Junior Asunción 2025 - Señal 3" tvg-logo="https://cdn.m3u.cl/logo/1526_Juegos_Panamericanos_Junior_Asuncion_2025___Senal_3.png", Juegos Panamericanos Junior Asunción 2025 - Señal 3 ✪ | CL
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13gopan3/13gopan3.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1527" tvg-name="Juegos Panamericanos Junior Asunción 2025 - Señal 4" tvg-logo="https://cdn.m3u.cl/logo/1527_Juegos_Panamericanos_Junior_Asuncion_2025___Senal_4.png", Juegos Panamericanos Junior Asunción 2025 - Señal 4 ✪ | CL
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13gopan4/13gopan4.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1528" tvg-name="Juegos Panamericanos Junior Asunción 2025 - Señal 5" tvg-logo="https://cdn.m3u.cl/logo/1528_Juegos_Panamericanos_Junior_Asuncion_2025___Senal_5.png", Juegos Panamericanos Junior Asunción 2025 - Señal 5 ✪ | CL
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13gopan5/13gopan5.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1529" tvg-name="Juegos Panamericanos Junior Asunción 2025 - Señal 6" tvg-logo="https://cdn.m3u.cl/logo/1529_Juegos_Panamericanos_Junior_Asuncion_2025___Senal_6.png", Juegos Panamericanos Junior Asunción 2025 - Señal 6 ✪ | CL
+https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13gopan6/13gopan6.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="1530" tvg-name="Juegos Panamericanos Junior Asunción 2025 - Seleccion" tvg-logo="https://cdn.m3u.cl/logo/1530_Juegos_Panamericanos_Junior_Asuncion_2025___Seleccion.png", Juegos Panamericanos Junior Asunción 2025 - Seleccion ✪ | CL
+https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320011" tvg-name="Claro Sports • América Latina" tvg-logo="https://yt3.googleusercontent.com/h88IKJCItR4KafxYzqfMphDkLzXdREH24qDrW-CzFMedCCjBl4D2baR3xWF48tOkNltM6MM9hA=s900-c-k-c0x00ffffff-no-rj" group-title="Deportes", Claro Sports • América Latina
 http://200.59.188.3:8000/play/a05j?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318703" tvg-name="Cine Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Cine_Latino_logo.svg" group-title="Premium", Cine Latino
