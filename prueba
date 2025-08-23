@@ -51,5 +51,6 @@ https://teletraktv.janus.cl/playlist/stream.m3u8?d=w&id=meoqp1o8&t=1755982267&q=
 https://teletraktv.janus.cl/playlist/stream.m3u8?d=w&id=meoqp1o8&t=1755982347&q=5&s=sd
 #EXTINF:-1, Teletrak LQ
 https://teletraktv.janus.cl/playlist/stream.m3u8?d=w&id=meoqp1o8&t=1755982366&q=6&s=lq
-
+#EXTINF:-1, PRUEBA
+https://teletraktv.janus.cl/playlist/stream.m3u8
 
