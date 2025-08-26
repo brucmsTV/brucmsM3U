@@ -53,4 +53,9 @@ https://teletraktv.janus.cl/playlist/stream.m3u8?d=w&id=meoqp1o8&t=1755982347&q=
 https://teletraktv.janus.cl/playlist/stream.m3u8?d=w&id=meoqp1o8&t=1755982366&q=6&s=lq
 #EXTINF:-1, PRUEBA
 https://teletraktv.janus.cl/playlist/stream.m3u8
+#EXTINF:-1, LEDRIUM
+https://api.m3use.projectmoose.xyz/m3u/dfghjbs25/BRUCMS 2/68ab77e660d1a28730a7a3cf.m3u8?uid=dfghjbs25&pkey=g3HSNF2J
+#EXTINF:-1, CARAMELO
+https://api.m3use.projectmoose.xyz/m3u/dfghjbs25/BRUCMS 2/68a28ff9b5ba5781a44b477d.m3u8?uid=dfghjbs25&pkey=g3HSNF2J
+
 
