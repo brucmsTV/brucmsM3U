@@ -1,5 +1,13 @@
 #EXTINF:-1 tvg-id="309980" tvg-name="La Red HD" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png" group-title="Chile", La Red HD
 https://alba-cl-lared-lared.stream.mediatiquestream.com/original.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="309980" tvg-name="TV+ HD" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png" group-title="Chile", TV+ HD
+https://jireh-5-hls-video-cl-movistar.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/tvmas/livestream1/chunks.m3u8
+#EXTINF:-1 tvg-id="321303" tvg-name="TVN SD" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png" group-title="Canales - Chile [SD]", TVN SD
+http://200.113.4.75:7210/play/a007/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="310002" tvg-name="NTV" tvg-logo="https://cdn.m3u.cl/logo/45_NTV.png" group-title="Chile", NTV
+https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="317771" tvg-name="Canal 24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/24_horas_2023_logo.png" group-title="Noticias Chile", Canal 24 Horas
+http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="455" tvg-name="Mega HD" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="Chile", Mega HD
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="309991" tvg-name="TVR" tvg-logo="https://cdn.m3u.cl/logo/77_TVR.png" group-title="Regionales", TVR
@@ -28,9 +36,13 @@ https://rmaria2.janus.cl/playlist/stream.m3u8?PlaylistM3UCL
 http://181.188.216.5:18000/play/a0da/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318546" tvg-name="Disney" tvg-logo="" group-title="Infantil", Disney
 http://181.188.216.5:18000/play/a004/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="318356" tvg-name="Discovery Kids • Chile" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/revision/latest?cb=20210930223617&path-prefix=es" group-title="Infantil", Discovery Kids • Chile
+https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/DISCOVERYKIDS/20-hls/live-media.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="318357" tvg-name="Cartoon Network • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="Infantil", Cartoon Network • Latinoamérica
+http://181.188.216.5:18000/play/a0ps/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319066" tvg-name="Star" tvg-logo="" group-title="Premium", Star
 http://181.188.216.5:18000/play/a0ow/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318719" tvg-name="EWW TV" tvg-logo="https://i.imgur.com/Xi2IfT2.jpeg" group-title="EWW", EWW TV
 https://live.adultiptv.net/bigdick.m3u8?PlaylistM3UCL
 #EXTINF:-1, BEFDYT TV HD
-https://api.m3use.projectmoose.xyz/m3u/BrunoFlores2525/BRUCMS/6854da0adeeec70abb6b1379.m3u8?uid=BrunoFlores2525&pkey=mD4nA73p
+https://api.m3use.projectmoose.xyz/noexiste
