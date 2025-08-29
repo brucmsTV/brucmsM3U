@@ -1,12 +1,10 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/Public/guia-de-programacion.xml" tv-test="bruno2255.m3u"
 #EXTINF:-1 tvg-name="+ Listas en M3U.CL" tvg-logo="https://www.m3u.cl/logo/156___Listas_en_M3U_CL.png", + Listas en M3U.CL * | CL
 https://videostreaming.cloudserverlatam.com:443/htbbgdnudk/htbbgdnudk/playlist.m3u8
+#EXTINF:-1 tvg-id="326055" tvg-name="Cámaras de Seguridad - Curepto - VII Región" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpPRLXHG_1GqtDq4OJzzn-koSxS48NvexHAg&s" group-title="Cámaras de Seguridad", Cámaras de Seguridad - Curepto - VII Región
+https://api.m3use.projectmoose.xyz/m3u/dfghjbs25/BRUCMS2/68ab793af6e6df48a2143dde.m3u8?uid=dfghjbs25&pkey=g3HSNF2J&PlaylistM3UCL
 #EXTINF:-1 tvg-id="322443" tvg-name="Sin EPG" tvg-logo="" group-title="PRUEBA", Sin EPG
 https://i.imgur.com/8PYoeq1.mp4?PlaylistM3UCL
-#EXTINF:-1 tvg-id="318833" tvg-name="BEFDYT TV - YouTube" tvg-logo="https://yt3.googleusercontent.com/v6rJI6z27p1JOg80l_astX63_Pl-xHZCdnUu7Dzw36N3sYVjJBPUyx4C6Puf0q9FJMpGfyERGg4=s160-c-k-c0x00ffffff-no-rj" group-title="YouTube (Solo Disponible en VLC o IPTV)", BEFDYT TV - YouTube
-https://youtube.com/live/5xIk5ff8XC8?feature=share&PlaylistM3UCL
-#EXTINF:-1 tvg-id="321241" tvg-name="Monitoreo Sismos Chile [1080p60]" tvg-logo="https://pbs.twimg.com/media/FgbXJx2WIAAmdpw.jpg" group-title="Monitoreo Sismico", Monitoreo Sismos Chile [1080p60]
-https://api.m3use.projectmoose.xyz/m3u/BrunoFlores2525/BRUCMS/6859d79af08bac9fa449ca03.m3u8?uid=BrunoFlores2525&pkey=mD4nA73p&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321240" tvg-name="Monitoreo Sismos Global [1080p60]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH-sYaBoN7jmBDBInjw10e9rMNX9rhiTYzkw&s" group-title="Monitoreo Sismico", Monitoreo Sismos Global [1080p60]
 https://api.m3use.projectmoose.xyz/m3u/BrunoFlores2525/BRUCMS/6859d7644b5a9e572f3b01bd.m3u8?uid=BrunoFlores2525&pkey=mD4nA73p&PlaylistM3UCL
 #EXTINF:-1 tvg-id="322387" tvg-name="NASA TV (ISS)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/ISS_emblem.png/960px-ISS_emblem.png" group-title="YOUTUBE", NASA TV (ISS)
@@ -217,6 +215,8 @@ http://181.188.216.5:18000/play/a0o5/index.m3u8?PlaylistM3UCL
 http://181.188.216.5:18000/play/a0o9/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321487" tvg-name="Cinecanal • Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Premium", Cinecanal • Chile
 http://181.188.216.5:18000/play/a0co/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="326029" tvg-name="Alan Becker TV" tvg-logo="https://static.wikia.nocookie.net/animator-vs-animation-id/images/9/99/ABTV_logo.png/revision/latest?cb=20241121025902&path-prefix=id" group-title="Premium", Alan Becker TV
+https://i.imgur.com/HiqIgI0.mp4?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320799" tvg-name="Universal Cinema • Este" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/4/42/UniversalCinema.png/revision/latest?cb=20240130201240&path-prefix=es" group-title="Premium", Universal Cinema • Este
 http://181.188.216.5:18000/play/a0dw/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318519" tvg-name="Universal Reality" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Universal_Reality.svg/revision/latest?cb=20220311032056" group-title="Premium", Universal Reality
