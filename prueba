@@ -63,4 +63,17 @@ https://rtvelivestream.rtve.es/rtvesec/int/tvei_eu_main_dvr.m3u8
 https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
 #EXTINF:-1, LA 1
 https://d2jws8nf49xuk0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ikffw175xm6u/La1ES.m3u8
-
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLt4TDx8/245h.jpg" group-title="Informativo",24h | TVE (ES)
+https://ztnr.rtve.es/ztnr/1694255.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLt4TDx8/245h.jpg" group-title="Informativo",24h | TVE | Opción 2 (ES)
+https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr_720.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLt4TDx8/245h.jpg" group-title="Informativo",24h | TVE | Opción 3 (ES)
+https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/cLt4TDx8/245h.jpg" group-title="Informativo",24h | TVE | Opción 4 (ES)
+https://jmp2.uk/sam-ESBC4100004J1.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d1P99pzB/a24.jpg" group-title="Informativo",A24 (AR)
+https://ythls.armelin.one/channel/UCR9120YBAqMfntqgRTKmkjQ.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hn3qrmp4/canal24.jpg" group-title="Informativo",Canal 24 | Noticias (CL)
+http://170.239.207.48:4050/play/CH52
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hn3qrmp4/canal24.jpg" group-title="Informativo",Canal 24 | Noticias | Opción 2 (CL)
+http://177.93.41.134:4000/play/a0bm/index.m3u8
