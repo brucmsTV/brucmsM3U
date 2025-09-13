@@ -6,11 +6,9 @@ https://jireh-9-hls-video-cl-movistar.dps.live/hls-video/ey6283je82983je9823je8j
 #EXTINF:-1 tvg-id="322443" tvg-name="Sin EPG" tvg-logo="" group-title="PRUEBA", Sin EPG
 https://i.imgur.com/8PYoeq1.mp4?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321240" tvg-name="Monitoreo Sismos Global [1080p60]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH-sYaBoN7jmBDBInjw10e9rMNX9rhiTYzkw&s" group-title="Monitoreo Sismico", Monitoreo Sismos Global [1080p60]
-https://api.m3use.projectmoose.xyz/m3u/BrunoFlores2525/BRUCMS/6859d7644b5a9e572f3b01bd.m3u8?uid=BrunoFlores2525&pkey=mD4nA73p&PlaylistM3UCL
+https://api.m3use.projectmoose.xyz/m3u/kajaaaa21/BRUCMS10092025/6859d7644b5a9e572f3b01bd.m3u8?uid=kajaaaa21&pkey=EMjfEZQt
 #EXTINF:-1 tvg-id="321230" tvg-name="Cámaras de Seguridad - Playa El Quisco - V Región Chile" tvg-logo="" group-title="YouTube (Solo Disponible en VLC o IPTV)", Cámaras de Seguridad - Playa El Quisco - V Región Chile
 https://www.youtube.com/live/QdvqVaphn9g?si=O3F5du2Qv8kTsljt&PlaylistM3UCL
-#EXTINF:-1 tvg-id="326055" tvg-name="Cámaras de Seguridad - Curepto - VII Región" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpPRLXHG_1GqtDq4OJzzn-koSxS48NvexHAg&s" group-title="Cámaras de Seguridad", Cámaras de Seguridad - Curepto - VII Región
-https://api.m3use.projectmoose.xyz/m3u/dfghjbs25/BRUCMS2/68ab793af6e6df48a2143dde.m3u8?uid=dfghjbs25&pkey=g3HSNF2J&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321239" tvg-name="Playa Acapulco - Viña del Mar - Cámara de Seguridad [1080p]" tvg-logo="" group-title="YouTube (Solo Disponible en VLC o IPTV)", Playa Acapulco - Viña del Mar - Cámara de Seguridad [1080p]
 https://www.youtube.com/live/BU1xAaNL3w0?si=EK8lPeYtSh1X_48B&PlaylistM3UCL
 #EXTINF:-1 tvg-id="324658" tvg-name="Torre Eiffel - Cámara de Seguridad " tvg-logo="https://i.ibb.co/WP9RVcq/cam4.jpg" group-title="Cámaras de Seguridad", Torre Eiffel - Cámara de Seguridad 
@@ -228,7 +226,7 @@ http://181.188.216.5:18000/play/a0co/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="326615" tvg-name="MrBeast TV" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/b/be/MrBeast_logo.jpg/revision/latest?cb=20221220174958&path-prefix=es" group-title="Premium", MrBeast TV
 https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Mr-Beast.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="326029" tvg-name="Alan Becker TV" tvg-logo="https://static.wikia.nocookie.net/animator-vs-animation-id/images/9/99/ABTV_logo.png/revision/latest?cb=20241121025902&path-prefix=id" group-title="Premium", Alan Becker TV
-https://api.m3use.projectmoose.xyz/m3u/dfghjbs25/BRUCMS2/68ba163a0141f710a8993920.m3u8?uid=dfghjbs25&pkey=g3HSNF2J&PlaylistM3UCL
+https://api.m3use.projectmoose.xyz/m3u/kajaaaa21/BRUCMS10092025/68ba163a0141f710a8993920.m3u8?uid=kajaaaa21&pkey=EMjfEZQt
 #EXTINF:-1 tvg-id="320799" tvg-name="Universal Cinema • Este" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/4/42/UniversalCinema.png/revision/latest?cb=20240130201240&path-prefix=es" group-title="Premium", Universal Cinema • Este
 http://181.188.216.5:18000/play/a0dw/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318519" tvg-name="Universal Reality" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Universal_Reality.svg/revision/latest?cb=20220311032056" group-title="Premium", Universal Reality
@@ -392,7 +390,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?Playlis
 #EXTINF:-1 tvg-id="326273" tvg-name="NBA TV" tvg-logo="https://i.postimg.cc/PJPrGwJv/NBA.jpg" group-title="ESTADOS UNIDOS", NBA TV
 http://fl5.moveonjoy.com/NBA_TV/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="325032" tvg-name="Yahoo! Finance" tvg-logo="https://s.yimg.com/os/creatr-uploaded-images/2019-09/1f16fbf0-de0a-11e9-9af9-77bfe97840a9" group-title="ESTADOS UNIDOS", Yahoo! Finance
-https://api.m3use.projectmoose.xyz/m3u/dfghjbs25/BRUCMS2/681c994a81742c00e20298b5.m3u8?uid=dfghjbs25&pkey=g3HSNF2J&PlaylistM3UCL
+https://api.m3use.projectmoose.xyz/m3u/kajaaaa21/BRUCMS10092025/681c994a81742c00e20298b5.m3u8?uid=kajaaaa21&pkey=EMjfEZQt
 #EXTINF:-1 tvg-id="324422" tvg-name="AMC [US]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="ESTADOS UNIDOS", AMC [US]
 http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322377" tvg-name="USA Network [USA]" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="ESTADOS UNIDOS", USA Network [USA]
@@ -501,6 +499,8 @@ http://200.113.4.75:7210/play/a01t/index.m3u8?PlaylistM3UCL
 http://tv14s.xyz:8080/49457200/49457200/78694?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321305" tvg-name="Trece • Colombia" tvg-logo="https://yt3.googleusercontent.com/H8Ootm-BhOcJItyXd2j5w90VZlpvEF6ptsBFUKcTs1CPGUYsvWkpN_spHmYhHwTEAfGGSTzromg=s900-c-k-c0x00ffffff-no-rj" group-title="Colombia", Trece • Colombia
 http://190.217.80.250:8888/play/a01a/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="321305" tvg-name="Canal Institucional" tvg-logo="https://yt3.googleusercontent.com/H8Ootm-BhOcJItyXd2j5w90VZlpvEF6ptsBFUKcTs1CPGUYsvWkpN_spHmYhHwTEAfGGSTzromg=s900-c-k-c0x00ffffff-no-rj"  group-title="Colombia",Canal Institucional
+http://181.188.216.5:18000/play/a0nq/index.m3u8
 #EXTINF:-1 tvg-id="318548" tvg-name="Caracol TV • Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Caracol_Televisi%C3%B3n_logo_2023.png/250px-Caracol_Televisi%C3%B3n_logo_2023.png" group-title="Colombia", Caracol TV • Colombia
 http://tv14s.xyz:8080/49457200/49457200/78700?PlaylistM3UCL
 #EXTINF:-1 tvg-id="323016" tvg-name="Radio Disney Ecuador" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/29254.v13.png" group-title="Ecuador", Radio Disney Ecuador
@@ -516,7 +516,7 @@ https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb70
 #EXTINF:-1 tvg-id="320020" tvg-name="TC Televisión HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/TC_logo2020.webp" group-title="Ecuador", TC Televisión HD
 http://181.188.216.5:18000/play/a0lv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322126" tvg-name="DNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/DNews.png/330px-DNews.png" group-title="Noticias", DNews
-https://api.m3use.projectmoose.xyz/m3u/BrunoFlores2525/BRUCMS/684301bc0214d18907789461.m3u8?uid=BrunoFlores2525&pkey=mD4nA73p&PlaylistM3UCL
+https://api.m3use.projectmoose.xyz/m3u/kajaaaa21/BRUCMS10092025/684301bc0214d18907789461.m3u8?uid=kajaaaa21&pkey=EMjfEZQt
 #EXTINF:-1 tvg-id="310460" tvg-name="Telesur" tvg-logo="https://cdn.m3u.cl/logo/499_Telesur.png" group-title="Noticias", Telesur
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="316954" tvg-name="Telemax Sonora" tvg-logo="https://i.imgur.com/u4wj40K.jpg" group-title="Mexico", Telemax Sonora
@@ -576,7 +576,7 @@ http://tv.nousiptv.com:8080/martamia/123498765/1156032?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322392" tvg-name="El País TV" tvg-logo="https://i.ibb.co/cQwqfFC/ees.jpg" group-title="ESPAÑA", El País TV
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310455" tvg-name="TVE 24h" tvg-logo="https://cdn.m3u.cl/logo/598_TVE_24H.png" group-title="ESPAÑA", TVE 24h
-https://api.m3use.projectmoose.xyz/m3u/BrunoFlores2525/BRUCMS/68123f7cfc32c725356b0d3a.m3u8?uid=BrunoFlores2525&pkey=mD4nA73p&PlaylistM3UCL
+https://api.m3use.projectmoose.xyz/m3u/kajaaaa21/BRUCMS10092025/68123f7cfc32c725356b0d3a.m3u8?uid=kajaaaa21&pkey=EMjfEZQt
 #EXTINF:-1 tvg-id="310452" tvg-name="La 1" tvg-logo="https://cdn.m3u.cl/logo/613_La_1.png" group-title="ESPAÑA", La 1
 http://directo.ddns.me:2082/Camilafuentes/NaFLe5yL7Ahs/2530?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319676" tvg-name="Latina • Perú" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f5/Latina_logo_2024.svg/revision/latest?cb=20241222034038&path-prefix=es" group-title="PERÚ", Latina • Perú
