@@ -1,28 +1,28 @@
 #EXTM3U
 #EXTINF:-1,Canal 13 HD
-http://190.110.160.210:8000/play/a00p/index.m3u8
+https://m3u.cl/channel/c13.php
 #EXTINF:-1,13 C
-http://190.110.160.210:8000/play/a0ah/index.m3u8
+http://181.188.216.5:18000/play/a0qj/index.m3u8?PlaylistM3UCL
 #EXTINF:-1,24 HORAS
-http://190.110.160.210:8000/play/a01p/index.m3u8
+http://181.188.216.5:18000/play/a0qj/index.m3u8?PlaylistM3UCL
 #EXTINF:-1,80s Hits
 http://190.110.160.210:8000/play/a06m/index.m3u8
 #EXTINF:-1,AE Mundo
-http://190.110.160.210:8000/play/a027/index.m3u8
+http://200.113.4.75:7210/play/a012/index.m3u8
 #EXTINF:-1,AXN
-http://190.110.160.210:8000/play/a038/index.m3u8
+http://200.113.4.75:7210/play/a022/index.m3u8
 #EXTINF:-1,Adult Swim
-http://190.110.160.210:8000/play/a0aa/index.m3u8
+http://181.188.216.5:18000/play/a0a1/index.m3u8
 #EXTINF:-1,Animal Planet HD
-http://190.110.160.210:8000/play/a09i/index.m3u8
+http://181.188.216.5:18000/play/a0cs/index.m3u8
 #EXTINF:-1,BabyFirst
-http://190.110.160.210:8000/play/a018/index.m3u8
+http://181.188.216.5:18000/play/a0b9/index.m3u8
 #EXTINF:-1,CANAL 13
-http://190.110.160.210:8000/play/a01i/index.m3u8
+http://200.113.4.75:7210/play/a00a/index.m3u8
 #EXTINF:-1,CDTV
-http://190.110.160.210:8000/play/a07i/index.m3u8
+https://camara.03.wl.cdnz.cl/camara19/live/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1,CHV
-http://190.110.160.210:8000/play/a01h/index.m3u8
+http://200.113.4.75:7210/play/a009/index.m3u8
 #EXTINF:-1,CHV HD
 http://190.110.160.210:8000/play/a00h/index.m3u8
 #EXTINF:-1,CNN Chile
