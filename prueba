@@ -29,12 +29,8 @@ https://bond.zappingtv.com/play/external/tntsportshd/on
 https://bond.zappingtv.com/play/external/hbo/on
 #EXTINF:-1, ZAPPING SPORTS
 https://bond.zappingtv.com/play/external/zappingsports/on
-#EXTINF:-1, TVE Internacional
-https://rtvelivestream.rtve.es/rtvesec/int/tvei_eu_main_dvr.m3u8
 #EXTINF:-1, CLAN
 https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
-#EXTINF:-1, LA 1
-https://d2jws8nf49xuk0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ikffw175xm6u/La1ES.m3u8
 #EXTINF:-1, RADIO SAN RAMON
 https://stream.zeno.fm/6nrxdtxv61kuv?1756664566964
 #EXTINF:-1, Galería Cima
