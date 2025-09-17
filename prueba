@@ -35,18 +35,8 @@ https://rtvelivestream.rtve.es/rtvesec/int/tvei_eu_main_dvr.m3u8
 https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
 #EXTINF:-1, LA 1
 https://d2jws8nf49xuk0.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3ikffw175xm6u/La1ES.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hn3qrmp4/canal24.jpg" group-title="Informativo",Canal 24 | Noticias (CL)
-http://170.239.207.48:4050/play/CH52
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/Hn3qrmp4/canal24.jpg" group-title="Informativo",Canal 24 | Noticias | Opción 2 (CL)
-http://177.93.41.134:4000/play/a0bm/index.m3u8
 #EXTINF:-1, RADIO SAN RAMON
 https://stream.zeno.fm/6nrxdtxv61kuv?1756664566964
-#EXTINF:-1, CHV PRUEBA
-https://cl-a5-i-e-qb1.cdn.mdstrm.com/live-stream-gdai/linear/hls/pa/event/V1j9hgJXRtKjBeFfx3xzFQ/stream/e43430a0-3fc7-43b2-902b-704b607e21ed:DLS/master.m3u8
-#EXTINF:-1, CASA BLANCA
-https://d3r7ms2cd6ecbc.cloudfront.net/out/v1/302f9e67d0524c55a01f2aece2e77872/index_1.m3u8?DVR
-#EXTINF:-1, WILLAX TV
-https://live2.eu-north-1b.cf.dmcdn.net/sec2(hSGHkta3NPwyHbO7kl8reIlQAlm2n-KFWTJnfniW49tOCzjmkC84ZlbvFG-UZq5UxXdhKMzMXzaLlLO-RBA9tr9SAo0AwHVSuv7Cmi6O1nc2NHzU_t96BIQ2yiv_BTCC)/cloud/3/x7x4dgx/s/live-380.m3u8
-#EXTINF:-1, GALERIA CIMA 
+#EXTINF:-1, Galería Cima
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1758094492/ei/PBDKaKW1OsujobIPjr-ygQE/ip/186.11.77.138/id/4dtFfjcTJwE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51576331/txs/51576330%2C51576331%2C51576332%2C51576333%2C51576334/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ATw7iSVwFtfn2ZMSWuD88m2L5_slLIhaRltNGfLQAlHXpS5uEa-Bx576NqPboiS7Vz1BShR_V8QZmFLv/spc/hcYD5WuIJW2uS4dgvQdhR67wDkV09--EsVNN__Yu-ryZLqTwS3Dr/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKxQwDqnVHo7b3hPaFLuvp8J10IULff_cGrTf59BHpORAiEAwm19tAzl-IHWCTMrMO_Z-mWUJDjijpzp45hB1EqGrxg%3D/file/index.m3u8
 
