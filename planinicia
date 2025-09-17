@@ -21,6 +21,10 @@ https://www.youtube.com/live/rnXIjl_Rzy4?si=mxgbNrtEH910rTVD&PlaylistM3UCL
 https://api.m3use.projectmoose.xyz/m3u/kajaaaa21/BRUCMS10092025/68688522ab6f7b95d5db8a0a.m3u8?uid=kajaaaa21&pkey=EMjfEZQt&PlaylistM3UCL
 #EXTINF:-1 tvg-id="322449" tvg-name="Cámaras de Seguridad - La Serena - Chile" tvg-logo="" group-title="Cámaras de Seguridad", Cámaras de Seguridad - La Serena - Chile
 https://api.m3use.projectmoose.xyz/m3u/kajaaaa21/BRUCMS10092025/686883ec71fdeb3de4cf9029.m3u8?uid=kajaaaa21&pkey=EMjfEZQt&PlaylistM3UCL
+#EXTINF:-1 tvg-id="327180" tvg-name="Plaza Baquedano - Cámara de Seguridad (op. 2)" tvg-logo="" group-title="Cámaras de Seguridad", Plaza Baquedano - Cámara de Seguridad (op. 2)
+https://api.m3use.projectmoose.xyz/m3u/kajaaaa21/BRUCMS10092025/68ca1d8afc3f09e544aac4be.m3u8?uid=kajaaaa21&pkey=EMjfEZQt&PlaylistM3UCL
+#EXTINF:-1 tvg-id="321234" tvg-name="Plaza Baquedano - Cámara de Seguridad [1080p]" tvg-logo="" group-title="Cámaras de Seguridad", Plaza Baquedano - Cámara de Seguridad [1080p]
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1758094492/ei/PBDKaKW1OsujobIPjr-ygQE/ip/186.11.77.138/id/4dtFfjcTJwE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51576331/txs/51576330%2C51576331%2C51576332%2C51576333%2C51576334/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ATw7iSVwFtfn2ZMSWuD88m2L5_slLIhaRltNGfLQAlHXpS5uEa-Bx576NqPboiS7Vz1BShR_V8QZmFLv/spc/hcYD5WuIJW2uS4dgvQdhR67wDkV09--EsVNN__Yu-ryZLqTwS3Dr/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKxQwDqnVHo7b3hPaFLuvp8J10IULff_cGrTf59BHpORAiEAwm19tAzl-IHWCTMrMO_Z-mWUJDjijpzp45hB1EqGrxg%3D/file/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321233" tvg-name="Costanera Center - Santiago de Chile - Cámara de Seguridad [1080p]" tvg-logo="" group-title="Cámaras de Seguridad", Costanera Center - Santiago de Chile - Cámara de Seguridad [1080p]
 https://api.m3use.projectmoose.xyz/m3u/kajaaaa21/BRUCMS10092025/68ab77e660d1a28730a7a3cf.m3u8?uid=kajaaaa21&pkey=EMjfEZQt&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321232" tvg-name="Ñuñoa - Santiago de Chile - Cámara de Seguridad [1080p]" tvg-logo="" group-title="Cámaras de Seguridad", Ñuñoa - Santiago de Chile - Cámara de Seguridad [1080p]
@@ -911,6 +915,8 @@ http://181.188.216.5:18000/play/a0f4/index.m3u8?PlaylistM3UCL
 http://181.188.216.5:18000/play/a084/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320748" tvg-name="CNN Chile Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/CNNChileRadio.png" group-title="Radio Tv Chile", CNN Chile Radio
 https://mdstrm.com/audio/663e790bd43b6e086ef99b5f/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="322385" tvg-name="CNN Chile [Respaldo]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/1200px-CNN_Chile_logo_2017.svg.png" group-title="Chile (RESPALDOS)", CNN Chile [Respaldo]
+https://jireh-1-hls-video-cl-entel.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream3/chunks.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319029" tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/1200px-CNN_Chile_logo_2017.svg.png" group-title="Chile", CNN Chile
 http://200.113.4.75:7210/play/a01k/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320795" tvg-name="ETC TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT8kibM-TVeyf1fsAOmBF8QwI0nXzqd9NFGQ&s" group-title="Chile", ETC TV
@@ -987,6 +993,8 @@ https://api.m3use.projectmoose.xyz/m3u/kajaaaa21/BRUCMS10092025/68572300dc1dfbc7
 http://200.113.4.75:7210/play/a008/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320794" tvg-name="Mega (Respaldo) [1080p]" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="Chile (RESPALDOS)", Mega (Respaldo) [1080p]
 http://181.188.216.5:18000/play/a003/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="320805" tvg-name="Mega 2 (Respaldo)" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/c/c4/Logomega2.png/revision/latest?cb=20240327172424&path-prefix=es" group-title="Chile (RESPALDOS)", Mega 2 (Respaldo)
+http://201.222.45.70:4000/play/a0e7/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320324" tvg-name="Mega 2" tvg-logo="https://cdn-w.tvdaldia.cl/logos/cartelera-tv/mega2.png" group-title="Chile", Mega 2
 http://45.232.210.1:8029/play/a006/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="309986" tvg-name="Mega" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="Chile", Mega
@@ -1025,7 +1033,3 @@ http://45.232.210.1:8029/play/a00s/index.m3u8?PlaylistM3UCL
 http://179.51.136.19:8000/play/a1hv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321170" tvg-name="M3U.cl TV" tvg-logo="https://play-lh.googleusercontent.com/puuSUeBe_IVC4n3M_-Pd6wM81715kgcVhvf5jsN5PI9C63EEEZ3qWBrPKCqX2utS_w" group-title="INFORMATIVO", M3U.cl TV
 https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="322385" tvg-name="CNN Chile [Respaldo]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/1200px-CNN_Chile_logo_2017.svg.png" group-title="Chile (RESPALDOS)", CNN Chile [Respaldo]
-https://jireh-7-hls-video-cl-movistar.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream1/chunks.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="320805" tvg-name="Retrokids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8F2zU1RedGwhJEVjPLW8w4RMYU4Gd8TEQUQ&s" group-title="Premium", Retrokids
-http://38.7.204.232:8010/play/a2bz/index.m3u8?PlaylistM3UCL
