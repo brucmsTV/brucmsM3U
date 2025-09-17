@@ -24,11 +24,11 @@ https://camara.03.wl.cdnz.cl/camara19/live/playlist.m3u8?PlaylistM3UCL&PlaylistM
 #EXTINF:-1,CHV
 http://200.113.4.75:7210/play/a009/index.m3u8
 #EXTINF:-1,CHV HD
-http://190.110.160.210:8000/play/a00h/index.m3u8
+http://181.188.216.5:18000/play/a00v/index.m3u8
 #EXTINF:-1,CNN Chile
-http://190.110.160.210:8000/play/a010/index.m3u8
+http://200.113.4.75:7210/play/a01k/index.m3u8
 #EXTINF:-1,CNN Espanol
-http://190.110.160.210:8000/play/a01d/index.m3u8
+http://200.113.4.75:7210/play/a005/index.m3u8
 #EXTINF:-1,Canal Claro
 http://190.110.160.210:8000/play/a02t/index.m3u8
 #EXTINF:-1,Cartoon Network
@@ -178,7 +178,7 @@ http://190.110.160.210:8000/play/a0ae/index.m3u8
 #EXTINF:-1,TVE
 http://190.110.160.210:8000/play/a017/index.m3u8
 #EXTINF:-1,TVN
-http://190.110.160.210:8000/play/a01f/index.m3u8
+http://200.113.4.75:7210/play/a007/index.m3u8
 #EXTINF:-1,TVN HD
 http://190.110.160.210:8000/play/a00g/index.m3u8
 #EXTINF:-1,Telecanal
@@ -186,11 +186,11 @@ http://190.110.160.210:8000/play/a07s/index.m3u8
 #EXTINF:-1,Telemundo
 http://190.110.160.210:8000/play/a02o/index.m3u8
 #EXTINF:-1,TyC
-http://190.110.160.210:8000/play/a025/index.m3u8
+http://181.188.216.5:18000/play/a01e/index.m3u8
 #EXTINF:-1,UCV
-http://190.110.160.210:8000/play/a075/index.m3u8
+https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1,UCV2
-http://190.110.160.210:8000/play/a076/index.m3u8
+https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1,USA SD
 http://190.110.160.210:8000/play/a06b/index.m3u8
 #EXTINF:-1,Universal
@@ -204,8 +204,8 @@ http://190.110.160.210:8000/play/a01r/index.m3u8
 #EXTINF:-1,Venus
 http://190.110.160.210:8000/play/a057/index.m3u8
 #EXTINF:-1,ViaX
-http://190.110.160.210:8000/play/a02k/index.m3u8
+http://200.113.4.75:7210/play/a014/index.m3u8
 #EXTINF:-1,Warner Channel HD
 http://190.110.160.210:8000/play/a096/index.m3u8
 #EXTINF:-1,Zona Latina
-http://190.110.160.210:8000/play/a059/index.m3u8
+http://200.113.4.75:7210/play/a01i/index.m3u8
