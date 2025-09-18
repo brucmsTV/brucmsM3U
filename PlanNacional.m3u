@@ -1,4 +1,8 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/Public/guia-de-programacion.xml" tv-test="PlanNacional.m3u"
+#EXTINF:-1 tvg-id="327288" tvg-name="Fonda - Fiestas Patrias Paine" tvg-logo="" group-title="EVENTOS ", Fonda - Fiestas Patrias Paine
+https://api.m3use.projectmoose.xyz/m3u/kajaaaa21/BRUCMS10092025/68cb5c50d8a95e9ba4512fa4.m3u8?uid=kajaaaa21&pkey=EMjfEZQt&PlaylistM3UCL
+#EXTINF:-1 tvg-id="327176" tvg-name="La Gran Fonda de Chile" tvg-logo="https://yt3.googleusercontent.com/iEGJN0tC_TvH4XLEzj9ldVN8ksxTj0_w7rYgp6M9fxsoIayrXxK-bzZET9dNDCE-qXsRPgU2=s160-c-k-c0x00ffffff-no-rj" group-title="EVENTOS ", La Gran Fonda de Chile
+https://api.m3use.projectmoose.xyz/m3u/kajaaaa21/BRUCMS10092025/68cb5bb50f7bdf555df80c01.m3u8?uid=kajaaaa21&pkey=EMjfEZQt&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321170" tvg-name="M3U.cl TV" tvg-logo="https://play-lh.googleusercontent.com/puuSUeBe_IVC4n3M_-Pd6wM81715kgcVhvf5jsN5PI9C63EEEZ3qWBrPKCqX2utS_w" group-title="INFORMATIVO", M3U.cl TV
 https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319482" tvg-name="Telecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Telecanal_-_2011_logo_%283D_variant%29.png" group-title="Chile", Telecanal
@@ -347,5 +351,7 @@ https://api.m3use.projectmoose.xyz/m3u/dfghjbs25/BRUCMS2/685343c6deeec70abb6b136
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318339" tvg-name="Cámara de Diputados Televisión" tvg-logo="https://cdn.m3u.cl/logo/445_Camara_de_Diputados.png" group-title="Chile", Cámara de Diputados Televisión
 https://camara.03.wl.cdnz.cl/camara19/live/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="327286" tvg-name="La Chilena TV" tvg-logo="https://cdn.m3u.cl/logo/1195_La_Chilena_TV.png" group-title="Chile", La Chilena TV
+https://vdochile.com:3134/hybrid/play.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="322443" tvg-name="Sin EPG" tvg-logo="" group-title="PRUEBA", Sin EPG
 https://i.imgur.com/8PYoeq1.mp4?PlaylistM3UCL
