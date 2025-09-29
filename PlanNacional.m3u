@@ -1,8 +1,4 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/Public/guia-de-programacion.xml" tv-test="PlanNacional.m3u"
-#EXTINF:-1 tvg-id="327288" tvg-name="Fonda - Fiestas Patrias Paine" tvg-logo="" group-title="EVENTOS ", Fonda - Fiestas Patrias Paine
-https://api.m3use.projectmoose.xyz/m3u/kajaaaa21/BRUCMS10092025/68cb5c50d8a95e9ba4512fa4.m3u8?uid=kajaaaa21&pkey=EMjfEZQt&PlaylistM3UCL
-#EXTINF:-1 tvg-id="327176" tvg-name="La Gran Fonda de Chile" tvg-logo="https://yt3.googleusercontent.com/iEGJN0tC_TvH4XLEzj9ldVN8ksxTj0_w7rYgp6M9fxsoIayrXxK-bzZET9dNDCE-qXsRPgU2=s160-c-k-c0x00ffffff-no-rj" group-title="EVENTOS ", La Gran Fonda de Chile
-https://api.m3use.projectmoose.xyz/m3u/kajaaaa21/BRUCMS10092025/68cb5bb50f7bdf555df80c01.m3u8?uid=kajaaaa21&pkey=EMjfEZQt&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321170" tvg-name="M3U.cl TV" tvg-logo="https://play-lh.googleusercontent.com/puuSUeBe_IVC4n3M_-Pd6wM81715kgcVhvf5jsN5PI9C63EEEZ3qWBrPKCqX2utS_w" group-title="INFORMATIVO", M3U.cl TV
 https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319482" tvg-name="Telecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Telecanal_-_2011_logo_%283D_variant%29.png" group-title="Chile", Telecanal
@@ -153,6 +149,8 @@ https://v1.tustreaming.cl/margamargatv/tracks-v1a1/mono.m3u8?PlaylistM3UCL
 https://unlimited2-cl-isp.dps.live/vtv/vtv.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="310176" tvg-name="Canal 2 Quellon" tvg-logo="https://cdn.m3u.cl/logo/86_Canal_2_Quellon.png" group-title="Chile", Canal 2 Quellon
 https://unlimited1-cl-isp.dps.live/tvquellon/tvquellon.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="327900" tvg-name="Cooperativa Ciencia" tvg-logo="https://www.cooperativaciencia.cl/wp-content/themes/cooperativa/includes/img/desktop/logo.svg" group-title="Chile", Cooperativa Ciencia
+https://pantera1-100gb-cl-movistar.dps.live/cooperativaciencia/cooperativaciencia.smil/cooperativaciencia/livestream1/chunks.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322382" tvg-name="AE Radio TV" tvg-logo="https://i.imgur.com/425dj2i.jpeg" group-title="Chile", AE Radio TV
 https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319857" tvg-name="Carolina TV 2" tvg-logo="https://cdn.m3u.cl/logo/1127_Carolina_TV_2.png" group-title="Radio Tv Chile", Carolina TV 2
@@ -169,8 +167,8 @@ https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
 https://v1.tustreaming.cl/tv5linares/index.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="310164" tvg-name="Canal 9 Bío-Bío Televisión" tvg-logo="https://cdn.m3u.cl/logo/353_Canal_9_Bio_Bi­o_TV.png" group-title="Regionales", Canal 9 Bío-Bío Televisión
 https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
-#EXTINF:-1 tvg-id="319850" tvg-name="Radio Euskadi" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/52727.v12.png" group-title="ESPAÑA", Radio Euskadi
-https://multimedia.eitb.eus/live-content/radioeuskadi-hls/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="327906" tvg-name="ADN Radio (Opc. YouTube)" tvg-logo="https://yt3.googleusercontent.com/iKWMDFrfvrXEBt1b1v9iLCIyLVrqy2PPCyUeIeMZKFa4LYFmEXNBrZPdfuz8Yk2oyF9m-EPApA=s160-c-k-c0x00ffffff-no-rj" group-title="Canales Chilenos (YouTube)", ADN Radio (Opc. YouTube)
+https://api.m3use.projectmoose.xyz/m3u/asdng23/BRUCMS27092025/68db17c4c360016c48a09bfe.m3u8?uid=asdng23&pkey=pR5j8khz&PlaylistM3UCL
 #EXTINF:-1 tvg-id="320076" tvg-name="Radio Colo Colo 760 AM" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/330.v11.png" group-title="Radio Tv Chile", Radio Colo Colo 760 AM
 https://audio2.tustreaming.cl/7040/stream?PlaylistM3UCL
 #EXTINF:-1 tvg-id="325831" tvg-name="Santa Cruz FM" tvg-logo="https://cdn.m3u.cl/logo/1309_Santa_Cruz_FM.png" group-title="Radio Tv Chile", Santa Cruz FM
@@ -261,6 +259,8 @@ http://mdstrm.com/audio/5c8d6406f98fbf269f57c82c/icecast.audio?PlaylistM3UCL
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="310043" tvg-name="Radio Infinita" tvg-logo="https://cdn.m3u.cl/logo/425_Radio_Infinita.png" group-title="Radio Tv Chile", Radio Infinita
 https://mdstrm.com/live-stream-playlist/63a066e54ed536087960b550.m3u8?PlaylistM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="327905" tvg-name="BíoBío TV (Opc. YouTube)" tvg-logo="https://tvdaldia.cl/CDN/media/epg/canales/biobiotv.png" group-title="Canales Chilenos (YouTube)", BíoBío TV (Opc. YouTube)
+https://api.m3use.projectmoose.xyz/m3u/asdng23/BRUCMS27092025/68db1659d5961526eada5b46.m3u8?uid=asdng23&pkey=pR5j8khz&PlaylistM3UCL
 #EXTINF:-1 tvg-id="325828" tvg-name="Bío Bío TV (respaldo)" tvg-logo="https://www.clarochile.cl/portal/cl/recursos_contenido/1712161767386-BioBioTV.webp" group-title="Chile (RESPALDOS)", Bío Bío TV (respaldo)
 http://201.222.45.70:4000/play/a0c3/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310054" tvg-name="BíoBío TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeRi84e8-GGB7vVvwH268lzinlbAH29qZSgA&s" group-title="Radio Tv Chile", BíoBío TV
