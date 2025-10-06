@@ -75,6 +75,10 @@ https://archive.org/serve/abrazame-como-antes/Abra%CC%81zame%20como%20antes.mp4?
 http://venuschiletv.lat:8880/movie/premiumtv0774/LywrA5pDsjKa/427865.mp4?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320877" tvg-name="George Harris - Viña 2025 (23/02/2025)" tvg-logo="https://i.ibb.co/bMsQmxzg/Banner-festival-vina-del-mar-2025-001.jpg" group-title="Viña 2025", George Harris - Viña 2025 (23/02/2025)
 http://tvpremiund.ddns.me:2082/movie/a778822/a669988/81449.mp4?PlaylistM3UCL
+#EXTINF:-1 tvg-id="328265" tvg-name="TheGrefg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/TheGrefg_en_el_torneo_de_p%C3%A1del_de_Ibai_%282021%29.png" group-title="Twitch", TheGrefg
+https://api.m3use.projectmoose.xyz/m3u/asdng23/BRUCMS27092025/68d825fdc360016c48a09bfc.m3u8?uid=asdng23&pkey=pR5j8khz&PlaylistM3UCL
+#EXTINF:-1 tvg-id="328264" tvg-name="Vegetta777" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT06UJpucFYLd2aHputUZfyjJZCXHl8DSvXCg&s" group-title="Twitch", Vegetta777
+https://api.m3use.projectmoose.xyz/m3u/asdng23/BRUCMS27092025/68d8255bc066e4951cc1c5b4.m3u8?uid=asdng23&pkey=pR5j8khz&PlaylistM3UCL
 #EXTINF:-1 tvg-id="324889" tvg-name="El Rubius - Twitch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/El_Rubius_en_el_Festival_de_cinema_de_Sitges_2018_%28recorte%29.jpg/330px-El_Rubius_en_el_Festival_de_cinema_de_Sitges_2018_%28recorte%29.jpg" group-title="Twitch", El Rubius - Twitch
 https://api.m3use.projectmoose.xyz/m3u/BrunoFlores2525/BRUCMS/685342885d21554d2dbf7261.m3u8?uid=BrunoFlores2525&pkey=mD4nA73p&PlaylistM3UCL
 #EXTINF:-1 tvg-id="320042" tvg-name="Vevo Retro Rock" tvg-logo="https://i.imgur.com/H1Aap4E.png" group-title="Musica", Vevo Retro Rock
@@ -857,12 +861,16 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/FMDOS_SC?dist=
 https://streaming.prositel.cl/8374/stream?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319847" tvg-name="Radio Beethoven" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/332.v10.png" group-title="Radio Tv Chile", Radio Beethoven
 https://unlimited3-cl.dps.live/beethovenfm/gotardis/audio/now/livestream1.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="328263" tvg-name="Radio Corporación" tvg-logo="https://static.wixstatic.com/media/4218ee_b4956505f89246fe8d289d33de10bb6a~mv2.png/v1/fill/w_112,h_80,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/Radio%20Corporacion_Blanco%20300.png" group-title="Radio Tv Chile", Radio Corporación
+https://audio1.tustreaming.cl/8026/stream?PlaylistM3UCL
+#EXTINF:-1 tvg-id="328262" tvg-name="Radio Nuevo Tiempo" tvg-logo="https://www.nuevotiempo.cl/wp-content/uploads/2023/02/Logo-NuevoTiempo.svg" group-title="Radio Tv Chile", Radio Nuevo Tiempo
+https://stream.live.novotempo.com/radio/smil:rntChillanCL.smil/chunklist_b64000_slspa.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310051" tvg-name="Estación Metropolitana " tvg-logo="https://cdn.m3u.cl/logo/1534_Estacion_Metropolitana.png" group-title="Radio Tv Chile", Estación Metropolitana 
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319812" tvg-name="Radio Disney " tvg-logo="https://cdn.onlineradiobox.com/img/l/0/62400.v17.png" group-title="Radio Tv Chile", Radio Disney 
 https://mdstrm.com/audio/67fe714d82a1ac0e129ae3cc/live.m3u8?dist=web-radiodisney&PlaylistM3UCL
 #EXTINF:-1 tvg-id="320038" tvg-name="Radio Usach" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/3543.v16.png" group-title="Radio Tv Chile", Radio Usach
-https://stv4.janus.cl/playlist/stream.m3u8?PlaylistM3UCL
+https://rusach2.janus.cl/playlist/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319846" tvg-name="Rock & Pop" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/2920.v8.png" group-title="Radio Tv Chile", Rock & Pop
 https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_AND_POPAAC.aac?dist=onlineradiobox&PlaylistM3UCL
 #EXTINF:-1 tvg-id="320081" tvg-name="Radio Universo" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/306.v9.png" group-title="Radio Tv Chile", Radio Universo
@@ -985,6 +993,8 @@ https://redirector.dps.live/hls/13festival/playlist.m3u8?PlaylistM3UCL&PlaylistM
 https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="310174" tvg-name="13 Cultura" tvg-logo="https://cdn.m3u.cl/logo/1193_13_Cultura.png" group-title="Chile", 13 Cultura
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8?PlaylistM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="324547" tvg-name="T13 En Vivo (YouTube)" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKkAAACUCAMAAADf7/luAAAAsVBMVEX////qWSEILF4AGlVxe5UMJ1y+w86psL/qVhoAC1DoTAAAKl0AIFj+9/UAE1Pi5+ztd1PX2uH2+Pq1vcmJiqAQI1r1tqMAH1rufFr2vatsdJB+iJ9HTHL0r5rxnYcAAE7rXy7pUg4AAEntcUfoRAAuQ2z86eT508j98OzypZCIlKn3x7n74tteZ4YAAEXsaDnvhGLwk3k+U3kXOGfMztcAADZPXoAiM2OWnrHvims+QmyeeclRAAALfElEQVR4nO2ca3uiPBOAQaRyEgS7YrUV8XzA1VpfV/f//7A3QAIBJoBKpc917XxphQRuhslkMgnhOOvUqkIMLiWL5dZrpw8mpL3wth+fnf2Y5/nxfnoY9bbegl3FGkwm8sPi/G+YvOx2tJ/NlGsO5nZ92CszxZUkPhBJctHPfX+0XcE1Np" group-title="Canales Chilenos (YouTube)", T13 En Vivo (YouTube)
+https://api.m3use.projectmoose.xyz/m3u/asdng23/BRUCMS27092025/68e31a4b25ea72f7866c8d01.m3u8?uid=asdng23&pkey=pR5j8khz&PlaylistM3UCL
 #EXTINF:-1 tvg-id="309989" tvg-name="T13 En Vivo" tvg-logo="https://cdn.m3u.cl/logo/1054_T13.png" group-title="Noticias Chile", T13 En Vivo
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="316957" tvg-name="Canal 13 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Canal_13_2025.svg/revision/latest/scale-to-width-down/1000?cb=20250415161306" group-title="Chile", Canal 13 
