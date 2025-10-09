@@ -906,7 +906,7 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/IMAGINA_SC?dis
 #EXTINF:-1 tvg-id="310039" tvg-name="Nativa TV" tvg-logo="https://cdn.m3u.cl/logo/346_Nativa_TV.png" group-title="Chile", Nativa TV
 https://stmv5.voxtvhd.com.br/nativatv/nativatv/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="310036" tvg-name="Suyai TV" tvg-logo="https://cdn.m3u.cl/logo/1288_Suyai_TV.png" group-title="Chile", Suyai TV
-https://signal.suyaitv.cl/live/35/playlist.m3u8?username=ZZDemoM3uCL&password=JpunQr45z7&PlaylistM3UCL&PlaylistM3UCL
+https://signal.suyaitv.cl/live/37/playlist.m3u8?username=ZZWebSuyaiTV&password=SoloParaSitioWEBSuyaiTV&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319859" tvg-name="La Nuestra TV" tvg-logo="https://cdn.m3u.cl/logo/1472_La_Nuestra.png" group-title="Musica", La Nuestra TV
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="320757" tvg-name="La Granja TV" tvg-logo="https://cdn.m3u.cl/logo/1001_La_Granja_TV.png" group-title="Chile", La Granja TV
@@ -944,7 +944,7 @@ https://camara.03.wl.cdnz.cl/camara19/live/playlist.m3u8?PlaylistM3UCL&PlaylistM
 #EXTINF:-1 tvg-id="320759" tvg-name="CNN International • Latin America" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlwEP6k9Z5fLrhZFJIy_oS_kFsXemW5N6_kw&s" group-title="Noticias", CNN International • Latin America
 http://181.188.216.5:18000/play/a0f4/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319674" tvg-name="CNN en Español" tvg-logo="https://yt3.googleusercontent.com/jnFLuIufF5FIbyeatgUuNRCZHkdk0Fe3-KDR3sbaPobP3WZzbmGqM7vKqiPUOpFoQHcH1uKG-g=s900-c-k-c0x00ffffff-no-rj" group-title="Noticias", CNN en Español
-http://181.188.216.5:18000/play/a084/index.m3u8?PlaylistM3UCL
+http://179.51.136.19:8000/play/a1fq/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320748" tvg-name="CNN Chile Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/CNNChileRadio.png" group-title="Radio Tv Chile", CNN Chile Radio
 https://mdstrm.com/audio/663e790bd43b6e086ef99b5f/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322385" tvg-name="CNN Chile [Respaldo]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/1200px-CNN_Chile_logo_2017.svg.png" group-title="Chile (RESPALDOS)", CNN Chile [Respaldo]
@@ -954,11 +954,11 @@ https://jireh-1-hls-video-cl-entel.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/liv
 #EXTINF:-1 tvg-id="320795" tvg-name="ETC TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT8kibM-TVeyf1fsAOmBF8QwI0nXzqd9NFGQ&s" group-title="Chile", ETC TV
 http://45.181.122.46:8090/play/a00t?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320746" tvg-name="Vía X Esports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIQ2coqUc8z6ox1MvjhM76lLrOZTpntkXKQA&s" group-title="Chile", Vía X Esports
-http://181.188.216.5:18000/play/a01f/index.m3u8?PlaylistM3UCL
+http://179.51.136.19:8000/play/a1h1/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322052" tvg-name="Via X (Respaldo)" tvg-logo="https://pbs.twimg.com/profile_images/1635423578651852802/dwa1KZ_o_400x400.jpg" group-title="Chile (RESPALDOS)", Via X (Respaldo)
 http://181.78.23.26:45000/play/a01p?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320327" tvg-name="Via X" tvg-logo="https://pbs.twimg.com/profile_images/1635423578651852802/dwa1KZ_o_400x400.jpg" group-title="Chile", Via X
-http://181.188.216.5:18000/play/a0fh/index.m3u8?PlaylistM3UCL
+http://179.51.136.19:8000/play/a1hz/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318033" tvg-name="Zona Latina" tvg-logo="https://yt3.googleusercontent.com/C-QlHq6oLPiaP2JMbpgVrC6X2kEgbk_sEqm91YR7YLrT2c9X8nc7h25QF-ES-N59U2aPEj-R=s900-c-k-c0x00ffffff-no-rj" group-title="Chile", Zona Latina
 http://179.51.136.19:8000/play/a1hy/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="309994" tvg-name="TVN 3" tvg-logo="https://cdn.m3u.cl/logo/1437_TVN3.png" group-title="Chile", TVN 3
@@ -968,7 +968,7 @@ https://streaming-secure.conectaapp.cl/fmplus.cl?token=f2dbfd16fa2ed744b3039c1f8
 #EXTINF:-1 tvg-id="309991" tvg-name="TVR" tvg-logo="https://cdn.m3u.cl/logo/77_TVR.png" group-title="Regionales", TVR
 https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321572" tvg-name="13 Rec (Respaldo)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/13rec_2025.svg/revision/latest/scale-to-width-down/200?cb=20250416192151" group-title="Chile (RESPALDOS)", 13 Rec (Respaldo)
-http://181.188.216.5:18000/play/a0er/index.m3u8?PlaylistM3UCL
+http://179.51.136.19:8000/play/a1i0/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322998" tvg-name="Canal 13 Chile (YouTube)" tvg-logo="https://yt3.googleusercontent.com/d1lMOILbNU6iqX_NNkLhR2ih_kXjXtAH-8JD7N1PWDLXCBJRHiu-H4ndswgew12T0SHFexWMaeE=s160-c-k-c0x00ffffff-no-rj" group-title="Canales Chilenos (YouTube)", Canal 13 Chile (YouTube)
 https://api.m3use.projectmoose.xyz/m3u/asdng23/BRUCMS27092025/685c59fb5783e92a9638709b.m3u8?uid=asdng23&pkey=pR5j8khz&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321483" tvg-name="Canal 13 [HD - Closed Captions]" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Canal_13_2025.svg/revision/latest/scale-to-width-down/1000?cb=20250415161306" group-title="Chile (RESPALDOS)", Canal 13 [HD - Closed Captions]
@@ -1016,7 +1016,7 @@ https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8?PlaylistM3
 #EXTINF:-1 tvg-id="309992" tvg-name="UChile TV" tvg-logo="https://cdn.m3u.cl/logo/1017_U_Chile_TV.png" group-title="Chile", UChile TV
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318699" tvg-name="Chilevisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Emblema_de_Chilevisi%C3%B3n.png" group-title="Chile", Chilevisión
-http://181.188.216.5:18000/play/a0ii/index.m3u8?PlaylistM3UCL
+http://181.188.216.5:18000/play/a00v/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320811" tvg-name="Megatiempo" tvg-logo="https://yt3.googleusercontent.com/RzCO1IBS2apaz17btCM4JMmgPE4bvb8brS3C_9Rp5FNbxxsipFQOYLCMh8TqeWIt-mrmy-b8=s900-c-k-c0x00ffffff-no-rj" group-title="Chile", Megatiempo
 https://api.m3use.projectmoose.xyz/m3u/asdng23/BRUCMS27092025/68572300dc1dfbc7e71a662b.m3u8?uid=asdng23&pkey=pR5j8khz&PlaylistM3UCL
 #EXTINF:-1 tvg-id="322435" tvg-name="Meganoticias Ahora (Respaldo)" tvg-logo="https://www.clarochile.cl/portal/cl/recursos_contenido/1712167910130-MegaNoticias-48x48.webp" group-title="Chile (RESPALDOS)", Meganoticias Ahora (Respaldo)
@@ -1026,7 +1026,7 @@ https://api.m3use.projectmoose.xyz/m3u/asdng23/BRUCMS27092025/68572300dc1dfbc7e7
 #EXTINF:-1 tvg-id="322366" tvg-name="Mega [SD]" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="Canales - Chile [SD]", Mega [SD]
 http://200.113.4.75:7210/play/a008/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320794" tvg-name="Mega (Respaldo) [1080p]" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="Chile (RESPALDOS)", Mega (Respaldo) [1080p]
-http://181.188.216.5:18000/play/a003/index.m3u8?PlaylistM3UCL
+http://179.51.136.19:8000/play/a1mh/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320805" tvg-name="Mega 2 (Respaldo)" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/c/c4/Logomega2.png/revision/latest?cb=20240327172424&path-prefix=es" group-title="Chile (RESPALDOS)", Mega 2 (Respaldo)
 http://201.222.45.70:4000/play/a0e7/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320324" tvg-name="Mega 2" tvg-logo="https://cdn-w.tvdaldia.cl/logos/cartelera-tv/mega2.png" group-title="Chile", Mega 2
@@ -1044,7 +1044,7 @@ https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3
 #EXTINF:-1 tvg-id="321303" tvg-name="TVN SD" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png" group-title="Canales - Chile [SD]", TVN SD
 http://200.113.4.75:7210/play/a007/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318698" tvg-name="TVN" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png" group-title="Chile", TVN
-http://181.188.216.5:18000/play/a00u/index.m3u8?PlaylistM3UCL
+http://201.222.45.70:4000/play/a0e3/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318541" tvg-name="UCV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/UCV_2_2014.png/revision/latest?cb=20190813044108&path-prefix=es" group-title="Chile", UCV 2
 https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321688" tvg-name="TV Más (Respaldo)" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png" group-title="Chile (RESPALDOS)", TV Más (Respaldo)
