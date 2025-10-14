@@ -5,6 +5,8 @@ https://videostreaming.cloudserverlatam.com:443/htbbgdnudk/htbbgdnudk/playlist.m
 https://i.imgur.com/8PYoeq1.mp4?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321240" tvg-name="Monitoreo Sismos Global [1080p60]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH-sYaBoN7jmBDBInjw10e9rMNX9rhiTYzkw&s" group-title="Monitoreo Sismico", Monitoreo Sismos Global [1080p60]
 https://api.m3use.projectmoose.xyz/m3u/asdng23/BRUCMS27092025/6859d7644b5a9e572f3b01bd.m3u8?uid=asdng23&pkey=pR5j8khz&PlaylistM3UCL
+#EXTINF:-1 tvg-id="328594" tvg-name="Cámara de seguridad personal" tvg-logo="" group-title="Cámaras de Seguridad", Cámara de seguridad personal
+http://192.168.1.92:4747/video?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321230" tvg-name="Cámaras de Seguridad - Playa El Quisco - V Región Chile" tvg-logo="" group-title="Cámaras de Seguridad", Cámaras de Seguridad - Playa El Quisco - V Región Chile
 https://api.m3use.projectmoose.xyz/m3u/asdng23/BRUCMS27092025/68cb5fbe25ea72f7866c8ccc.m3u8?uid=asdng23&pkey=pR5j8khz&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321239" tvg-name="Playa Acapulco - Viña del Mar - Cámara de Seguridad [1080p]" tvg-logo="" group-title="Cámaras de Seguridad", Playa Acapulco - Viña del Mar - Cámara de Seguridad [1080p]
@@ -661,14 +663,18 @@ http://190.95.60.228:8500/play/a031?PlaylistM3UCL
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="316956" tvg-name="LITUS" tvg-logo="https://i.imgur.com/oiW6vgk.jpg" group-title="Argentina", LITUS
 https://stream.arcast.com.ar/litustv/ngrp:litustv_all/chunklist_w1549013966_b581072.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="328513" tvg-name="Red Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/1200px-Uno_logo.svg.png" group-title="Bolivia", Red Uno
+https://live.eu-north-1b.cf.dmcdn.net/sec2(u_obh5yUw0TEFzGY9MR95l00CgyKoPp-Fl2aK2E9GF8A2UI9HNImkHXq2GIt63KpqyiYKalP4XiG9Nst6NUkv5O4b8NJZDdAtuEymmBiP9mw7AEmaqGaQN3CDocZ4imT)/dm/3/x9n2qyk/d/live-380.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="316977" tvg-name="Bolivia TV" tvg-logo="https://i.imgur.com/t3iBU2b.png" group-title="Bolivia", Bolivia TV
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="328512" tvg-name="Teletica-7" tvg-logo="https://static3.teletica.com/Files/Sizes/2024/4/5/teletica7_717404571_380x260.png" group-title="COSTA RICA", Teletica-7
+https://cdn01.teletica.com/TeleticaLiveStream/Stream/TeleticaLiveStream/Stream7live4/chunks_dvr.m3u8?nimblesessionid=69104891&PlaylistM3UCL
 #EXTINF:-1 tvg-id="316978" tvg-name="Radio 88 Stereo" tvg-logo="https://i.imgur.com/jDY79XE.png" group-title="COSTA RICA", Radio 88 Stereo
 https://s1.tvdatta.com:3972/live/88stereolive.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="316979" tvg-name="IQ TV " tvg-logo="https://i.imgur.com/fhkPU6a.png" group-title="COSTA RICA", IQ TV 
 http://rtmp.info:8081/iqtv/envivo/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="316980" tvg-name="WOW TV" tvg-logo="https://i.imgur.com/PY3566n.png" group-title="El Salvador", WOW TV
-http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?PlaylistM3UCL
+https://cdn-edge1.cef-technology.com/wow/wow_tv/chunks.m3u8?nimblesessionid=342470&PlaylistM3UCL
 #EXTINF:-1 tvg-id="316949" tvg-name="Nuevo Tiempo" tvg-logo="https://i.imgur.com/1Ve91c2.png" group-title="RELIGIOSO", Nuevo Tiempo
 http://stream.novotempo.com:1935/tv/smil:tvnuevotiempo.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321173" tvg-name="Canal del Caballo " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_xvWxCk74O1qQ5cB8JKhbTHBryd68HFHXnA&s" group-title="Deportes", Canal del Caballo 
@@ -958,7 +964,7 @@ https://api.m3use.projectmoose.xyz/m3u/asdng23/BRUCMS27092025/685343c6deeec70abb
 #EXTINF:-1 tvg-id="318340" tvg-name="TV Senado" tvg-logo="https://cdn.m3u.cl/logo/444_TV_Senado.png" group-title="Chile", TV Senado
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318339" tvg-name="Cámara de Diputados Televisión" tvg-logo="https://cdn.m3u.cl/logo/445_Camara_de_Diputados.png" group-title="Chile", Cámara de Diputados Televisión
-https://camara.03.wl.cdnz.cl/camara19/live/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
+https://tls-cl.cdnz.cl/streamdiptudadosa/live/chunklist_w185956816.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320759" tvg-name="CNN International • Latin America" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlwEP6k9Z5fLrhZFJIy_oS_kFsXemW5N6_kw&s" group-title="Noticias", CNN International • Latin America
 http://181.188.216.5:18000/play/a0f4/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319674" tvg-name="CNN en Español" tvg-logo="https://yt3.googleusercontent.com/jnFLuIufF5FIbyeatgUuNRCZHkdk0Fe3-KDR3sbaPobP3WZzbmGqM7vKqiPUOpFoQHcH1uKG-g=s900-c-k-c0x00ffffff-no-rj" group-title="Noticias", CNN en Español
@@ -1089,3 +1095,5 @@ http://45.232.210.1:8029/play/a00s/index.m3u8?PlaylistM3UCL
 http://179.51.136.19:8000/play/a1hv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321170" tvg-name="M3U.cl TV" tvg-logo="https://play-lh.googleusercontent.com/puuSUeBe_IVC4n3M_-Pd6wM81715kgcVhvf5jsN5PI9C63EEEZ3qWBrPKCqX2utS_w" group-title="INFORMATIVO", M3U.cl TV
 https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="326271" tvg-name="Canal 13 (Señal de Pruebas)" tvg-logo="" group-title="PRUEBA", Canal 13 (Señal de Pruebas)
+https://jireh-9-hls-video-cl-movistar.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13live/13live.smil/13live/livestream1/chunks.m3u8?PlaylistM3UCL
