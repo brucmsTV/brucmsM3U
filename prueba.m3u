@@ -27,28 +27,14 @@ https://jireh-7-hls-video-cl-movistar.dps.live/hls-video/339f69c6122f6d8f4574732
 https://bond.zappingtv.com/play/external/tntsportshd/on
 #EXTINF:-1, HBO
 https://bond.zappingtv.com/play/external/hbo/on
-#EXTINF:-1, ZAPPING SPORTS
-https://bond.zappingtv.com/play/external/zappingsports/on
 #EXTINF:-1, CLAN
 https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
-#EXTINF:-1, RADIO SAN RAMON
-https://stream.zeno.fm/6nrxdtxv61kuv?1756664566964
-#EXTINF:-1, Galería Cima
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1758094492/ei/PBDKaKW1OsujobIPjr-ygQE/ip/186.11.77.138/id/4dtFfjcTJwE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51576331/txs/51576330%2C51576331%2C51576332%2C51576333%2C51576334/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ATw7iSVwFtfn2ZMSWuD88m2L5_slLIhaRltNGfLQAlHXpS5uEa-Bx576NqPboiS7Vz1BShR_V8QZmFLv/spc/hcYD5WuIJW2uS4dgvQdhR67wDkV09--EsVNN__Yu-ryZLqTwS3Dr/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAKxQwDqnVHo7b3hPaFLuvp8J10IULff_cGrTf59BHpORAiEAwm19tAzl-IHWCTMrMO_Z-mWUJDjijpzp45hB1EqGrxg%3D/file/index.m3u8
-#EXTINF:-1, USA NETWORK
-https://streamer1.nexgen.bz/USA/index.m3u8
-#EXTINF:-1, AMC
-https://streamer1.nexgen.bz/AMC/index.m3u8
-#EXTINF:-1, COMEDY CENTRAL USA
-https://streamer1.nexgen.bz/COMEDY_CENTRAL/index.m3u8
-#EXTINF:-1, BEFDYT TV (PRUEBA)
-https://euw13.playlist.ttvnw.net/v1/playlist/CvUE78iVDYTMIpp2zNIgHDxq6_Ib5h6IouJsd4yhVop0KV6VcMYAVJ3wuOJ391QpG1Bb3G_CJ8A_DMMEmJzObp-iJhRgx0Zl-ZaFTF6xmR_d_zmNq7cIXT8R4h3j0rMAuAygJA9arVW-TaBtz97hRdUwibDHnc3pHJ-9_zfgGEWWCJYaRN70uYP6_iVmEGqzJXjeVZLFUhNCHYc8qcFo89xeG3TZj93ezAMA6bnbIG3Vwz0SAUq2Jf894OvgYTBuCNXGkE-YJrIGpaLA6NvZ9-3YFMWE6ExyPc_caxoismYqGLQdBpvirE8GXWGxPnRa0aKRaxWori5K5htzNqed_FD0EA_nVLTEcccGrGjxt71VIGG5CWcZpgMfUbp2GCrTBgHIDv61Xb1NcaD3kclT8fFcXzJMtIRFyWR1Q0q69XMWeHXagl-amVuACxwsHDLygMrODOLlglPUiogbu6KGwBB2EG4W_M10nxXrTzIapFrXhR4E1w-i5bxrLu2yI4pYuH6MZeTWxo175tltk_3_iwmS7zLhVQwNUR6gL4w7K9rH9pc91AESUbC1whWnsHgjboaiiySbq04bA8oXy-9xUrOQlfmwg8Xh31E-o7eTthi2RNdQn06qoG2jQo-udIuTIF_GzLnW6_K2Qqj2_9qmVAaQ4tXEXB4zwwN12uaefjP8wSZY4kieVMtOpFa1EhnrsfThNcQeYHjZK6LeJT4JZ0UVM4pCOfKZJHa5XHCv1zMYmkmb542hW173jK-xpAtEkXLyFntTaHlXy6LMHDOulZJwj4VvixpIzC3j1rKVAH7iR0q06CASYoVnYCsE8zq9ttpw6dNESiwaDAMcbnMZGQLbuNVGhyABKglldS13ZXN0LTIwrA0.m3u8
 #EXTINF:-1, CÁMARA DE SEGURIDAD 2
 http://192.168.1.92:4747/video
 #EXTINF:-1, MEGA EN VIVO
-https://mdstrm.com/live-stream-playlist/53d2c1a32640614e62a0e000.m3u8
+https://us-b4-p-e-ja16.cdn.mdstrm.com/live-stream-dai/60ca5d9a4721a43eebc87865/4a772e4bcea145e982688fd007852bbd/f624fec49dadc88894ebeff1d974eab019af7757/session/5774ad0a-8c54-45c3-acbe-a97e4bbe5093/media.m3u8?aid=53bc2bcae41e2d9c662e1ba7&uid=67ENf53o2bXW6Y7cBGNYUzhnCBhHCenc&sid=k2d9JCpTZH8kHC7WC9la5mxPclGDpnQ2&pid=9AZoJ2aD2iEWpZS6EIP89C4gOvsA9vcA&pid_dvr=1KBvS823FxKYhXrAKKDZG1zqGQ9AVRw9&c=6a18536b-86ac-4b20-a189-eff31341e778&ref=&without_cookies=false&listenerid=&dnt=true&access_token=lN1oBaJcYh2siZpSoDllVpNCcBnkcvPkbYd6EVzXTPWtAlyRsXx9o2pe5sKfxTKSXNaaN4KFPXr&es=cl-a3-p-e-hb2.cdn.mdstrm.com&ote=1760826292169&ot=GPKvbyqFRa8c5T2c9eF62Q&proto=https&pz=cl
 #EXTINF:-1, MEGAtiempo
-https://mdstrm.com/live-stream-playlist/56f97fc0b9bb39786b04a3b0.m3u8
+https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-dai/c85ddd77dde3481b86819df52a6d9b2a/manifest/f624fec49dadc88894ebeff1d974eab019af7757/6672fe49970da27e63321f1f/3e7681b5-9d58-45fd-b7b8-2aa0f545a34f/0.m3u8?aid=53bc2bcae41e2d9c662e1ba7&uid=67ENf53o2bXW6Y7cBGNYUzhnCBhHCenc&sid=k2d9JCpTZH8kHC7WC9la5mxPclGDpnQ2&pid=EeFF0zFrkM8SPav6RyEB8XXcstHRLq8Y&pid_dvr=unQuBGAG8QtVFdmbsdxI3D5d7sX3foBP&c=6a18536b-86ac-4b20-a189-eff31341e778&ref=&without_cookies=false&listenerid=&dnt=true&access_token=bllSSa5D6XCNI0sLuvhy22MfJhGr43uj0qTyK5FoNvJ8sHmClogxZEpB5DR2FU8e48ycvYDXI8G&es=cl-a3-p-e-uy6.cdn.mdstrm.com&ote=1760826250087&ot=fjoYve8Zix2ChDp_DQHC3w&proto=https&pz=cl
 #EXTINF:-1, CHV
 https://mdstrm.com/live-stream-playlist/63ee47e1daeeb80a30d98ef4.m3u8?uid=67ENf53o2bXW6Y7cBGNYUzhnCBhHCenc&sid=k2d9JCpTZH8kHC7WC9la5mxPclGDpnQ2&pid=wlTzypoXk6vu6g8qlUivzC0GV3DGB0Ys&pid_dvr=ZbV8x5iRiOnxLFlvtgTrSXrf7quWNBvA&an=mdstrm-player&at=web-app&av=v6.0.213&ref=https%3A%2F%2Fwww.chilevision.cl%2F&res=968x546&without_cookies=false&listenerid=&dnt=true&access_token=Y0ijpGxitd2w6IQXD0oe2dAVqv0UY6w0AAbeqjPbWhGEbAxpzYQMwtja8vayk1TdgfD7MA3a5s8
 #EXTINF:-1, MEGA2
@@ -56,6 +42,6 @@ https://mdstrm.com/live-stream-playlist/6526f7860f75fc601338bfcb.m3u8
 #EXTINF:-1, MEGA INTERNET
 https://mdstrm.com/live-stream-playlist/60ca5d9a4721a43eebc87865.m3u8
 #EXTINF:-1, TVN
-https://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8
+https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?uid=67ENf53o2bXW6Y7cBGNYUzhnCBhHCenc&sid=k2d9JCpTZH8kHC7WC9la5mxPclGDpnQ2&pid=TvvtLVQDba3ZAnSonTDYn77CfzA5RWaW&pid_dvr=AnyPVmVtraYjo7BgC76o6Urp0DnmWEEJ&an=tvn-play-app-web&at=web-app&av=v6.0.213&c=61a6a82e2bcc8579a214db55&ref=https%3A%2F%2Ftvnplay.cl%2F&res=806x454&without_cookies=false&listenerid=&dnt=true&access_token=7wLB7itwq9IHKtIOnnvCpZZkWCfEqCJuMQTlHfGSbwv15BAPOKlfVnsAinkPuQhqK0NDxH2t73B
 #EXTINF:-1, CHV NOTICIAS
 https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8
