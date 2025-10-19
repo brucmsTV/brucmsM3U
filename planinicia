@@ -99,8 +99,24 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc208-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c78a281-5d61-4850-8b62-74632f015343&PlaylistM3UCL
 #EXTINF:-1 tvg-id="320752" tvg-name="Stingray IConcerts" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_msajB7Az5nNajLgcde0CgODsMqN-EpJ2dcfd8JveWIiuQ=s900-c-k-c0x00ffffff-no-rj" group-title="Musica", Stingray IConcerts
 http://181.188.216.5:18000/play/a0j4/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="328945" tvg-name="70s Hits" tvg-logo="" group-title="Musica", 70s Hits
+http://168.90.221.3:8000/play/a0im/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="322100" tvg-name="80s Hits" tvg-logo="" group-title="Musica", 80s Hits
+http://168.90.221.3:8000/play/a0in/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="328952" tvg-name="Classic Rock" tvg-logo="" group-title="Musica", Classic Rock
+http://168.90.221.3:8000/play/a0il/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="328944" tvg-name="Love Music" tvg-logo="" group-title="Musica", Love Music
+http://168.90.221.3:8000/play/a0ik/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="322102" tvg-name="Reggae" tvg-logo="" group-title="Musica", Reggae
+http://168.90.221.3:8000/play/a0io/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="322103" tvg-name="Reggaeton" tvg-logo="" group-title="Musica", Reggaeton
+http://168.90.221.3:8000/play/a0ip/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="328943" tvg-name="Regional Mexicano" tvg-logo="" group-title="Musica", Regional Mexicano
+http://168.90.221.3:8000/play/a0ir/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="328946" tvg-name="Rock Latino" tvg-logo="" group-title="Musica", Rock Latino
+http://168.90.221.3:8000/play/a0iq/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322105" tvg-name="Symphonic" tvg-logo="" group-title="Musica", Symphonic
-https://api.m3use.projectmoose.xyz/m3u/BrunoFlores2525/BRUCMS/6808d43ed55a92ef4386b153.m3u8?uid=BrunoFlores2525&pkey=mD4nA73p&PlaylistM3UCL
+http://168.90.221.3:8000/play/a0ii/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="328487" tvg-name="Eternal Metal" tvg-logo="https://cdn.m3u.cl/logo/1312_Eternal_Metal.png" group-title="Musica", Eternal Metal
 https://vdo1.panelstreaming.live:3350/hybrid/play.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="324453" tvg-name="From Hell" tvg-logo="https://i.postimg.cc/gkJQxhJD/starf.jpg" group-title="Musica", From Hell
@@ -985,6 +1001,8 @@ http://200.113.4.75:7210/play/a01k/index.m3u8?PlaylistM3UCL
 https://jireh-1-hls-video-cl-entel.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream3/chunks.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320795" tvg-name="ETC TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT8kibM-TVeyf1fsAOmBF8QwI0nXzqd9NFGQ&s" group-title="Chile", ETC TV
 http://45.181.122.46:8090/play/a00t?PlaylistM3UCL
+#EXTINF:-1 tvg-id="328949" tvg-name="eSports Chile TV" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fbce066f-e10c-4785-a68b-b6e6ad3b8913-profile_image-300x300.png" group-title="Chile", eSports Chile TV
+http://186.78.53.223:1080/play/a19h?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320746" tvg-name="Vía X Esports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIQ2coqUc8z6ox1MvjhM76lLrOZTpntkXKQA&s" group-title="Chile", Vía X Esports
 http://179.51.136.19:8000/play/a1h1/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322052" tvg-name="Via X (Respaldo)" tvg-logo="https://pbs.twimg.com/profile_images/1635423578651852802/dwa1KZ_o_400x400.jpg" group-title="Chile (RESPALDOS)", Via X (Respaldo)
