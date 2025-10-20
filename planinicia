@@ -802,7 +802,7 @@ https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL&Playli
 #EXTINF:-1 tvg-id="319850" tvg-name="Radio Euskadi" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/52727.v12.png" group-title="ESPAÑA", Radio Euskadi
 https://multimedia.eitb.eus/live-content/radioeuskadi-hls/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="327906" tvg-name="ADN Radio (Opc. YouTube)" tvg-logo="https://yt3.googleusercontent.com/iKWMDFrfvrXEBt1b1v9iLCIyLVrqy2PPCyUeIeMZKFa4LYFmEXNBrZPdfuz8Yk2oyF9m-EPApA=s160-c-k-c0x00ffffff-no-rj" group-title="Canales Chilenos (YouTube)", ADN Radio (Opc. YouTube)
-https://api.m3use.projectmoose.xyz/m3u/asdng23/BRUCMS27092025/68db17c4c360016c48a09bfe.m3u8?uid=asdng23&pkey=pR5j8khz&PlaylistM3UCL
+https://api.m3use.projectmoose.xyz/m3u/ashdqa11/BRUCMS13102025/68f6be436223bd33c3b456c2.m3u8?uid=ashdqa11&pkey=26uPutjZ&PlaylistM3UCL
 #EXTINF:-1 tvg-id="328648" tvg-name="El Conquistador Concepción" tvg-logo="https://cdn.m3u.cl/logo/419_El_Conquistador_Concepcion.png" group-title="Radio Tv Chile", El Conquistador Concepción
 https://v1.tustreaming.cl/conquistadorconcepcion/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320076" tvg-name="Radio Colo Colo 760 AM" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/330.v11.png" group-title="Radio Tv Chile", Radio Colo Colo 760 AM
@@ -880,7 +880,7 @@ http://audio.armonia.cl:3032/1.mp3?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310044" tvg-name="Radio Romántica" tvg-logo="https://cdn.m3u.cl/logo/428_Radio_Romantica.png" group-title="Radio Tv Chile", Radio Romántica
 https://mdstrm.com/live-stream-playlist/63a0674c1137d408b45d4821.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="328474" tvg-name="Tele13 Radio TV" tvg-logo="https://yt3.googleusercontent.com/0P1_MXfXqpJxXRPiSMzmhQInwx6e-3EqU9Q8SEUNejCrimtvx7TY6DzyUGsbqOq1r_cwm5PJ=s900-c-k-c0x00ffffff-no-rj" group-title="Canales Chilenos (YouTube)", Tele13 Radio TV
-https://api.m3use.projectmoose.xyz/m3u/asdng23/BRUCMS27092025/68e82c2a0f7bdf555df80c35.m3u8?uid=asdng23&pkey=pR5j8khz&PlaylistM3UCL
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1761023000/ei/uL_2aKuwH43LgM8P9NK0eQ/ip/186.105.148.71/id/KlVIXH50GrA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ATw7iSXSn5ZZD9ZG88l8lsqOZ8aNqVu4AcNAPq1id7rzBzjHh15B-j7VAEWbI-HcL0rm-iY7Dz3yDiii/spc/hcYD5V5CpqVR7oCQGP6BtSVUTDxONQ5Q8qRAarO9NPbArvHAfm0m/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgbKoZFkFlcvBEfKeTGRkMKERtPj4-2rKMWVvyp0gOBLACIQD4KNPlXftcp41qjTfor7G8-tLg45XSntIZWa2N0etEyg%3D%3D/file/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319848" tvg-name="Tele13 Radio 103.3 FM" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/63666.v9.png" group-title="Radio Tv Chile", Tele13 Radio 103.3 FM
 https://mdstrm.com/audio/5c915613519bce27671c4caa/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322432" tvg-name="Radio La Consentida 103.1 FM" tvg-logo="https://i.ibb.co/1YTkSKTZ/Logo-03-1.png" group-title="Radio Tv Chile", Radio La Consentida 103.1 FM
@@ -900,7 +900,7 @@ https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274
 #EXTINF:-1 tvg-id="310043" tvg-name="Radio Infinita" tvg-logo="https://cdn.m3u.cl/logo/425_Radio_Infinita.png" group-title="Radio Tv Chile", Radio Infinita
 https://mdstrm.com/live-stream-playlist/63a066e54ed536087960b550.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="327905" tvg-name="BíoBío TV (Opc. YouTube)" tvg-logo="https://tvdaldia.cl/CDN/media/epg/canales/biobiotv.png" group-title="Canales Chilenos (YouTube)", BíoBío TV (Opc. YouTube)
-https://api.m3use.projectmoose.xyz/m3u/asdng23/BRUCMS27092025/68db1659d5961526eada5b46.m3u8?uid=asdng23&pkey=pR5j8khz&PlaylistM3UCL
+https://api.m3use.projectmoose.xyz/m3u/ashdqa11/BRUCMS13102025/68f6bebc6eeeb7b348dff695.m3u8?uid=ashdqa11&pkey=26uPutjZ&PlaylistM3UCL
 #EXTINF:-1 tvg-id="325828" tvg-name="Bío Bío TV (respaldo)" tvg-logo="https://www.clarochile.cl/portal/cl/recursos_contenido/1712161767386-BioBioTV.webp" group-title="Chile (RESPALDOS)", Bío Bío TV (respaldo)
 http://201.222.45.70:4000/play/a0c3/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310054" tvg-name="BíoBío TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeRi84e8-GGB7vVvwH268lzinlbAH29qZSgA&s" group-title="Radio Tv Chile", BíoBío TV
