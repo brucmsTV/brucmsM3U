@@ -89,6 +89,8 @@ https://jireh-1-hls-video-cl-entel.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/liv
 http://200.113.4.75:7210/play/a01k/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320327" tvg-name="Via X" tvg-logo="https://pbs.twimg.com/profile_images/1635423578651852802/dwa1KZ_o_400x400.jpg" group-title="Chile", Via X
 http://181.188.216.5:18000/play/a0fh/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="328949" tvg-name="eSports Chile TV" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fbce066f-e10c-4785-a68b-b6e6ad3b8913-profile_image-300x300.png" group-title="Chile", eSports Chile TV
+http://186.78.53.223:1080/play/a19h?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318033" tvg-name="Zona Latina" tvg-logo="https://yt3.googleusercontent.com/C-QlHq6oLPiaP2JMbpgVrC6X2kEgbk_sEqm91YR7YLrT2c9X8nc7h25QF-ES-N59U2aPEj-R=s900-c-k-c0x00ffffff-no-rj" group-title="Chile", Zona Latina
 http://179.51.136.19:8000/play/a1hy/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310181" tvg-name="13 Deportes" tvg-logo="https://cdn.m3u.cl/logo/1199_D13.png" group-title="Deportes", 13 Deportes
@@ -357,3 +359,21 @@ https://vdochile.com:3134/hybrid/play.m3u8?PlaylistM3UCL&PlaylistM3UCL
 https://jireh-9-hls-video-cl-movistar.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13live/13live.smil/13live/livestream1/chunks.m3u8?PlaylistM3UCl
 #EXTINF:-1 tvg-id="322443" tvg-name="Sin EPG" tvg-logo="" group-title="PRUEBA", Sin EPG
 https://i.imgur.com/8PYoeq1.mp4?PlaylistM3UCL
+#EXTINF:-1 tvg-id="328945" tvg-name="70s Hits" tvg-logo="" group-title="Musica", 70s Hits
+http://168.90.221.3:8000/play/a0im/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="322100" tvg-name="80s Hits" tvg-logo="" group-title="Musica", 80s Hits
+http://168.90.221.3:8000/play/a0in/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="328952" tvg-name="Classic Rock" tvg-logo="" group-title="Musica", Classic Rock
+http://168.90.221.3:8000/play/a0il/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="328944" tvg-name="Love Music" tvg-logo="" group-title="Musica", Love Music
+http://168.90.221.3:8000/play/a0ik/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="322102" tvg-name="Reggae" tvg-logo="" group-title="Musica", Reggae
+http://168.90.221.3:8000/play/a0io/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="322103" tvg-name="Reggaeton" tvg-logo="" group-title="Musica", Reggaeton
+http://168.90.221.3:8000/play/a0ip/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="328943" tvg-name="Regional Mexicano" tvg-logo="" group-title="Musica", Regional Mexicano
+http://168.90.221.3:8000/play/a0ir/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="328946" tvg-name="Rock Latino" tvg-logo="" group-title="Musica", Rock Latino
+http://168.90.221.3:8000/play/a0iq/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="322105" tvg-name="Symphonic" tvg-logo="" group-title="Musica", Symphonic
+http://168.90.221.3:8000/play/a0ii/index.m3u8?PlaylistM3UCL
