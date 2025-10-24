@@ -13,6 +13,8 @@ https://api.m3use.projectmoose.xyz/m3u/asdng23/BRUCMS27092025/6859d7644b5a9e572f
 http://192.168.1.92:4747/video?PlaylistM3UCL
 #EXTINF:-1 tvg-id="328646" tvg-name="CCTV-PRUEBA" tvg-logo="" group-title="Cámaras de Seguridad", CCTV-PRUEBA
 http://192.168.1.84:4747/video?PlaylistM3UCL
+#EXTINF:-1 tvg-id="326055" tvg-name="Cámaras de Seguridad - Curepto - VII Región" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpPRLXHG_1GqtDq4OJzzn-koSxS48NvexHAg&s" group-title="Cámaras de Seguridad", Cámaras de Seguridad - Curepto - VII Región
+https://api.m3use.projectmoose.xyz/m3u/ashdqa11/BRUCMS13102025/68faca324eef3d0b7ddeb0f3.m3u8?uid=ashdqa11&pkey=26uPutjZ&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321230" tvg-name="Cámaras de Seguridad - Playa El Quisco - V Región Chile" tvg-logo="" group-title="Cámaras de Seguridad", Cámaras de Seguridad - Playa El Quisco - V Región Chile
 https://api.m3use.projectmoose.xyz/m3u/asdng23/BRUCMS27092025/68cb5fbe25ea72f7866c8ccc.m3u8?uid=asdng23&pkey=pR5j8khz&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321239" tvg-name="Playa Acapulco - Viña del Mar - Cámara de Seguridad [1080p]" tvg-logo="" group-title="Cámaras de Seguridad", Playa Acapulco - Viña del Mar - Cámara de Seguridad [1080p]
@@ -884,7 +886,7 @@ http://audio.armonia.cl:3032/1.mp3?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310044" tvg-name="Radio Romántica" tvg-logo="https://cdn.m3u.cl/logo/428_Radio_Romantica.png" group-title="Radio Tv Chile", Radio Romántica
 https://mdstrm.com/live-stream-playlist/63a0674c1137d408b45d4821.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="328474" tvg-name="Tele13 Radio TV" tvg-logo="https://yt3.googleusercontent.com/0P1_MXfXqpJxXRPiSMzmhQInwx6e-3EqU9Q8SEUNejCrimtvx7TY6DzyUGsbqOq1r_cwm5PJ=s900-c-k-c0x00ffffff-no-rj" group-title="Canales Chilenos (YouTube)", Tele13 Radio TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1761023000/ei/uL_2aKuwH43LgM8P9NK0eQ/ip/186.105.148.71/id/KlVIXH50GrA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ATw7iSXSn5ZZD9ZG88l8lsqOZ8aNqVu4AcNAPq1id7rzBzjHh15B-j7VAEWbI-HcL0rm-iY7Dz3yDiii/spc/hcYD5V5CpqVR7oCQGP6BtSVUTDxONQ5Q8qRAarO9NPbArvHAfm0m/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgbKoZFkFlcvBEfKeTGRkMKERtPj4-2rKMWVvyp0gOBLACIQD4KNPlXftcp41qjTfor7G8-tLg45XSntIZWa2N0etEyg%3D%3D/file/index.m3u8?PlaylistM3UCL
+https://api.m3use.projectmoose.xyz/m3u/ashdqa11/BRUCMS13102025/68f6bf926223bd33c3b456c3.m3u8?uid=ashdqa11&pkey=26uPutjZ&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319848" tvg-name="Tele13 Radio 103.3 FM" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/63666.v9.png" group-title="Radio Tv Chile", Tele13 Radio 103.3 FM
 https://mdstrm.com/audio/5c915613519bce27671c4caa/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322432" tvg-name="Radio La Consentida 103.1 FM" tvg-logo="https://i.ibb.co/1YTkSKTZ/Logo-03-1.png" group-title="Radio Tv Chile", Radio La Consentida 103.1 FM
@@ -970,7 +972,7 @@ https://oracle.streaminghd.cl/8126/8126/playlist.m3u8?PlaylistM3UCL&PlaylistM3UC
 #EXTINF:-1 tvg-id="310162" tvg-name="El 3 de Conce" tvg-logo="https://cdn.m3u.cl/logo/65_El_3_de_Conce.png" group-title="Chile", El 3 de Conce
 https://5ff3d9babae13.streamlock.net:443/xedkektnqj/xedkektnqj/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="322262" tvg-name="BEFDYT TV" tvg-logo="https://yt3.googleusercontent.com/v6rJI6z27p1JOg80l_astX63_Pl-xHZCdnUu7Dzw36N3sYVjJBPUyx4C6Puf0q9FJMpGfyERGg4=s160-c-k-c0x00ffffff-no-rj" group-title="Chile", BEFDYT TV
-https://api.m3use.projectmoose.xyz/m3u/asdng23/BRUCMS27092025/68560d5fe5508a7485d4f1c3.m3u8?uid=asdng23&pkey=pR5j8khz&PlaylistM3UCL
+https://api.m3use.projectmoose.xyz/m3u/ashdqa11/BRUCMS13102025/68560d5fe5508a7485d4f1c3.m3u8?uid=ashdqa11&pkey=26uPutjZ&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319061" tvg-name="Canal Turno" tvg-logo="https://cdn.m3u.cl/logo/1666_TurnoEnVivo.png" group-title="Chile", Canal Turno
 https://jireh-4-hls-video-cl-movistar.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/turno/turno.smil/turno/livestream1/chunks.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310038" tvg-name="Vision Plus TV" tvg-logo="https://cdn.m3u.cl/logo/1024_Vision_Plus_TV.jpg" group-title="Chile", Vision Plus TV
@@ -1001,6 +1003,8 @@ https://tls-cl.cdnz.cl/streamdiptudadosa/live/chunklist_w185956816.m3u8?Playlist
 http://179.51.136.19:8000/play/a1ff/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319674" tvg-name="CNN en Español" tvg-logo="https://yt3.googleusercontent.com/jnFLuIufF5FIbyeatgUuNRCZHkdk0Fe3-KDR3sbaPobP3WZzbmGqM7vKqiPUOpFoQHcH1uKG-g=s900-c-k-c0x00ffffff-no-rj" group-title="Noticias", CNN en Español
 http://179.51.136.19:8000/play/a1fq/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="329293" tvg-name="Sin Filtros TV" tvg-logo="https://yt3.googleusercontent.com/REkXA9PDR4JzGyuj2jaG74RgM3U2UTKnVfh4Vw4oTqbaV1P4zloxLwUvNe89OQRfPqIPpj3JHw=s160-c-k-c0x00ffffff-no-rj" group-title="Chile", Sin Filtros TV
+https://api.m3use.projectmoose.xyz/m3u/ashdqa11/BRUCMS13102025/68facf19fc0a88ccea0de92b.m3u8?uid=ashdqa11&pkey=26uPutjZ&PlaylistM3UCL
 #EXTINF:-1 tvg-id="320748" tvg-name="CNN Chile Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/CNNChileRadio.png" group-title="Radio Tv Chile", CNN Chile Radio
 https://mdstrm.com/audio/663e790bd43b6e086ef99b5f/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322385" tvg-name="CNN Chile [Respaldo]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/1200px-CNN_Chile_logo_2017.svg.png" group-title="Chile (RESPALDOS)", CNN Chile [Respaldo]
@@ -1069,6 +1073,8 @@ http://tv14s.xyz:8080/49457200/49457200/164884?PlaylistM3UCL
 https://jmp2.uk/plu-62aa5740a47b6c000769f407.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310182" tvg-name="CHV Deportes" tvg-logo="https://cdn.m3u.cl/logo/1569_CHV_Deportes.png" group-title="Chile", CHV Deportes
 https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8?PlaylistM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="329291" tvg-name="CHV Noticias (Opc. YouTube)" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png" group-title="Canales Chilenos (YouTube)", CHV Noticias (Opc. YouTube)
+https://api.m3use.projectmoose.xyz/m3u/ashdqa11/BRUCMS13102025/68fac971344e9f79bf9ad13d.m3u8?uid=ashdqa11&pkey=26uPutjZ&PlaylistM3UCL
 #EXTINF:-1 tvg-id="317772" tvg-name="CHV Noticias" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png" group-title="Noticias Chile", CHV Noticias
 https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="309992" tvg-name="UChile TV" tvg-logo="https://cdn.m3u.cl/logo/1017_U_Chile_TV.png" group-title="Chile", UChile TV
@@ -1079,6 +1085,8 @@ http://179.51.136.19:8000/play/a1ac/index.m3u8?PlaylistM3UCL
 https://api.m3use.projectmoose.xyz/m3u/ashdqa11/BRUCMS13102025/68572300dc1dfbc7e71a662b.m3u8?uid=ashdqa11&pkey=26uPutjZ&PlaylistM3UCL
 #EXTINF:-1 tvg-id="310175" tvg-name="Meganoticias" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwxEO03gK-QrKTR_qwT76CzhAhQZwYXfnn8Q&s" group-title="Noticias Chile", Meganoticias
 https://api.m3use.projectmoose.xyz/m3u/ashdqa11/BRUCMS13102025/68572300dc1dfbc7e71a662b.m3u8?uid=ashdqa11&pkey=26uPutjZ&PlaylistM3UCL
+#EXTINF:-1 tvg-id="329292" tvg-name="Mega (YouTube)" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="Canales Chilenos (YouTube)", Mega (YouTube)
+https://api.m3use.projectmoose.xyz/m3u/ashdqa11/BRUCMS13102025/68faca01fe38f7ba39f8e07f.m3u8?uid=ashdqa11&pkey=26uPutjZ&PlaylistM3UCL
 #EXTINF:-1 tvg-id="322366" tvg-name="Mega [SD]" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="Canales - Chile [SD]", Mega [SD]
 http://200.113.4.75:7210/play/a008/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320794" tvg-name="Mega (Respaldo) [1080p]" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="Chile (RESPALDOS)", Mega (Respaldo) [1080p]
@@ -1124,4 +1132,4 @@ http://45.232.210.1:8029/play/a00s/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319482" tvg-name="Telecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Telecanal_-_2011_logo_%283D_variant%29.png" group-title="Chile", Telecanal
 http://179.51.136.19:8000/play/a1hv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321170" tvg-name="M3U.cl TV" tvg-logo="https://play-lh.googleusercontent.com/puuSUeBe_IVC4n3M_-Pd6wM81715kgcVhvf5jsN5PI9C63EEEZ3qWBrPKCqX2utS_w" group-title="INFORMATIVO", M3U.cl TV
-https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
+https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8
