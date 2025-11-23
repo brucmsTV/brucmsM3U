@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/Public/guia-de-programacion.xml" tv-test="bruno2255.m3u"
+#EXTINF:-1 tvg-name="+ Listas en M3U.CL" tvg-logo="https://www.m3u.cl/logo/156___Listas_en_M3U_CL.png", + Listas en M3U.CL * | CL
+https://videostreaming.cloudserverlatam.com:443/htbbgdnudk/htbbgdnudk/playlist.m3u8
 #EXTINF:-1 tvg-id="322443" tvg-name="Sin EPG" tvg-logo="" group-title="PRUEBA", Sin EPG
 https://i.imgur.com/8PYoeq1.mp4?PlaylistM3UCL
 #EXTINF:-1 tvg-id="326271" tvg-name="Canal 13 (Señal de Pruebas)" tvg-logo="" group-title="PRUEBA", Canal 13 (Señal de Pruebas)
@@ -989,8 +991,6 @@ https://mdstrm.com/audio/663e790bd43b6e086ef99b5f/live.m3u8?PlaylistM3UCL
 http://45.181.122.46:8090/play/a03c?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319029" tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/1200px-CNN_Chile_logo_2017.svg.png" group-title="Chile", CNN Chile
 https://jireh-1-hls-video-cl-entel.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream3/chunks.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="329423" tvg-name="eSports Chile TV" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.twitch.tv%2Fesports_chile_oficial%2Fvideos%3Ffilter%3Dclips%26lang%3Des-mx&psig=AOvVaw0GCbEd95neRXwP0RHDkT-e&ust=1762110714897000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMiBx4zU0ZADFQAAAAAdAAAAABAE" group-title="Chile", eSports Chile TV
-http://186.78.38.205:1080/play/a19h?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320795" tvg-name="ETC TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT8kibM-TVeyf1fsAOmBF8QwI0nXzqd9NFGQ&s" group-title="Chile", ETC TV
 http://179.57.171.184:8000/play/a00g?PlaylistM3UCL
 #EXTINF:-1 tvg-id="329910" tvg-name="Docu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpWpqLXSnNqvvBGQVyi1tYDYfsTg7LvnCIIg&s" group-title="Chile", Docu
