@@ -2125,44 +2125,40 @@ https://vcp10.myplaytv.com/tvs/tvs/playlist.m3u8?PlaylistM3UCL
 https://vcp2.myplaytv.com/valetv/valetv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="520" tvg-name="Venevision" tvg-logo="https://cdn.m3u.cl/logo/520_Venevision.png", Venevision | VE
 http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-name="+ Listas en M3U.CL" tvg-logo="https://www.m3u.cl/logo/156___Listas_en_M3U_CL.png", + Listas en M3U.CL * | CL
-https://videostreaming.cloudserverlatam.com:443/htbbgdnudk/htbbgdnudk/playlist.m3u8
 #EXTINF:-1 tvg-id="322443" tvg-name="Sin EPG" tvg-logo="" group-title="PRUEBA", Sin EPG
 https://i.imgur.com/8PYoeq1.mp4?PlaylistM3UCL
 #EXTINF:-1 tvg-id="326271" tvg-name="Canal 13 (Señal de Pruebas)" tvg-logo="" group-title="PRUEBA", Canal 13 (Señal de Pruebas)
 https://jireh-9-hls-video-cl-movistar.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/13live/13live.smil/13live/livestream1/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="322435" tvg-name="Eventos HD" tvg-logo="https://media.istockphoto.com/id/1208395845/es/vector/concepto-de-planificaci%C3%B3n-de-personas-planificaci%C3%B3n-del-emprendimiento-y-del-calendario.jpg?s=612x612&w=0&k=20&c=FT8-lgpe408V3YygbOOTq68DS5vLGXU3OoIaSDApGYg=" group-title="EVENTOS ", Eventos HD
+https://api.m3use.projectmoose.xyz/m3u/sadn2231/BRUCMS01NOV2025/68675340e2a5897767525773.m3u8?uid=sadn2231&pkey=9etRarfH&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321240" tvg-name="Monitoreo Sismos Global [1080p60]" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQH-sYaBoN7jmBDBInjw10e9rMNX9rhiTYzkw&s" group-title="Monitoreo Sismico", Monitoreo Sismos Global [1080p60]
-https://api.m3use.projectmoose.xyz/m3u/asdng23/BRUCMS27092025/6859d7644b5a9e572f3b01bd.m3u8?uid=asdng23&pkey=pR5j8khz&PlaylistM3UCL
-#EXTINF:-1 tvg-id="328594" tvg-name="Cámara de seguridad personal" tvg-logo="" group-title="Cámaras de Seguridad", Cámara de seguridad personal
-http://192.168.1.92:4747/video?PlaylistM3UCL
-#EXTINF:-1 tvg-id="328646" tvg-name="CCTV-PRUEBA" tvg-logo="" group-title="Cámaras de Seguridad", CCTV-PRUEBA
-http://192.168.1.84:4747/video?PlaylistM3UCL
+https://api.m3use.projectmoose.xyz/m3u/sadn2231/BRUCMS01NOV2025/6859d7644b5a9e572f3b01bd.m3u8?uid=sadn2231&pkey=9etRarfH&PlaylistM3UCL
+#EXTINF:-1 tvg-id="326055" tvg-name="Cámaras de Seguridad - Curepto - VII Región" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpPRLXHG_1GqtDq4OJzzn-koSxS48NvexHAg&s" group-title="Cámaras de Seguridad", Cámaras de Seguridad - Curepto - VII Región
+https://api.m3use.projectmoose.xyz/m3u/ashdqa11/BRUCMS13102025/68faca324eef3d0b7ddeb0f3.m3u8?uid=ashdqa11&pkey=26uPutjZ&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321230" tvg-name="Cámaras de Seguridad - Playa El Quisco - V Región Chile" tvg-logo="" group-title="Cámaras de Seguridad", Cámaras de Seguridad - Playa El Quisco - V Región Chile
 https://api.m3use.projectmoose.xyz/m3u/asdng23/BRUCMS27092025/68cb5fbe25ea72f7866c8ccc.m3u8?uid=asdng23&pkey=pR5j8khz&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321239" tvg-name="Playa Acapulco - Viña del Mar - Cámara de Seguridad [1080p]" tvg-logo="" group-title="Cámaras de Seguridad", Playa Acapulco - Viña del Mar - Cámara de Seguridad [1080p]
 https://api.m3use.projectmoose.xyz/m3u/asdng23/BRUCMS27092025/68cb5f05c360016c48a09bd6.m3u8?uid=asdng23&pkey=pR5j8khz&PlaylistM3UCL
 #EXTINF:-1 tvg-id="324658" tvg-name="Torre Eiffel - Cámara de Seguridad " tvg-logo="https://i.ibb.co/WP9RVcq/cam4.jpg" group-title="Cámaras de Seguridad", Torre Eiffel - Cámara de Seguridad 
 https://deliverys5.quanteec.com/contents/encodings/live/47fcda1a-38f6-4fb2-3938-3330-6d61-63-bb4b-5df88851d8b7d/media_0.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="321237" tvg-name="Río de Janeiro - Brasil - Cámara de Seguridad [1080p]" tvg-logo="" group-title="YouTube (Solo Disponible en VLC o IPTV)", Río de Janeiro - Brasil - Cámara de Seguridad [1080p]
-https://www.youtube.com/live/6QoLEltTzIM?si=LGrpGpQ8hCDJVL0Z&PlaylistM3UCL
-#EXTINF:-1 tvg-id="321236" tvg-name="Times Square - Nueva York - Cámara de Seguridad [4K]" tvg-logo="" group-title="YouTube (Solo Disponible en VLC o IPTV)", Times Square - Nueva York - Cámara de Seguridad [4K]
-https://www.youtube.com/live/rnXIjl_Rzy4?si=mxgbNrtEH910rTVD&PlaylistM3UCL
+#EXTINF:-1 tvg-id="321236" tvg-name="Times Square - Nueva York - Cámara de Seguridad [4K]" tvg-logo="" group-title="Cámaras de Seguridad", Times Square - Nueva York - Cámara de Seguridad [4K]
+https://api.m3use.projectmoose.xyz/m3u/sadn2231/BRUCMS01NOV2025/688b7f06f022830a45c732b0.m3u8?uid=sadn2231&pkey=9etRarfH&PlaylistM3UCL
 #EXTINF:-1 tvg-id="322450" tvg-name="Cámaras de Seguridad - Valparaíso - Chile (V Región)" tvg-logo="" group-title="Cámaras de Seguridad", Cámaras de Seguridad - Valparaíso - Chile (V Región)
-https://api.m3use.projectmoose.xyz/m3u/asdng23/BRUCMS27092025/68688522ab6f7b95d5db8a0a.m3u8?uid=asdng23&pkey=pR5j8khz&PlaylistM3UCL
+https://api.m3use.projectmoose.xyz/m3u/sadn2231/BRUCMS01NOV2025/68688522ab6f7b95d5db8a0a.m3u8?uid=sadn2231&pkey=9etRarfH&PlaylistM3UCL
 #EXTINF:-1 tvg-id="322449" tvg-name="Cámaras de Seguridad - La Serena - Chile" tvg-logo="" group-title="Cámaras de Seguridad", Cámaras de Seguridad - La Serena - Chile
-https://api.m3use.projectmoose.xyz/m3u/asdng23/BRUCMS27092025/686883ec71fdeb3de4cf9029.m3u8?uid=asdng23&pkey=pR5j8khz&PlaylistM3UCL
+https://api.m3use.projectmoose.xyz/m3u/sadn2231/BRUCMS01NOV2025/686883ec71fdeb3de4cf9029.m3u8?uid=sadn2231&pkey=9etRarfH&PlaylistM3UCL
 #EXTINF:-1 tvg-id="327289" tvg-name="Avda Tobalaba - Providencia - Cámara de Seguridad " tvg-logo="" group-title="Cámaras de Seguridad", Avda Tobalaba - Providencia - Cámara de Seguridad 
-https://api.m3use.projectmoose.xyz/m3u/asdng23/BRUCMS27092025/68ab785a63bf009ee1aefaa1.m3u8?uid=asdng23&pkey=pR5j8khz&PlaylistM3UCL
+https://api.m3use.projectmoose.xyz/m3u/sadn2231/BRUCMS01NOV2025/68ab785a63bf009ee1aefaa1.m3u8?uid=sadn2231&pkey=9etRarfH&PlaylistM3UCL
 #EXTINF:-1 tvg-id="327180" tvg-name="Plaza Baquedano - Cámara de Seguridad (op. 2)" tvg-logo="" group-title="Cámaras de Seguridad", Plaza Baquedano - Cámara de Seguridad (op. 2)
 https://api.m3use.projectmoose.xyz/m3u/asdng23/BRUCMS27092025/68d81e1d32ef4af801f879af.m3u8?uid=asdng23&pkey=pR5j8khz&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321234" tvg-name="Plaza Baquedano - Cámara de Seguridad [1080p]" tvg-logo="" group-title="Cámaras de Seguridad", Plaza Baquedano - Cámara de Seguridad [1080p]
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1759015441/ei/sR3YaP6DFPmq9cYPjJjFkQE/ip/186.105.167.20/id/xViheo3jSd8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51576331/txs/51576330%2C51576331%2C51576332%2C51576333%2C51576334/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/ATw7iSV17006bftulygzC8vuglSZmo9ZxIyld3H49FNNT_T_eL9BtF1nU0iumX1bqchcK-J6tj0DGZ-2/spc/hcYD5RFEm9yMcHWQA47J2MfEgjXEw3JyU7PdGBaTkD0Z7Nu5auI9/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565682%2C51580968%2C51593650/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANurMt4ak_CaCsj-fMN0uRZ879tcutn5xLF4GZiv5zgVAiEArfDWyZzGkbVLIcFb1Fbbhzs9iE4JWaaYmznuVrkmCDI%3D/file/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321233" tvg-name="Costanera Center - Santiago de Chile - Cámara de Seguridad [1080p]" tvg-logo="" group-title="Cámaras de Seguridad", Costanera Center - Santiago de Chile - Cámara de Seguridad [1080p]
-https://api.m3use.projectmoose.xyz/m3u/ashdqa11/BRUCMS13102025/68ab77e660d1a28730a7a3cf.m3u8?uid=ashdqa11&pkey=26uPutjZ&PlaylistM3UCL
+https://api.m3use.projectmoose.xyz/m3u/sadn2231/BRUCMS01NOV2025/68ab77e660d1a28730a7a3cf.m3u8?uid=sadn2231&pkey=9etRarfH&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321232" tvg-name="Ñuñoa - Santiago de Chile - Cámara de Seguridad [1080p]" tvg-logo="" group-title="Cámaras de Seguridad", Ñuñoa - Santiago de Chile - Cámara de Seguridad [1080p]
-https://api.m3use.projectmoose.xyz/m3u/ashdqa11/BRUCMS13102025/6859d408641707f58eb4051b.m3u8?uid=ashdqa11&pkey=26uPutjZ&PlaylistM3UCL
+https://api.m3use.projectmoose.xyz/m3u/sadn2231/BRUCMS01NOV2025/6859d408641707f58eb4051b.m3u8?uid=sadn2231&pkey=9etRarfH&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321231" tvg-name="Concepción Centro - Cámara de Seguridad [2K]" tvg-logo="" group-title="Cámaras de Seguridad", Concepción Centro - Cámara de Seguridad [2K]
-https://api.m3use.projectmoose.xyz/m3u/ashdqa11/BRUCMS13102025/6859d467c7c402765ea88989.m3u8?uid=ashdqa11&pkey=26uPutjZ&PlaylistM3UCL
+https://api.m3use.projectmoose.xyz/m3u/sadn2231/BRUCMS01NOV2025/6859d467c7c402765ea88989.m3u8?uid=sadn2231&pkey=9etRarfH&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321229" tvg-name="Cámaras de Seguridad - Avda Chile (Llolleo - V Región)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5Y5Uzei_RzwiDc0sVN6M-K3PRpfa_ISMkOQ&s" group-title="Cámaras de Seguridad", Cámaras de Seguridad - Avda Chile (Llolleo - V Región)
 https://api.m3use.projectmoose.xyz/m3u/asdng23/BRUCMS27092025/68ab7998f6e6df48a2143ddf.m3u8?uid=asdng23&pkey=pR5j8khz&PlaylistM3UCL
 #EXTINF:-1 tvg-id="329061" tvg-name="Cachureos - Carnaval San Vicente de Tagua Tagua (09-02-2025)" tvg-logo="https://www.fiestascostumbristas.cl/wp-content/uploads/2025/01/Carnaval-del-Verano-2025-en-San-Vicente-de-Tagua-Tagua.webp" group-title="Conciertos", Cachureos - Carnaval San Vicente de Tagua Tagua (09-02-2025)
@@ -2193,8 +2189,6 @@ https://archive.org/download/A-HA_Take_On_Me/A-HA_Take_On_Me.mp4?PlaylistM3UCL
 https://archive.org/download/PINK_FLOYD_Another_Brick_in_the_Wall_1979/PINK_FLOYD_Another_Brick_in_the_Wall_1979.mp4?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322446" tvg-name="Rick Astley - Together Forever (Video Musical)" tvg-logo="https://archive.org/download/Rick_Astley_Together_Forever/__ia_thumb.jpg" group-title="VIDEOS MUSICALES", Rick Astley - Together Forever (Video Musical)
 https://archive.org/download/Rick_Astley_Together_Forever/Rick_Astley_Together_Forever.mp4?PlaylistM3UCL
-#EXTINF:-1 tvg-id="323011" tvg-name="Netflix" tvg-logo="" group-title="Pelicula", Netflix
-http://directo.ddns.me:2082/Camilafuentes/NaFLe5yL7Ahs/50737?PlaylistM3UCL
 #EXTINF:-1 tvg-id="329059" tvg-name="La muerte del Soplón (1978)" tvg-logo="https://m.media-amazon.com/images/M/MV5BNTA2NTM4YjItMGZiNC00YzMyLWFiOWQtYmQ1ZGY0ZGY5ZTQzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="Pelicula", La muerte del Soplón (1978)
 https://archive.org/download/la-muerte-del-soplon-1978-1080p/La%20Muerte%20del%20Sopl%C3%B3n%20%281978%29%201080p.mp4?PlaylistM3UCL
 #EXTINF:-1 tvg-id="329058" tvg-name="Frankestein (1931)" tvg-logo="https://pics.filmaffinity.com/frankenstein-252859133-large.jpg" group-title="Pelicula", Frankestein (1931)
@@ -2212,11 +2206,11 @@ https://dl.dropbox.com/s/1aek11gl0fr6aa3/13GH05T.mkv?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322320" tvg-name="Abrázame como antes (2016)" tvg-logo="https://i.ibb.co/QF4fjj5/abr.jpg" group-title="Pelicula", Abrázame como antes (2016)
 https://archive.org/serve/abrazame-como-antes/Abra%CC%81zame%20como%20antes.mp4?PlaylistM3UCL
 #EXTINF:-1 tvg-id="328265" tvg-name="TheGrefg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/09/TheGrefg_en_el_torneo_de_p%C3%A1del_de_Ibai_%282021%29.png" group-title="Twitch", TheGrefg
-https://api.m3use.projectmoose.xyz/m3u/ashdqa11/BRUCMS13102025/68d825fdc360016c48a09bfc.m3u8?uid=ashdqa11&pkey=26uPutjZ&PlaylistM3UCL
+https://api.m3use.projectmoose.xyz/m3u/sadn2231/BRUCMS01NOV2025/68d825fdc360016c48a09bfc.m3u8?uid=sadn2231&pkey=9etRarfH&PlaylistM3UCL
 #EXTINF:-1 tvg-id="328264" tvg-name="Vegetta777" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT06UJpucFYLd2aHputUZfyjJZCXHl8DSvXCg&s" group-title="Twitch", Vegetta777
-https://api.m3use.projectmoose.xyz/m3u/ashdqa11/BRUCMS13102025/68d8255bc066e4951cc1c5b4.m3u8?uid=ashdqa11&pkey=26uPutjZ&PlaylistM3UCL
+https://api.m3use.projectmoose.xyz/m3u/sadn2231/BRUCMS01NOV2025/68d8255bc066e4951cc1c5b4.m3u8?uid=sadn2231&pkey=9etRarfH&PlaylistM3UCL
 #EXTINF:-1 tvg-id="324889" tvg-name="El Rubius - Twitch" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/El_Rubius_en_el_Festival_de_cinema_de_Sitges_2018_%28recorte%29.jpg/330px-El_Rubius_en_el_Festival_de_cinema_de_Sitges_2018_%28recorte%29.jpg" group-title="Twitch", El Rubius - Twitch
-https://api.m3use.projectmoose.xyz/m3u/ashdqa11/BRUCMS13102025/685342885d21554d2dbf7261.m3u8?uid=ashdqa11&pkey=26uPutjZ&PlaylistM3UCL
+https://api.m3use.projectmoose.xyz/m3u/sadn2231/BRUCMS01NOV2025/685342885d21554d2dbf7261.m3u8?uid=sadn2231&pkey=9etRarfH&PlaylistM3UCL
 #EXTINF:-1 tvg-id="320042" tvg-name="Vevo Retro Rock" tvg-logo="https://i.imgur.com/H1Aap4E.png" group-title="Musica", Vevo Retro Rock
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2ce917-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5b34f49b-bb11-47dd-b65b-7c5074a9925c&PlaylistM3UCL
 #EXTINF:-1 tvg-id="327713" tvg-name="Vevo Regional Mexicano" tvg-logo="https://images.pluto.tv/channels/64dab5fe35425100080e2991/featuredImage.jpg?auto=&q=70&fit=fill&fill=blur&ixlib=react-9.1.5" group-title="Musica", Vevo Regional Mexicano
@@ -2228,25 +2222,23 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f
 #EXTINF:-1 tvg-id="320039" tvg-name="Vevo 2K" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="Musica", Vevo 2K
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2cc208-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9c78a281-5d61-4850-8b62-74632f015343&PlaylistM3UCL
 #EXTINF:-1 tvg-id="320752" tvg-name="Stingray IConcerts" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_msajB7Az5nNajLgcde0CgODsMqN-EpJ2dcfd8JveWIiuQ=s900-c-k-c0x00ffffff-no-rj" group-title="Musica", Stingray IConcerts
-http://181.188.216.5:18000/play/a0j4/index.m3u8?PlaylistM3UCL
+http://45.173.74.2:2010/play/a06u/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="328945" tvg-name="70s Hits" tvg-logo="" group-title="Musica", 70s Hits
-http://168.90.221.3:8000/play/a0im/index.m3u8?PlaylistM3UCL
+http://181.119.66.250:2222/play/a0fr/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322100" tvg-name="80s Hits" tvg-logo="" group-title="Musica", 80s Hits
-http://168.90.221.3:8000/play/a0in/index.m3u8?PlaylistM3UCL
+http://181.119.66.250:2222/play/a0fs/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="328952" tvg-name="Classic Rock" tvg-logo="" group-title="Musica", Classic Rock
-http://168.90.221.3:8000/play/a0il/index.m3u8?PlaylistM3UCL
+http://181.119.66.250:2222/play/a0fq/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="328944" tvg-name="Love Music" tvg-logo="" group-title="Musica", Love Music
-http://168.90.221.3:8000/play/a0ik/index.m3u8?PlaylistM3UCL
+http://181.119.66.250:2222/play/a0fp/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322102" tvg-name="Reggae" tvg-logo="" group-title="Musica", Reggae
-http://168.90.221.3:8000/play/a0io/index.m3u8?PlaylistM3UCL
+http://181.119.66.250:2222/play/a0ft/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322103" tvg-name="Reggaeton" tvg-logo="" group-title="Musica", Reggaeton
-http://168.90.221.3:8000/play/a0ip/index.m3u8?PlaylistM3UCL
+http://181.119.66.250:2222/play/a0fu/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="328943" tvg-name="Regional Mexicano" tvg-logo="" group-title="Musica", Regional Mexicano
-http://168.90.221.3:8000/play/a0ir/index.m3u8?PlaylistM3UCL
+http://181.119.66.250:2222/play/a0fw/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="328946" tvg-name="Rock Latino" tvg-logo="" group-title="Musica", Rock Latino
-http://168.90.221.3:8000/play/a0iq/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="322105" tvg-name="Symphonic" tvg-logo="" group-title="Musica", Symphonic
-http://168.90.221.3:8000/play/a0ii/index.m3u8?PlaylistM3UCL
+http://181.119.66.250:2222/play/a0fv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="328487" tvg-name="Eternal Metal" tvg-logo="https://cdn.m3u.cl/logo/1312_Eternal_Metal.png" group-title="Musica", Eternal Metal
 https://vdo1.panelstreaming.live:3350/hybrid/play.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="324453" tvg-name="From Hell" tvg-logo="https://i.postimg.cc/gkJQxhJD/starf.jpg" group-title="Musica", From Hell
@@ -2255,6 +2247,8 @@ https://starfm.streamabc.net/30-fromhell-mp3-192-7408486?PlaylistM3UCL
 https://starfm.streamabc.net/30-hardrock-mp3-192-6928617?PlaylistM3UCL
 #EXTINF:-1 tvg-id="327281" tvg-name="Mi Música Regional" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/06/LOGO-MIMUSICA-REGIONAL-e1687306108209.png" group-title="Musica", Mi Música Regional
 http://170.239.207.48:4050/play/CH36?PlaylistM3UCL
+#EXTINF:-1 tvg-id="329861" tvg-name="Mi Música Reggaeton" tvg-logo="https://americancable.ec/wp-content/uploads/2023/12/MIMUSICAREGGAETON-LOGO.png" group-title="Musica", Mi Música Reggaeton
+http://170.239.207.48:4050/play/CH35?PlaylistM3UCL
 #EXTINF:-1 tvg-id="327712" tvg-name="Stingray Naturescape" tvg-logo="https://i.imgur.com/882kd90.png" group-title="Musica", Stingray Naturescape
 https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322101" tvg-name="Stingray Karaoke" tvg-logo="https://i.imgur.com/9TLTLS3.png" group-title="Musica", Stingray Karaoke
@@ -2276,11 +2270,11 @@ https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=9999246
 #EXTINF:-1 tvg-id="319599" tvg-name="Stingray Pop Adult" tvg-logo="https://i.imgur.com/H2ugC9L.png" group-title="Musica", Stingray Pop Adult
 https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320804" tvg-name="Sextreme • Adultos Desbloqueado" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/6/69/OM04E.jpg/revision/latest?cb=20110531221305&path-prefix=es" group-title="XXX", Sextreme • Adultos Desbloqueado
-http://181.188.216.5:18000/play/a0me/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a0h9/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320803" tvg-name="Venus • Adultos Desbloqueado" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Canal_Venus_logo_%282%29.svg/800px-Canal_Venus_logo_%282%29.svg.png" group-title="XXX", Venus • Adultos Desbloqueado
-http://181.188.216.5:18000/play/a01h/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a0i8/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320758" tvg-name="Playboy TV • Adultos Desbloqueado" tvg-logo="https://c.files.bbci.co.uk/118E/production/_98049440_463ebdce-bddb-4485-a0ff-1dccc87b6a22.jpg" group-title="XXX", Playboy TV • Adultos Desbloqueado
-http://181.188.216.5:18000/play/a0o4/index.m3u8?PlaylistM3UCL
+http://45.232.210.1:8029/play/a0g0/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322381" tvg-name="Gangbang" tvg-logo="" group-title="XXX", Gangbang
 https://live.adultiptv.net/gangbang.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318778" tvg-name="Blowjob (M4mad4)" tvg-logo="" group-title="XXX", Blowjob (M4mad4)
@@ -2304,177 +2298,185 @@ https://videostream.shockmedia.com.ar:19360/sextv/sextv.m3u8?PlaylistM3UCL&Playl
 #EXTINF:-1 tvg-id="318715" tvg-name="Miami TV" tvg-logo="https://cdn.m3u.cl/logo/1263_Miami_TV.png" group-title="XXX", Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB4141/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="324419" tvg-name="TV Chile (SD)" tvg-logo="" group-title="Internacional", TV Chile (SD)
-http://179.51.136.19:8000/play/a0z0/index.m3u8?PlaylistM3UCL
+http://200.229.147.142:8000/play/a006/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="326687" tvg-name="Movistar TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Movistar_TV_logo_2018.png" group-title="INFORMATIVO", Movistar TV
+http://179.51.136.19:8000/play/a1hu/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="330177" tvg-name="Caracol Internacional" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrd25jSM6L4fWfSDfyYh_gRznK8cS9Aeartw&s" group-title="Internacional", Caracol Internacional
+http://45.232.177.16:8000/play/a01t?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318525" tvg-name="TV Chile" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1PqQtCIIFcAZ-Z0t4Sv647SJAo93DMQlUOg&s" group-title="Internacional", TV Chile
 http://mdstrm.com/live-stream-playlist/533adcc949386ce765657d7c.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318526" tvg-name="Canal 13 (Internacional)" tvg-logo="https://cdn.m3u.cl/logo/1685_13_Internacional.png" group-title="Internacional", Canal 13 (Internacional)
 https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318708" tvg-name="CNN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/CNN_International_logo.svg/2048px-CNN_International_logo.svg.png" group-title="ESTADOS UNIDOS", CNN
 http://1tv41.icu:8080/4KCwCN/506843/104884?PlaylistM3UCL
-#EXTINF:-1 tvg-id="326687" tvg-name="Movistar TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Movistar_TV_logo_2018.png" group-title="INFORMATIVO", Movistar TV
-http://179.51.136.19:8000/play/a1hu/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="321178" tvg-name="Canal Claro" tvg-logo="https://yt3.googleusercontent.com/CLwrr6AgezK18olQVA-g40gHG7fHV2APLmmnzNZ6Cu4ZHhJuM5GE5d5LKaJ8iVl4iB9XsdZWrQ=s900-c-k-c0x00ffffff-no-rj" group-title="INFORMATIVO", Canal Claro
-http://181.188.216.5:18000/play/a09l/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320011" tvg-name="Claro Sports • América Latina" tvg-logo="https://yt3.googleusercontent.com/h88IKJCItR4KafxYzqfMphDkLzXdREH24qDrW-CzFMedCCjBl4D2baR3xWF48tOkNltM6MM9hA=s900-c-k-c0x00ffffff-no-rj" group-title="Deportes", Claro Sports • América Latina
-http://179.51.136.19:8000/play/a16q/index.m3u8?PlaylistM3UCL
+http://128.201.227.251:4000/play/a090?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318703" tvg-name="Cine Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9a/Cine_Latino_logo.svg" group-title="Premium", Cine Latino
 http://45.184.87.142:8000/play/a05c?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321179" tvg-name="Eurochannel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8Qppj0AtJDCzjcBYlOY5nWD9RR2Kpx_9Zxg&s" group-title="Premium", Eurochannel
-http://190.217.80.250:8888/play/a02w/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a06e/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321302" tvg-name="UCL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJxcOYW5-997o8SQEKUgM4r3tqHvfkrjvBbA&s" group-title="Premium", UCL TV
 https://livedelta.cdn.antel.net.uy/out/u/url_canalu_2.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321180" tvg-name="Europa Europa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/EUROPAEUROPALOGO2016.png/180px-EUROPAEUROPALOGO2016.png" group-title="Premium", Europa Europa
-http://190.217.80.250:8888/play/a03p/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a033/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318765" tvg-name="Telemundo • Puerto Rico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="Premium", Telemundo • Puerto Rico
-http://181.188.216.5:18000/play/a0cx/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="321821" tvg-name="Más Chic • Lationamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/97/Logo_M%C3%A1s_Chic_%28canal_de_televisi%C3%B3n%29.svg" group-title="Premium", Más Chic • Lationamérica
-http://181.188.216.5:18000/play/a01a/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a0l3/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="321821" tvg-name="AMC Series" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwUkoI91Y4b_NUBoYD6-LXyNiARFKcRXyGp1EmVoNLXUPnYCJIRPswD8Pb_ioxfVwmaRgMF9CZfeuu6OM7ImjeiRRAHchr7Bu6gFQgSzXFp4qBgSI98m678iS86AXmHSiYp3w8Fi_8YGVC-MJ3-WxIhUaoWPLBAL3W9U_1ubAyzyiLsaSPmpXuiEKGMjNx/s980/maxresdefault.jpg" group-title="Premium", AMC Series
+http://186.194.160.110:9002/play/a0ht/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="330181" tvg-name="Film & Arts" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP7zd76ouQL2Vd-6gd6sEaix_T6cZKUdjpQQ&s" group-title="Premium", Film & Arts
+http://179.51.136.19:8000/play/a1go/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321181" tvg-name="E! Entertainment TV • Latinoamérica" tvg-logo="https://play-lh.googleusercontent.com/kCze-2FcwlKeCliJQaw9ZEZkkVAM9EopOgFvQnFrlr6-I4wWu1MENXIEmNGGvGol6hc" group-title="Premium", E! Entertainment TV • Latinoamérica
-http://181.188.216.5:18000/play/a0ct/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a0l4/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319092" tvg-name="¡Hola! TV • América Latina" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mDfvj3lBIIByegg9yN9bA-QLVN8nurP250cE5GBwTw6H8=s900-c-k-c0x00ffffff-no-rj" group-title="Premium", ¡Hola! TV • América Latina
-http://181.188.216.5:18000/play/a0da/index.m3u8?PlaylistM3UCL
+http://45.181.122.46:8090/play/a01r?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322112" tvg-name="Atreseries" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnbtKSukxgLre37kBp2mHcm6FyWnotLCxKfA&s" group-title="Premium", Atreseries
-http://181.188.216.5:18000/play/a0pv/index.m3u8?PlaylistM3UCL
+http://45.181.122.46:8090/play/a01x?PlaylistM3UCL
 #EXTINF:-1 tvg-id="328482" tvg-name="Cine Hispano" tvg-logo="https://timnetworks.tv/wp-content/uploads/2022/10/CINE-HISPANO.png" group-title="Premium", Cine Hispano
-http://201.222.45.70:4000/play/a03y/index.m3u8?PlaylistM3UCL
+http://38.7.197.119:4000/play/a03y/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="328481" tvg-name="Az Cinema" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/Azteca_Cinema_Logo_2023.svg/revision/latest/scale-to-width-down/280?cb=20230707174037" group-title="Premium", Az Cinema
-http://201.222.45.70:4000/play/a03r/index.m3u8?PlaylistM3UCL
+http://38.7.197.119:4000/play/a03r/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="328480" tvg-name="Az Clic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREmxa449d0Y3ES6qtC0MR4V8f1p4VPvPP45g&s" group-title="Premium", Az Clic
-http://201.222.45.70:4000/play/a03w/index.m3u8?PlaylistM3UCL
+http://38.7.197.119:4000/play/a03w/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319066" tvg-name="Star Channel • Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg" group-title="Premium", Star Channel • Latin America
-http://181.188.216.5:18000/play/a0ow/index.m3u8?PlaylistM3UCL
+http://45.181.122.46:8090/play/a03n?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318550" tvg-name="Warner Channel • Atlántico Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5e/Warner2018LA.png" group-title="Premium", Warner Channel • Atlántico Sur
-http://181.188.216.5:18000/play/a0op/index.m3u8?PlaylistM3UCL
+http://45.181.122.46:8090/play/a00f?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318549" tvg-name="USA Network • Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/USA_Network_logo_%282016%29.svg" group-title="Premium", USA Network • Latin America
-http://181.188.216.5:18000/play/a0k3/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a0l2/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="328489" tvg-name="Canal DHE" tvg-logo="https://yt3.googleusercontent.com/p1pkpkfJ1QjVfFRcTQlUMzdyyLZ9iD2QoNlPIg1-QJKs2uArkwGJqFt0tetiB6W_VVAeXz8e=s900-c-k-c0x00ffffff-no-rj" group-title="Premium", Canal DHE
 http://45.232.210.1:8029/play/a0dz/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="326684" tvg-name="De Película" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/DPel%C3%ADcula_2021.svg.png/revision/latest/scale-to-width-down/300?cb=20210123132402&path-prefix=es" group-title="Premium", De Película
-http://181.188.216.5:18000/play/a0k8/index.m3u8?PlaylistM3UCL
+http://207.248.3.81:8081/play/a0q9?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321486" tvg-name="Cinemax • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/1200px-Cinemax_%28Yellow%29.svg.png" group-title="Premium", Cinemax • Latinoamérica
-http://181.188.216.5:18000/play/a0lf/index.m3u8?PlaylistM3UCL
+http://45.232.210.1:8029/play/cinemaxhd/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321704" tvg-name="AMC • Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="Premium", AMC • Latin America
-http://181.188.216.5:18000/play/a0cw/index.m3u8?PlaylistM3UCL
+http://45.181.122.46:8090/play/a027?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318547" tvg-name="TCM • América Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/1200px-TCM_Latam_logo.svg.png" group-title="Premium", TCM • América Latina
-http://181.188.216.5:18000/play/a0bo/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a0i3/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322387" tvg-name="NASA TV" tvg-logo="https://yt3.googleusercontent.com/eIf5fNPcIcj9ig-wZBeq4stFy1lgjWTW1nLT5dYlFkHZprZ03QBiMcbpwNMB6XSBjrSFGtAGQg=s900-c-k-c0x00ffffff-no-rj" group-title="Premium", NASA TV
 https://endpnt.com/hls/nasa4k/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318545" tvg-name="National Geographic • Panregional" tvg-logo="https://yt3.googleusercontent.com/GC-FpT0nbV0nuF_QXKzaNHTV545TR1gQfULZaZOYgf58D8AfDxWanLlaQU366UKq44DadPMC=s900-c-k-c0x00ffffff-no-rj" group-title="Premium", National Geographic • Panregional
-http://181.188.216.5:18000/play/a0do/index.m3u8?PlaylistM3UCL
+http://45.181.122.46:8090/play/a024?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320313" tvg-name="History 2 • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="Premium", History 2 • Latinoamérica
-http://181.188.216.5:18000/play/a0bd/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a0ku/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318544" tvg-name="History • Latinoamérica" tvg-logo="https://yt3.googleusercontent.com/ak1k-8WLkiRj4ZrWOMTDYzMIK97iuhb9Ocy7251h47o7S6R7imwl4ivKQAO1sRxlPzDK_rPx6A=s900-c-k-c0x00ffffff-no-rj" group-title="Premium", History • Latinoamérica
-http://181.188.216.5:18000/play/a0oj/index.m3u8?PlaylistM3UCL
+http://45.181.122.46:8090/play/a00c?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320753" tvg-name="Sun Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sun_Channel_logo.svg/100px-Sun_Channel_logo.svg.png" group-title="Premium", Sun Channel
-http://181.188.216.5:18000/play/a0p2/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a058/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321702" tvg-name="Pasiones • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Pasiones_Tv_logo.svg/1200px-Pasiones_Tv_logo.svg.png" group-title="Premium", Pasiones • Latinoamérica
-http://181.188.216.5:18000/play/a0oy/index.m3u8?PlaylistM3UCL
+http://45.181.122.46:8090/play/a01p?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318543" tvg-name="TNT Series • Argentina" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tnt-series_m.png" group-title="Premium", TNT Series • Argentina
-http://181.188.216.5:18000/play/a0dq/index.m3u8?PlaylistM3UCL
+http://45.181.122.46:8090/play/a01k?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318542" tvg-name="TNT • América Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg" group-title="Premium", TNT • América Latina
-http://181.188.216.5:18000/play/a00x/index.m3u8?PlaylistM3UCL
+http://45.181.122.46:8090/play/a01s?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318523" tvg-name="Space • Latinoamérica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Space_2008.svg/revision/latest?cb=20200216172603&path-prefix=es" group-title="Premium", Space • Latinoamérica
-http://181.188.216.5:18000/play/a0a4/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a0jc/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318522" tvg-name="AXN • Andes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/AXN_2015.svg/revision/latest?cb=20210405161841&path-prefix=es" group-title="Premium", AXN • Andes
-http://181.188.216.5:18000/play/a0oq/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a0ja/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318769" tvg-name="HBO Xtreme • Latinoamérica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s" group-title="Premium", HBO Xtreme • Latinoamérica
-http://181.188.216.5:18000/play/a0p1/index.m3u8?PlaylistM3UCL
+http://45.181.122.46:8090/play/a018?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318768" tvg-name="HBO Signature • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_Signature.svg" group-title="Premium", HBO Signature • Latinoamérica
-http://181.188.216.5:18000/play/a0mc/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a0hg/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321294" tvg-name="HBO Mundi • Latinoamérica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAXp130AYAc4pXI_m-PqxrYip5VQCNRfUVA&s" group-title="Premium", HBO Mundi • Latinoamérica
-http://181.188.216.5:18000/play/a0md/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a0lv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318767" tvg-name="HBO Family • Latinoamérica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJRIWFgQrQ5k4ZufJyms_2wa89EkiimMjmog&s" group-title="Premium", HBO Family • Latinoamérica
-http://181.188.216.5:18000/play/a0lr/index.m3u8?PlaylistM3UCL
+http://45.181.122.46:8090/play/a017?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321296" tvg-name="HBO Pop • Latinoamérica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FhNUxlMyYp_u6f5ukXD7PSp9t5s50OYfYQ&s" group-title="Premium", HBO Pop • Latinoamérica
-http://181.188.216.5:18000/play/a0im/index.m3u8?PlaylistM3UCL
+http://45.181.122.46:8090/play/a00j?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318766" tvg-name="HBO Plus • Latinoamérica" tvg-logo="https://static.wikia.nocookie.net/rarter/images/b/ba/Logohboplus2019.png/revision/latest?cb=20231222070039" group-title="Premium", HBO Plus • Latinoamérica
-http://181.188.216.5:18000/play/a0k9/index.m3u8?PlaylistM3UCL
+http://45.181.122.46:8090/play/a039?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318521" tvg-name="HBO 2 • Latinoamérica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/HBO2_logo.svg/revision/latest?cb=20230305153839&path-prefix=es" group-title="Premium", HBO 2 • Latinoamérica
-http://181.188.216.5:18000/play/a0ka/index.m3u8?PlaylistM3UCL
+http://45.181.122.46:8090/play/a04e?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318520" tvg-name="HBO • Este" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest?cb=20201126030141" group-title="Premium", HBO • Este
-http://181.188.216.5:18000/play/a0hm/index.m3u8?PlaylistM3UCL
+http://45.181.122.46:8090/play/a029?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321485" tvg-name="Lifetime • México" tvg-logo="https://yt3.googleusercontent.com/cH4kYblOErtfBb83ogYYRJQuh6LZmYSfLlsP2jdnkBt8MBIYPvIWNKbPDKPrDQxkE19DWGle1mM=s900-c-k-c0x00ffffff-no-rj" group-title="Premium", Lifetime • México
-http://181.188.216.5:18000/play/a0qh/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a0kv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319070" tvg-name="Studio Universal • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/330px-StudioUniversal2016.png" group-title="Premium", Studio Universal • Latinoamérica
-http://181.188.216.5:18000/play/a0o5/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a0ib/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320800" tvg-name="Universal TV • América Latina Este" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="Premium", Universal TV • América Latina Este
-http://181.188.216.5:18000/play/a0o9/index.m3u8?PlaylistM3UCL
+http://207.248.3.81:8081/play/a0qn?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321487" tvg-name="Cinecanal • Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Premium", Cinecanal • Chile
-http://181.188.216.5:18000/play/a0co/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a0j6/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="327287" tvg-name="5-Minute Craft" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/5-Minute_Crafts_logo.jpg" group-title="Premium", 5-Minute Craft
 https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="326029" tvg-name="Alan Becker TV" tvg-logo="https://static.wikia.nocookie.net/animator-vs-animation-id/images/9/99/ABTV_logo.png/revision/latest?cb=20241121025902&path-prefix=id" group-title="Premium", Alan Becker TV
-https://api.m3use.projectmoose.xyz/m3u/ashdqa11/BRUCMS13102025/68e241b0c066e4951cc1c5bf.m3u8?uid=ashdqa11&pkey=26uPutjZ&PlaylistM3UCL
+https://api.m3use.projectmoose.xyz/m3u/sadn2231/BRUCMS01NOV2025/68e241b0c066e4951cc1c5bf.m3u8?uid=sadn2231&pkey=9etRarfH&PlaylistM3UCL
 #EXTINF:-1 tvg-id="320799" tvg-name="Universal Cinema • Este" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/4/42/UniversalCinema.png/revision/latest?cb=20240130201240&path-prefix=es" group-title="Premium", Universal Cinema • Este
-http://181.188.216.5:18000/play/a0dw/index.m3u8?PlaylistM3UCL
+http://45.184.87.142:8000/play/a05o?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318519" tvg-name="Universal Reality" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Universal_Reality.svg/revision/latest?cb=20220311032056" group-title="Premium", Universal Reality
-http://181.188.216.5:18000/play/a0dg/index.m3u8?PlaylistM3UCL
+http://45.184.87.142:8000/play/a059?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318518" tvg-name="Universal Comedy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Universal_Comedy.svg/revision/latest?cb=20220311032038" group-title="Premium", Universal Comedy
-http://181.188.216.5:18000/play/a0di/index.m3u8?PlaylistM3UCL
+http://45.184.87.142:8000/play/a05p?PlaylistM3UCL
 #EXTINF:-1 tvg-id="328483" tvg-name="Clan Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Clan_logo.svg/1200px-Clan_logo.svg.png" group-title="Infantil", Clan Latinoamérica
-http://201.222.45.70:4000/play/a0e5/index.m3u8?PlaylistM3UCL
+http://38.7.197.119:4000/play/a0e5/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="323532" tvg-name="KidOO" tvg-logo="https://static.wikia.nocookie.net/doblaje/images/b/b8/KidOO.png/revision/latest?cb=20250324163752&path-prefix=es" group-title="Infantil", KidOO
 http://190.95.60.228:8500/play/a06n?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318517" tvg-name="Disney Junior • Sur" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/48/DisneyJr3Dver.png/revision/latest?cb=20240601030018" group-title="Infantil", Disney Junior • Sur
-http://179.51.136.19:8000/play/a1g3/index.m3u8?PlaylistM3UCL
+http://207.248.3.81:8081/play/a0qq?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318546" tvg-name="Disney Channel • Latinoamérica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTsZryWXL6GLXi4WIdNMRT192qjD3t5cBKLQ&s" group-title="Infantil", Disney Channel • Latinoamérica
-http://179.51.136.19:8000/play/a1kp/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a0jd/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="328949" tvg-name="Canal Dos Kids" tvg-logo="https://static.wixstatic.com/media/c5adb2_138c96783a944b5994d7d5ce6317f801~mv2.jpg/v1/fill/w_200,h_200,al_c,q_80/35.jpg" group-title="Infantil", Canal Dos Kids
+http://45.160.12.200:8008/play/002/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="329824" tvg-name="Canal Infantil" tvg-logo="https://www.tumundo.cl/wp-content/uploads/2022/11/c_canal-infantil.jpg" group-title="Infantil", Canal Infantil
+http://170.239.207.48:4050/play/CH34?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321569" tvg-name="ZooMoo • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/ZooMoo_logo.svg/1200px-ZooMoo_logo.svg.png" group-title="Infantil", ZooMoo • Latinoamérica
-http://181.188.216.5:18000/play/a091/index.m3u8?PlaylistM3UCL
+http://201.230.105.202:8126/play/a0tx/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322107" tvg-name="TeenNick • Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/TeenNick_2023_Outlined_Logo.png" group-title="Infantil", TeenNick • Latin America
-http://179.51.136.19:8000/play/a1i8/index.m3u8?PlaylistM3UCL
+http://207.248.3.81:8081/play/a0oq?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321571" tvg-name="Plim Plim TV" tvg-logo="https://cdn.storage.foromedios.com/monthly_2024_01/large.ElCanaldelPayasoPlimPlim(2023-).png.86c6cbf2fc741312e0c244f84eec14e6.png" group-title="Infantil", Plim Plim TV
-http://181.188.216.5:18000/play/a0ex/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="321568" tvg-name="DreamWorks TV • Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg" group-title="Infantil", DreamWorks TV • Latin America
-http://45.4.169.50:8000/play/a02p?PlaylistM3UCL
+http://186.194.160.110:9002/play/a0kb/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="324890" tvg-name="Nickelodeon • Sur" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9_IINxZ5KkCBkzitaLbT2uND95maBJrxixg&s" group-title="Infantil", Nickelodeon • Sur
 http://45.184.87.142:8000/play/a01s?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318359" tvg-name="Nick Jr • Latin America" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/55/Nick_Jr..svg/revision/latest?cb=20240519091307" group-title="Infantil", Nick Jr • Latin America
-http://181.188.216.5:18000/play/a09w/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a0jz/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318358" tvg-name="Tooncast" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Tooncast_logo.svg/2560px-Tooncast_logo.svg.png" group-title="Infantil", Tooncast
-http://181.188.216.5:18000/play/a0pz/index.m3u8?PlaylistM3UCL
+http://207.248.3.81:8081/play/a0ot?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320906" tvg-name="PakaPaka" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Paka-paka.svg/1200px-Paka-paka.svg.png" group-title="Infantil", PakaPaka
 http://190.95.60.228:8500/play/a01h?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318551" tvg-name="Cartoonito • Latinoamérica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxEt-vItqB3vQnM-6yyd2ByKRR4ZJpP6pzUQ&s" group-title="Infantil", Cartoonito • Latinoamérica
-http://201.222.45.70:4000/play/a09g/index.m3u8?PlaylistM3UCL
+http://38.7.197.119:4000/play/a09g/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319672" tvg-name="Treehouse TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Treehouse_TV_logo.svg/1200px-Treehouse_TV_logo.svg.png" group-title="Infantil", Treehouse TV
 http://tv14s.xyz:8080/49457200/49457200/57371?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319673" tvg-name="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Boomerang_tv_logo.png/758px-Boomerang_tv_logo.png" group-title="ESTADOS UNIDOS", Boomerang
 http://tv14s.xyz:8080/49457200/49457200/14741?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320760" tvg-name="Baby TV • Latin America" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2VlAS12mj5Mo6ZhM-pF0C9d_2fZUtZmxfoA&s" group-title="Infantil", Baby TV • Latin America
-http://181.188.216.5:18000/play/a090/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a0li/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="321568" tvg-name="DreamWorks TV • Latin America" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/ff/DreamWorks_Animation_SKG_logo_with_fishing_boy.svg" group-title="Infantil", DreamWorks TV • Latin America
+http://201.230.105.202:8126/play/a0tw/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318357" tvg-name="Cartoon Network • Pacífico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg" group-title="Infantil", Cartoon Network • Pacífico
-http://181.188.216.5:18000/play/a0kp/index.m3u8?PlaylistM3UCL
+http://45.181.122.46:8090/play/a02b?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319068" tvg-name="Adult Swim • América Latina" tvg-logo="https://play-lh.googleusercontent.com/lnAGp2JZZqyOLv-NrHDDYXvHNEfJBGBksoPru2DUmrfVvmwhtptUtbjcG5e580a5prms=w240-h480-rw" group-title="Premium", Adult Swim • América Latina
-http://181.188.216.5:18000/play/a0f6/index.m3u8?PlaylistM3UCL
+http://45.160.12.200:8008/play/152/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318356" tvg-name="Discovery Kids • Chile" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/revision/latest?cb=20210930223617&path-prefix=es" group-title="Infantil", Discovery Kids • Chile
-http://181.188.216.5:18000/play/a0gj/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a0m4/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321488" tvg-name="Kanal D Drama" tvg-logo="https://play-lh.googleusercontent.com/gr5NLZ4T3dJdykoSJzHsVjNwv4aXgcDCm5hitLmG-eOmOhtlieUoTJufQrCRS-jhy74" group-title="Premium", Kanal D Drama
-http://181.188.216.5:18000/play/a0e0/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a02o/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318355" tvg-name="A and E • América Latina" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlHhC969E-bz8fLsjZy8au0aNyx2TsmBTZEg&s" group-title="Premium", A and E • América Latina
-http://181.188.216.5:18000/play/a0h9/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a0kr/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319090" tvg-name="HGTV • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="Premium", HGTV • Latinoamérica
-http://181.188.216.5:18000/play/a0qf/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="319088" tvg-name="Love Nature" tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="Premium", Love Nature
-http://179.51.136.19:8000/play/a1mp/index.m3u8?PlaylistM3UCL
+http://181.13.252.102:8000/play/a02j/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321696" tvg-name="Food Network • Latinoamérica" tvg-logo="https://yt3.googleusercontent.com/7LSM7e2bBFpWMUufog_dSKN_O4hkOYAbqLcBpAlFyBzdmRQtDOKxVG__Wnc8L8a3mZ4lmcTx=s900-c-k-c0x00ffffff-no-rj" group-title="Premium", Food Network • Latinoamérica
-http://181.188.216.5:18000/play/a0qp/index.m3u8?PlaylistM3UCL
+http://207.248.3.81:8081/play/a0qe?PlaylistM3UCL
+#EXTINF:-1 tvg-id="319088" tvg-name="Love Nature" tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="Premium", Love Nature
+http://186.194.160.110:9002/play/a01e/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321695" tvg-name="El Gourmet • Sur" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThc8E5QRSH04Iu5P9f61DUQh-ZOqvPUGj4Gg&s" group-title="Premium", El Gourmet • Sur
-http://179.51.136.19:8000/play/a1l7/index.m3u8?PlaylistM3UCL
+http://45.181.122.46:8090/play/a021?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318354" tvg-name="Animal Planet • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/2018_Animal_Planet_logo.svg" group-title="Premium", Animal Planet • Latinoamérica
-http://179.51.136.19:8000/play/a1kd/index.m3u8?PlaylistM3UCL
+http://45.181.122.46:8090/play/a02f?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318353" tvg-name="Sony Channel • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Premium", Sony Channel • Argentina
-http://179.51.136.19:8000/play/a1aa/index.m3u8?PlaylistM3UCL
+http://45.181.122.46:8090/play/a00e?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319047" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Premium", Comedy Central
-http://179.51.136.19:8000/play/a1l6/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a0j6/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="330175" tvg-name="Mundo de la Música" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZrYNzRXNz7LbnZr9Skrvj1yU9GWCZGgu-Qg&s" group-title="Musica", Mundo de la Música
+https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/chunklist_w1998367691.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321183" tvg-name="HTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/100px-Htv_logo.svg.png" group-title="Musica", HTV HD
-http://201.222.45.70:4000/play/a03t/index.m3u8?PlaylistM3UCL
+http://38.7.197.119:4000/play/a03t/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="327901" tvg-name="NickMusic" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKS9VnBvp8qHwfnCbCOzFapo0lhjKtIaiaww&s" group-title="Musica", NickMusic
-http://186.194.160.110:9002/play/a05o/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a0hp/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321182" tvg-name="Music TOP" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/Public/logos/musictop.jpg" group-title="Musica", Music TOP
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319062" tvg-name="Música Rap" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMkE_A_5akpntR8CIa_NA24Pu0p78nwvjR-Q&s" group-title="Musica", Música Rap
-https://api.m3use.projectmoose.xyz/m3u/ashdqa11/BRUCMS13102025/681cb91f3f3fe66ffedb6ac7.m3u8?uid=ashdqa11&pkey=26uPutjZ&PlaylistM3UCL
+https://api.m3use.projectmoose.xyz/m3u/sadn2231/BRUCMS01NOV2025/681cb91f3f3fe66ffedb6ac7.m3u8?uid=sadn2231&pkey=9etRarfH&PlaylistM3UCL
 #EXTINF:-1 tvg-id="326614" tvg-name="Karavana TV" tvg-logo="https://play-lh.googleusercontent.com/n0O4b6HKlayT7L_sWxhzsb5-A0Pak84QsA1XrXGNASFgnqxLQJmHQbY8Aj4zHcXnvJY" group-title="Musica", Karavana TV
 http://45.184.87.142:8000/play/a02w?PlaylistM3UCL
 #EXTINF:-1 tvg-id="324892" tvg-name="Quiero Música en mi idioma" tvg-logo="https://i.imgur.com/RPyA2OJ.png" group-title="Musica", Quiero Música en mi idioma
@@ -2486,79 +2488,85 @@ https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL&PlaylistM
 #EXTINF:-1 tvg-id="324226" tvg-name="Retro Plus TV" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="Musica", Retro Plus TV
 https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="323975" tvg-name="Concert Channel" tvg-logo="https://pbs.twimg.com/profile_images/1520063208391942146/fIOiM2V4_200x200.jpg" group-title="Musica", Concert Channel
-http://179.51.136.19:8000/play/a18q/index.m3u8?PlaylistM3UCL
+http://200.229.147.142:8000/play/a04c/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318032" tvg-name="Telehit Música" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b1/Telehit_M%C3%BAsica_logo.png" group-title="Musica", Telehit Música
 http://186.194.160.110:9002/play/a0gr/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318031" tvg-name="Telehit" tvg-logo="https://i.imgur.com/NVxHxJn.png" group-title="Musica", Telehit
 http://190.11.225.124:5000/live/telehit_hd/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321570" tvg-name="MTV Hits • Europa" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/1200px-MTV_Hits_2021.svg.png" group-title="Musica", MTV Hits • Europa
-http://179.51.136.19:8000/play/a0um/index.m3u8?PlaylistM3UCL
+http://200.229.147.142:8000/play/a01e/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="329425" tvg-name="MTV 80s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/MTV_80s_2022.png" group-title="Musica", MTV 80s
+http://200.229.147.142:8000/play/a01f/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="329424" tvg-name="MTV 00s" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" group-title="Musica", MTV 00s
+http://168.90.221.3:8000/play/a0qv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321291" tvg-name="MTV Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMCRxr3ARrMGyNPsZZE7Pij1zh3hx9X8_afw&s" group-title="Musica", MTV Live
-http://179.51.136.19:8000/play/a1lf/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a0jn/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320012" tvg-name="MTV Latino" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/MTV_2021_%28brand_version%29.svg" group-title="Premium", MTV Latino
-http://179.51.136.19:8000/play/a1li/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a0b6/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318351" tvg-name="FX • Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/FX_International_logo.svg" group-title="Premium", FX • Chile
-http://179.51.136.19:8000/play/a1ks/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="318352" tvg-name="Univisión • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="Premium", Univisión • Latinoamérica
-http://181.188.216.5:18000/play/a0du/index.m3u8?PlaylistM3UCL
+http://45.181.122.46:8090/play/a01l?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318350" tvg-name="Paramount Network • Latin America" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLoRd9VTYqvBCqVqRdExUMyjK_3jsV1xxWg&s" group-title="Premium", Paramount Network • Latin America
-http://179.51.136.19:8000/play/a1l4/index.m3u8?PlaylistM3UCL
+http://45.181.122.46:8090/play/a02c?PlaylistM3UCL
+#EXTINF:-1 tvg-id="318352" tvg-name="Univisión • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="Premium", Univisión • Latinoamérica
+http://201.230.105.202:8126/play/1212nm/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318349" tvg-name="Golden Premier" tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg" group-title="Premium", Golden Premier
 http://45.184.87.142:8000/play/a03a?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318348" tvg-name="Golden Plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Golden_Plus_2017.png/revision/latest?cb=20191215194002&path-prefix=es" group-title="Premium", Golden Plus
 http://45.184.87.142:8000/play/a037?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318347" tvg-name="Discovery Home and Health • Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="Premium", Discovery Home and Health • Sur
-http://179.51.136.19:8000/play/a1ad/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a06b/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321306" tvg-name="TLC • Latinoamérica" tvg-logo="https://yt3.googleusercontent.com/RzWGuPEoU86dJsKmz2cMtOlqh9VS9Uy_T1rm6YS8Jt01qnDKSVdduBlQj0tsP-zQ0F7429fEpQ=s900-c-k-c0x00ffffff-no-rj" group-title="Premium", TLC • Latinoamérica
-http://181.188.216.5:18000/play/a0cg/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a0k0/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318346" tvg-name="Investigation Discovery • Sur" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Discovery_ID_2020.svg/revision/latest?cb=20201110132225&path-prefix=es" group-title="Premium", Investigation Discovery • Sur
-http://179.51.136.19:8000/play/a1kn/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a0jb/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="327179" tvg-name="Discovery Science • Latinoamérica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPX8NPDjjofX3pNWguDP6S5UlsvQXaIe0gcg&s" group-title="Premium", Discovery Science • Latinoamérica
-http://201.222.45.70:4000/play/a0a3/index.m3u8?PlaylistM3UCL
+http://38.7.197.119:4000/play/a0a3/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318345" tvg-name="Discovery Turbo • América Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/1200px-Discovery_Turbo_logo.svg.png" group-title="Premium", Discovery Turbo • América Latina
-http://179.51.136.19:8000/play/a1g5/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a0ah/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320019" tvg-name="Discovery World • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/1200px-World_Discovery_HD_logo.svg.png" group-title="Premium", Discovery World • Latinoamérica
-http://179.51.136.19:8000/play/a17y/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a0jm/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320018" tvg-name="Discovery Theater" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/b/b4/LOGO_THEATER_BLACK1.png/revision/latest?cb=20150325154716&path-prefix=es" group-title="Premium", Discovery Theater
-http://179.51.136.19:8000/play/a1ae/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a0b9/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318344" tvg-name="Discovery Channel • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/2019_Discovery_logo.svg" group-title="Premium", Discovery Channel • Latinoamérica
-http://179.51.136.19:8000/play/a1ke/index.m3u8?PlaylistM3UCL
+http://45.181.122.46:8090/play/a014?PlaylistM3UCL
+#EXTINF:-1 tvg-id="321565" tvg-name="DSports Radio" tvg-logo="https://myradioenvivo.ar/public/uploads/radio_img/d-sports-radio/play_250_250.webp" group-title="Argentina", DSports Radio
+https://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIOAAC.aac?time=1749259716&PlaylistM3UCL
+#EXTINF:-1 tvg-id="329819" tvg-name="DSports+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST95URpH438uW8DJnZhI-azRGXo52OkRFb-A&s" group-title="Deportes", DSports+
+http://179.51.136.19:8000/play/a113/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320801" tvg-name="DSports 2 • América Latina" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTI4X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1749885149510" group-title="Deportes", DSports 2 • América Latina
 http://179.51.136.19:8000/play/a112/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="326682" tvg-name="DSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/DSports.png/330px-DSports.png" group-title="Deportes", DSports
 http://179.51.136.19:8000/play/DSPORTS1/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="321565" tvg-name="DSports Radio" tvg-logo="https://myradioenvivo.ar/public/uploads/radio_img/d-sports-radio/play_250_250.webp" group-title="Argentina", DSports Radio
-https://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIOAAC.aac?time=1749259716&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321566" tvg-name="ESPN Premium • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/ESPN_Premium_logo.svg" group-title="Deportes", ESPN Premium • Argentina
-http://179.51.136.19:8000/play/a1ml/index.m3u8?PlaylistM3UCL
+http://45.181.122.46:8090/play/a015?PlaylistM3UCL
 #EXTINF:-1 tvg-id="323730" tvg-name="ESPN 7 • América Latina" tvg-logo="https://es.wikipedia.org/wiki/Archivo:ESPN_7_logo.svg" group-title="Deportes", ESPN 7 • América Latina
-http://179.51.136.19:8000/play/a1kj/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a0j7/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="323728" tvg-name="ESPN 6 • América Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ESPN_6_logo.svg/1200px-ESPN_6_logo.svg.png" group-title="Deportes", ESPN 6 • América Latina
-http://179.51.136.19:8000/play/a1l3/index.m3u8?PlaylistM3UCL
+http://45.181.122.46:8090/play/a01u?PlaylistM3UCL
 #EXTINF:-1 tvg-id="323360" tvg-name="ESPN 5 • América Latina" tvg-logo="https://es.m.wikipedia.org/wiki/Archivo:ESPN_5_logo.svg" group-title="Deportes", ESPN 5 • América Latina
-http://179.51.136.19:8000/play/a1l9/index.m3u8?PlaylistM3UCL
+http://45.181.122.46:8090/play/a01i?PlaylistM3UCL
 #EXTINF:-1 tvg-id="323359" tvg-name="ESPN 4 • América Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/1200px-ESPN_4_logo.svg.png" group-title="Deportes", ESPN 4 • América Latina
-http://179.51.136.19:8000/play/a1ag/index.m3u8?PlaylistM3UCL
+http://207.248.3.81:8081/play/a0ns?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318343" tvg-name="ESPN 3 • América Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/ESPN3_Logo.png" group-title="Deportes", ESPN 3 • América Latina
-http://179.51.136.19:8000/play/a1ah/index.m3u8?PlaylistM3UCL
+http://207.248.3.81:8081/play/a0f5?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318342" tvg-name="ESPN 2 • América Latina" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMkr2RzuQwTckHKkKyRG6lJD-RyjurAfRqxQ&s" group-title="Deportes", ESPN 2 • América Latina
-http://179.51.136.19:8000/play/a10y/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a0j1/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318341" tvg-name="ESPN • América Latina" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPloc1JEBHcAbAwueDD-wwAoQFp_Tsxmfq9g&s" group-title="Deportes", ESPN • América Latina
-http://179.51.136.19:8000/play/a1kq/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a0je/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321300" tvg-name="Al Jazeera" tvg-logo="https://play-lh.googleusercontent.com/cH7bE7urEYRSpR0mFQbNP4ZZ0ecmfYH6tDLaCu_Z5OH6EUAsQ3e8Ml58Ebm8VcmMCI8" group-title="Noticias", Al Jazeera
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318540" tvg-name="Palestine TV" tvg-logo="https://cdn.m3u.cl/logo/1512_Palestine_TV.png" group-title="PALESTINA", Palestine TV
 https://pbc.furrera.ps/palestinehd/index.m3u8?PlaylistM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="330179" tvg-name="Retro Plus TV 3" tvg-logo="https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png" group-title="Chile", Retro Plus TV 3
+https://tls-cl.cdnz.cl/retroplustvtres/live/chunklist_w409332988.m3u8?WebM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="320755" tvg-name="Kanade TV" tvg-logo="https://cdn.m3u.cl/logo/1466_Kanade_TV.png" group-title="Chile", Kanade TV
 https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="328486" tvg-name="EnerGeek Radio" tvg-logo="https://cdn.m3u.cl/logo/1266_EnerGeek_Radio.png" group-title="Chile", EnerGeek Radio
-https://streaming-cl.sh1ny.space/memfs/75b105a4-2fd3-4538-a55c-480f3903a262.m3u8?PlaylistM3UCL&PlaylistM3UCL
+https://backend.energeek.cl/webtv/egradioweb/tracks-v1a1/mono.ts.m3u8?WebM3UCL&token=D3m0M3UCLWeb&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318029" tvg-name="EnerGeek Retro" tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek_Retro.png" group-title="Chile", EnerGeek Retro
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318028" tvg-name="EnerGeek FAN" tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png" group-title="Chile", EnerGeek FAN
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL&PlaylistM3UCL
-#EXTINF:-1 tvg-id="318024" tvg-name="FOX (KTTV) - Los Angeles [HD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg" group-title="ESTADOS UNIDOS", FOX (KTTV) - Los Angeles [HD]
-https://apollo.production-public.tubi.io/live/ac-kttv.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318771" tvg-name="CBS (KCBS) - Los Angeles [SD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/CBS_logo_%282020%29.svg" group-title="ESTADOS UNIDOS", CBS (KCBS) - Los Angeles [SD]
 http://tv14s.xyz:8080/49457200/49457200/121234?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318770" tvg-name="NBC (KNBC) - Los Angeles [SD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/NBC_logo_2022_%28vertical%29.svg" group-title="ESTADOS UNIDOS", NBC (KNBC) - Los Angeles [SD]
@@ -2569,34 +2577,24 @@ https://tvpass.org/live/WABCDT1/hd?PlaylistM3UCL
 http://tv14s.xyz:8080/49457200/49457200/46708?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321491" tvg-name="National Geographic (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png" group-title="ESTADOS UNIDOS", National Geographic (USA)
 http://tv14s.xyz:8080/71700855/71700855/46722?PlaylistM3UCL
-#EXTINF:-1 tvg-id="326273" tvg-name="NBA TV" tvg-logo="https://i.postimg.cc/PJPrGwJv/NBA.jpg" group-title="ESTADOS UNIDOS", NBA TV
-http://212.102.60.231/NBA_TV/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="326274" tvg-name="Red Bull TV" tvg-logo="https://i.postimg.cc/g0LyDwBt/redbulltv.jpg" group-title="ESTADOS UNIDOS", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="325032" tvg-name="Yahoo! Finance" tvg-logo="https://s.yimg.com/os/creatr-uploaded-images/2019-09/1f16fbf0-de0a-11e9-9af9-77bfe97840a9" group-title="ESTADOS UNIDOS", Yahoo! Finance
-https://api.m3use.projectmoose.xyz/m3u/ashdqa11/BRUCMS13102025/681c994a81742c00e20298b5.m3u8?uid=ashdqa11&pkey=26uPutjZ&PlaylistM3UCL
-#EXTINF:-1 tvg-id="321489" tvg-name="Discovery Familia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Discovery_Familia_Logo_%282022%29.svg/1200px-Discovery_Familia_Logo_%282022%29.svg.png" group-title="ESTADOS UNIDOS", Discovery Familia
-http://directo.ddns.me:2082/Camilafuentes/NaFLe5yL7Ahs/2456?PlaylistM3UCL
-#EXTINF:-1 tvg-id="324422" tvg-name="AMC [US]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/34/AMC_logo_2019.svg" group-title="ESTADOS UNIDOS", AMC [US]
-https://fl7.moveonjoy.com/AMC_NETWORK/index.m3u8?PlaylistM3UCL
+https://api.m3use.projectmoose.xyz/m3u/sadn2231/BRUCMS01NOV2025/681c994a81742c00e20298b5.m3u8?uid=sadn2231&pkey=9etRarfH&PlaylistM3UCL
 #EXTINF:-1 tvg-id="322377" tvg-name="USA Network [USA]" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="ESTADOS UNIDOS", USA Network [USA]
 http://tv14s.xyz:8080/49457200/49457200/10252?PlaylistM3UCL
-#EXTINF:-1 tvg-id="320317" tvg-name="Syfy US" tvg-logo="https://play-lh.googleusercontent.com/iXD3qDqUj65V8S2W6FBdoIzAKQf3iIhx7oNR-XsXxspKA-_OHDUFZVpYJ9XHeSoCUA" group-title="ESTADOS UNIDOS", Syfy US
-https://fl7.moveonjoy.com/SYFY/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="316990" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="ESTADOS UNIDOS", MTV
 http://tv14s.xyz:8080/49457200/49457200/9818?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318023" tvg-name="Comedy Central (US)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMj49OK_7OIRyOtU4EPJ_tVxyNmmAARDFMqA&s" group-title="ESTADOS UNIDOS", Comedy Central (US)
-https://fl7.moveonjoy.com/Comedy_Central/index.m3u8?PlaylistM3UCL
+http://tv14s.xyz:8080/71700855/71700855/7466?PlaylistM3UCL
 #EXTINF:-1 tvg-id="327283" tvg-name="GokuTV" tvg-logo="" group-title="series", GokuTV
 http://45.184.87.142:8000/play/a05k?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320335" tvg-name="Los Simpson 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/98/The_Simpsons_yellow_logo.svg" group-title="series", Los Simpson 24/7
 https://live20.bozztv.com/akamaissh101/ssh101/simptestnews/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321120" tvg-name="Baby Shark 24/7" tvg-logo="https://static.bandainamcoent.eu/high/baby-shark/baby-shark-sing-and-swim-party/00-page-product/BSSP-header-mobile.jpg" group-title="series", Baby Shark 24/7
-https://api.m3use.projectmoose.xyz/m3u/asdng23/BRUCMS27092025/685c58e2831e8c34d57a9134.m3u8?uid=asdng23&pkey=pR5j8khz&PlaylistM3UCL
+https://api.m3use.projectmoose.xyz/m3u/sadn2231/BRUCMS01NOV2025/685c58e2831e8c34d57a9134.m3u8?uid=sadn2231&pkey=9etRarfH&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321227" tvg-name="Peppa Pig 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/86/Peppa_Pig_logo.svg/800px-Peppa_Pig_logo.svg.png" group-title="series", Peppa Pig 24/7
-https://api.m3use.projectmoose.xyz/m3u/asdng23/BRUCMS27092025/685c56bd641707f58eb40522.m3u8?uid=asdng23&pkey=pR5j8khz&PlaylistM3UCL
-#EXTINF:-1 tvg-id="319457" tvg-name="South Park 24/7 (EN INGLÉS)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXINP8hfR4Nin_yGnCRR8E5ZHiRo_YvK2DKQ&s" group-title="series", South Park 24/7 (EN INGLÉS)
-http://tv14s.xyz:8080/49457200/49457200/66401?PlaylistM3UCL
+https://api.m3use.projectmoose.xyz/m3u/sadn2231/BRUCMS01NOV2025/685c56bd641707f58eb40522.m3u8?uid=sadn2231&pkey=9etRarfH&PlaylistM3UCL
 #EXTINF:-1 tvg-id="316992" tvg-name="South Park (Español Latino)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXINP8hfR4Nin_yGnCRR8E5ZHiRo_YvK2DKQ&s" group-title="series", South Park (Español Latino)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=unknown&deviceMake=unknown&deviceModel=unknown&deviceVersion=unknown&appVersion=unknown&deviceLat=90&deviceLon=0&deviceDNT=TARGETOPT&deviceId=PSID&advertisingId=PSID&us_privacy=1YNY&profileLimit=&profileFloor=&embedPartner=&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318025" tvg-name="The Weather Channel SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/1200px-The_Weather_Channel_logo_2005-present.svg.png" group-title="ESTADOS UNIDOS", The Weather Channel SD
@@ -2611,38 +2609,30 @@ https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?Playl
 https://247wlive.foxweather.com/stream/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="324659" tvg-name="NHK World Premium" tvg-logo="https://i.postimg.cc/XYxkx3s0/nhk.jpg" group-title="Japón", NHK World Premium
 https://cdn.skygo.mn/live/disk1/NHK_World_Premium/HLSv3-FTA/NHK_World_Premium.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="321564" tvg-name="NHK World" tvg-logo="https://www3.nhk.or.jp/nhkworld/common/site_images/nw_webapp_1500x1500.png" group-title="Japón", NHK World
-https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="329822" tvg-name="CNBC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/1280px-CNBC_logo.svg.png" group-title="Noticias", CNBC
+http://179.51.136.19:8000/play/a18x/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="327279" tvg-name="Telesur English" tvg-logo="https://www.telesurenglish.net/content/themes/telesur/dist/assets/img/only-logo.png" group-title="Noticias", Telesur English
 https://mblenmain01.telesur.ultrabase.net/mblivev3/480p/chunklist_w1027607018.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318027" tvg-name="RT Español" tvg-logo="https://cdn.m3u.cl/logo/497_RT_Espanol.png" group-title="Noticias", RT Español
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
-#EXTINF:-1 tvg-id="324888" tvg-name="France 24 English" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_n_QTJ5-GLGnftQFkb7Kp36W2eBH3H-7ZqTQxzFkkqGrIE=s160-c-k-c0x00ffffff-no-rj" group-title="Noticias", France 24 English
-https://api.m3use.projectmoose.xyz/m3u/BrunoFlores2525/BRUCMS/67ec187d906c45ce88f174ef.m3u8?uid=BrunoFlores2525&pkey=mD4nA73p&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321175" tvg-name="DW Español" tvg-logo="https://cdn.m3u.cl/logo/511_DW_Espanol.png" group-title="Noticias", DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL&PlaylistM3UCL
-#EXTINF:-1 tvg-id="318026" tvg-name="Bloomberg TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmITD-lgTwN7sjF4EoXeKMF_1NrLhZBcilag&s" group-title="ESTADOS UNIDOS", Bloomberg TV
-https://bloomberg-bloombergtv-6-eu.rakuten.wurl.tv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319670" tvg-name="Sky Sports F1 " tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kiEuPmeOVl-LKB42k9s2crSFOWaV8mLleSufLg1teuM20=s900-c-k-c0x00ffffff-no-rj" group-title="Reino Unido (UK)", Sky Sports F1 
-http://tv14s.xyz:8080/49457200/49457200/53704?PlaylistM3UCL
+http://tv14s.xyz:8080/71700855/71700855/53704?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319668" tvg-name="History Channel (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/History_%282021%29.svg" group-title="Reino Unido (UK)", History Channel (UK)
-http://tv14s.xyz:8080/49457200/49457200/53686?PlaylistM3UCL
-#EXTINF:-1 tvg-id="319671" tvg-name="TLC (Reino Unido)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/1200px-TLC_Logo.svg.png" group-title="Reino Unido (UK)", TLC (Reino Unido)
-http://tv14s.xyz:8080/49457200/49457200/53681?PlaylistM3UCL
+http://tv14s.xyz:8080/71700855/71700855/53694?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319667" tvg-name="Discovery Channel (Reino Unido)" tvg-logo="https://yt3.googleusercontent.com/fUU0ZIkqRoDbsSYiSFomiywGa2SOjbh1HxoACHa3nthh0XyCtyNNg_OAlxaD6k1QXr7Y1A-F=s900-c-k-c0x00ffffff-no-rj" group-title="Reino Unido (UK)", Discovery Channel (Reino Unido)
-http://tv14s.xyz:8080/49457200/49457200/53684?PlaylistM3UCL
+http://tv14s.xyz:8080/71700855/71700855/53684?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319669" tvg-name="Channel 4 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Channel_4_Logo_2023.svg/1200px-Channel_4_Logo_2023.svg.png" group-title="Reino Unido (UK)", Channel 4 
-http://tv14s.xyz:8080/49457200/49457200/99138?PlaylistM3UCL
-#EXTINF:-1 tvg-id="319479" tvg-name="Channel 5 " tvg-logo="https://yt3.googleusercontent.com/enXyzvFyiw9Xy2xeVcbN6YYG26CP-CbZSUDd5dJ9aPkaIvE4J5I8dH3ttNhSn_cv7H73AfYG=s900-c-k-c0x00ffffff-no-rj" group-title="Reino Unido (UK)", Channel 5 
-http://tv14s.xyz:8080/49457200/49457200/53653?PlaylistM3UCL
+http://tv14s.xyz:8080/71700855/71700855/99138?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320318" tvg-name="Reuters" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" group-title="Reino Unido (UK)", Reuters
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320761" tvg-name="BBC Radio 1" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/1193.v25.png" group-title="Reino Unido (UK)", BBC Radio 1
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_one.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319478" tvg-name="BBC One FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1200px-BBC_One_logo_2021.svg.png" group-title="Reino Unido (UK)", BBC One FHD
-http://tv14s.xyz:8080/49457200/49457200/53649?PlaylistM3UCL
+http://tv14s.xyz:8080/71700855/71700855/53649?PlaylistM3UCL
 #EXTINF:-1 tvg-id="316987" tvg-name="BBC News" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="Reino Unido (UK)", BBC News
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65d92a8c8b24c80008e285c0/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c26f5a2-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9f1a48db-9022-43d1-bb25-ba665285192f&PlaylistM3UCL
+http://168.90.221.3:8000/play/a0qj/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320798" tvg-name="France 24 Español" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kzqAgL2TukPL1ijpuPdoOgU75Av9cdQVf0mahAZSySyA=s900-c-k-c0x00ffffff-no-rj" group-title="FRANCIA ", France 24 Español
 http://186.194.160.110:9002/play/a02n/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="323361" tvg-name="Azteca Internacional (Pluto TV)" tvg-logo="https://images.pluto.tv/channels/646cce4d1593940008a33f09/colorLogoPNG.png" group-title="Pluto TV", Azteca Internacional (Pluto TV)
@@ -2653,14 +2643,12 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d
 https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="316986" tvg-name="BabyFirst TV" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Infantil", BabyFirst TV
 http://200.113.4.75:7210/play/a02j/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="316983" tvg-name="ABC 3 Lafayette LA (KATC)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="ESTADOS UNIDOS", ABC 3 Lafayette LA (KATC)
-https://aegis-cloudfront-1.tubi.video/28467730-4b65-4c85-8151-4c7d162c0896/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="316982" tvg-name="ABC 2 Baltimore MD (WMAR)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/2_ABC_WMAR_Baltimore.png" group-title="ESTADOS UNIDOS", ABC 2 Baltimore MD (WMAR)
-https://apollo.production-public.tubi.io/live/ac-wmar.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="311886" tvg-name="Cosmovisión" tvg-logo="https://cdn.m3u.cl/logo/125_Cosmovision.png" group-title="Infantil", Cosmovisión
 https://videohls2.cosmovision.tv/hls/sd.m3u8?PlaylistM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="329820" tvg-name="La Voz de María" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH5GtXT0LxYBR-aDMJHi0j5jxfbVnZYr5Yng&s" group-title="RELIGIOSO", La Voz de María
+http://179.51.136.19:8000/play/a0xk/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321172" tvg-name="Bethel TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLcT-23DFpJkrvWE4TkIHzZwZg1ysxysPz6w&s" group-title="RELIGIOSO", Bethel TV
-http://181.188.216.5:18000/play/a0hp/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a0bm/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="326685" tvg-name="Cristovisión" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Cristovisi%C3%B3n_2016.png/revision/latest/scale-to-width-down/168?cb=20210503213723&path-prefix=es" group-title="RELIGIOSO", Cristovisión
 http://186.194.160.110:9002/play/a01o/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="323006" tvg-name="Esne TV" tvg-logo="https://static.wikia.nocookie.net/newlogosfake/images/f/f0/El_Sembrador_Nueva_Evangelizaci%C3%B3n.png/revision/latest?cb=20191231142425" group-title="RELIGIOSO", Esne TV
@@ -2673,16 +2661,16 @@ https://unlimited1-cl-isp.dps.live/isb/isb.smil/playlist.m3u8?PlaylistM3UCL&Play
 https://3abn.bozztv.com/3abn2/3abn_live/smil:3abn_live.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321699" tvg-name="Venevisión HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/1200px-Logotipo_de_Venevisi%C3%B3n.svg.png" group-title="Venezuela", Venevisión HD
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="320166" tvg-name="NTN24 HD" tvg-logo="https://yt3.googleusercontent.com/y66JHUZGk010-1ktgqmCdN5O_fcZ9Tyqatkrl3f0DCNDH50S7GEryxHgtrmbIwaw_BOmeGp8-w=s900-c-k-c0x00ffffff-no-rj" group-title="Colombia", NTN24 HD
+#EXTINF:-1 tvg-id="320166" tvg-name="NTN24" tvg-logo="https://yt3.googleusercontent.com/y66JHUZGk010-1ktgqmCdN5O_fcZ9Tyqatkrl3f0DCNDH50S7GEryxHgtrmbIwaw_BOmeGp8-w=s900-c-k-c0x00ffffff-no-rj" group-title="Colombia", NTN24
 http://186.194.160.110:9002/play/a0lm/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310449" tvg-name="Canal Institucional" tvg-logo="https://cdn.m3u.cl/logo/120_Canal_Institucional.png" group-title="Colombia", Canal Institucional
 http://186.194.160.110:9002/play/a06v/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310451" tvg-name="Señal Colombia" tvg-logo="https://cdn.m3u.cl/logo/128_Senal_Colombia.png" group-title="Colombia", Señal Colombia
 http://186.194.160.110:9002/play/a072/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322111" tvg-name="Canal El Tiempo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/ET_canal_El_Tiempo_logo.png" group-title="Colombia", Canal El Tiempo
-http://179.51.136.19:8000/play/a1gt/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a0ll/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320167" tvg-name="RCN Novelas" tvg-logo="https://www.google.cl/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FRCN_Novelas&psig=AOvVaw2k7MX2qW57dUwrObdR1N05&ust=1747272251477000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKC8-cHmoY0DFQAAAAAdAAAAABAE" group-title="Colombia", RCN Novelas
-http://201.222.45.70:4000/play/a08u/index.m3u8?PlaylistM3UCL
+http://38.7.197.119:4000/play/a08u/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318702" tvg-name="Canal RCN • Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/CanalRCN2023.png" group-title="Colombia", Canal RCN • Colombia
 http://186.194.160.110:9002/play/a00r/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321305" tvg-name="Trece • Colombia" tvg-logo="https://yt3.googleusercontent.com/H8Ootm-BhOcJItyXd2j5w90VZlpvEF6ptsBFUKcTs1CPGUYsvWkpN_spHmYhHwTEAfGGSTzromg=s900-c-k-c0x00ffffff-no-rj" group-title="Colombia", Trece • Colombia
@@ -2692,27 +2680,25 @@ http://186.194.160.110:9002/play/a027/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="323016" tvg-name="Radio Disney Ecuador" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/29254.v13.png" group-title="Ecuador", Radio Disney Ecuador
 https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_ECU_GY.mp3?dist=onlineradiobox&PlaylistM3UCL
 #EXTINF:-1 tvg-id="320024" tvg-name="Televicentro" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYUMM8WyHz4q8qap38e1xTY4hFq3tvqAtAXQ&s" group-title="Ecuador", Televicentro
-http://181.188.216.5:18000/play/a0kl/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="320021" tvg-name="RTS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="Ecuador", RTS HD
-http://181.188.216.5:18000/play/a0km/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a09p/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="320021" tvg-name="RTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="Ecuador", RTS
+http://186.194.160.110:9002/play/a09q/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320023" tvg-name="Teleamazonas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/Teleamazonas_Logo.png" group-title="Ecuador", Teleamazonas
-http://181.188.216.5:18000/play/a0lw/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a09l/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320022" tvg-name="Ecuavisa HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="Ecuador", Ecuavisa HD
 https://jireh-4-hls-video-us-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="320020" tvg-name="TC Televisión HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/TC_logo2020.webp" group-title="Ecuador", TC Televisión HD
-http://181.188.216.5:18000/play/a0lv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="322126" tvg-name="DNews" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/DNews.png/330px-DNews.png" group-title="Noticias", DNews
-https://api.m3use.projectmoose.xyz/m3u/BrunoFlores2525/BRUCMS/684301bc0214d18907789461.m3u8?uid=BrunoFlores2525&pkey=mD4nA73p&PlaylistM3UCL
+#EXTINF:-1 tvg-id="320020" tvg-name="TC Televisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/TC_logo2020.webp" group-title="Ecuador", TC Televisión
+http://186.194.160.110:9002/play/a09o/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310460" tvg-name="Telesur" tvg-logo="https://cdn.m3u.cl/logo/499_Telesur.png" group-title="Noticias", Telesur
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="316954" tvg-name="Telemax Sonora" tvg-logo="https://i.imgur.com/u4wj40K.jpg" group-title="Mexico", Telemax Sonora
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321698" tvg-name="Las Estrellas • México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Las_Estrellas_logo_%282016%29.svg/1200px-Las_Estrellas_logo_%282016%29.svg.png" group-title="Mexico", Las Estrellas • México
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index_1.m3u8?PlaylistM3UCL
+http://201.174.175.3:8000/play/a0m3/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318707" tvg-name="Canal 5 • México" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1d/Canal_5_Mexico_logo_2014.svg" group-title="Mexico", Canal 5 • México
-http://clubtv.link/s23s/phpcode/lista0.php?c=52&token=tecnotokenplustv&f=.m3u8&PlaylistM3UCL
+http://201.174.175.3:8000/play/a0m4/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318706" tvg-name="Azteca 7 • México" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0f/Azt-72024.png/revision/latest?cb=20241021203534&path-prefix=es" group-title="Mexico", Azteca 7 • México
-http://clubtv.link/s23s/phpcode/lista0.php?c=54&token=tecnotokenplustv&f=.m3u8&PlaylistM3UCL
+http://201.174.175.3:8000/play/a0kl/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318705" tvg-name="Azteca Uno • México" tvg-logo="https://static.wikia.nocookie.net/tv-azteca/images/9/98/Uno.png/revision/latest?cb=20200323172904&path-prefix=es" group-title="Mexico", Azteca Uno • México
 http://clubtv.link/s23s/phpcode/lista0.php?c=1&token=tecnotokenplustv&f=.m3u8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="316953" tvg-name="Teleritmo" tvg-logo="https://i.imgur.com/bR1HtpG.jpg" group-title="Mexico", Teleritmo
@@ -2723,46 +2709,26 @@ http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8?PlaylistM3U
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310457" tvg-name="Teleplay" tvg-logo="https://cdn.m3u.cl/logo/636_Teleplay.png" group-title="Noticias", Teleplay
 https://teleplay.mediaflix.istream.mx/livestream/teleplay/livesd/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
-#EXTINF:-1 tvg-id="310456" tvg-name="ADN 40" tvg-logo="https://cdn.m3u.cl/logo/658_ADN_40.png" group-title="Noticias", ADN 40
+#EXTINF:-1 tvg-id="310456" tvg-name="ADN 40" tvg-logo="https://tvazteca.brightspotcdn.com/d4/08/dafb53b24b759f308ec60d4519b9/adn-header-1032x368.png" group-title="Noticias", ADN 40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321484" tvg-name="RAI Italia • Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/1200px-Rai_Italia_-_Logo_2017.svg.png" group-title="Italia", RAI Italia • Internacional
-http://181.188.216.5:18000/play/a0p5/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="319685" tvg-name="France 2 HD" tvg-logo="https://thumb.canalplus.pro/bran/unsafe/356x264/image/65a7ac48f2fa5/uploads/media/4_3_2.png" group-title="FRANCIA", France 2 HD
-http://xpaneltv.com:8080/DaiSeg/987612345/320663?PlaylistM3UCL
-#EXTINF:-1 tvg-id="319684" tvg-name="TF1 SD" tvg-logo="https://thumb.canalplus.pro/bran/unsafe/356x264/image/65578104cd090/uploads/media/TF1_4x3.png" group-title="FRANCIA", TF1 SD
-http://xpaneltv.com:8080/DaiSeg/987612345/320661?PlaylistM3UCL
+http://186.194.160.110:9002/play/a02z/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319795" tvg-name="Euronews" tvg-logo="https://yt3.googleusercontent.com/i9_e34m-ObKpqCshARRsxhTA2wFPE-Ct0ZHg_HTWg0TrD27sTGZ9Vi25zDF0PsBwVKtyhkYvnQ=s900-c-k-c0x00ffffff-no-rj" group-title="FRANCIA", Euronews
-http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6639d7d4b18d700008da5316/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=bc83f381-4b91-11ef-8a44-83c5e90e038f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2a6fb319-bbbb-4ced-9cfb-de66da2dec34&PlaylistM3UCL
+http://128.201.227.251:4000/play/a0cl?PlaylistM3UCL
 #EXTINF:-1 tvg-id="316950" tvg-name="Telesafor" tvg-logo="https://i.imgur.com/PrhB3SI.jpg" group-title="ESPAÑA", Telesafor
 http://video.telesafor.com/hls/video_high.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="320044" tvg-name="BabyTV (ES)" tvg-logo="https://i.imgur.com/4BDJ5FT.png" group-title="ESPAÑA", BabyTV (ES)
-http://tv.nousiptv.com:8080/martamia/123498765/1156043?PlaylistM3UCL
-#EXTINF:-1 tvg-id="321492" tvg-name="Boing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Boing_2020.svg/512px-Boing_2020.svg.png" group-title="ESPAÑA", Boing
-http://45.14.248.42:6001/play/BoingHD?PlaylistM3UCL
-#EXTINF:-1 tvg-id="319048" tvg-name="Comedy Central (España)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="ESPAÑA", Comedy Central (España)
-http://tv.nousiptv.com:8080/martamia/123498765/1156042?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310454" tvg-name="Real Madrid TV" tvg-logo="https://cdn.m3u.cl/logo/631_Real_Madrid_TV_HD.png" group-title="ESPAÑA", Real Madrid TV
 https://dice-live-eu.cdnfastly.endeavorstreaming.net/1756068035_zKkkWdq2eK0cyNfr_da7f950cb851badf524986a875584ccfa327bb15/id=df98a2a6-82d7-4962-80e9-00f1beced385/data=dWlkPW16SEE3M3xiMTAxOWI4MC0wMjdmLTQ2NzEtYWM3Zi1kMjQ2ODIxMDA4YTYmaXA9MTg2LjEwNS4xODEuMTIxJmV4cD0xNzU2MDY4MDY0JmVpZD0yMzcyODQmY2lkPWRjZS5yZWFsbWFkcmlkJm9pZD0zNDcmdHlwZT1MSVZF/hls/live/2019502~/hls/live/2019502/237284-298870/exchange237284ocgru_237284_4500/chunklist-d.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="327178" tvg-name="Cuatro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Cuatro_icon.svg/revision/latest?cb=20210603021936&path-prefix=es" group-title="ESPAÑA", Cuatro
-http://45.14.248.42:6001/play/cuatroHD?PlaylistM3UCL
-#EXTINF:-1 tvg-id="321177" tvg-name="La Sexta" tvg-logo="https://www.lasexta.com/public/img/lasexta/apple-touch-icon-180x180.png" group-title="ESPAÑA", La Sexta
-http://directo.ddns.me:2082/Camilafuentes/NaFLe5yL7Ahs/2534?PlaylistM3UCL
-#EXTINF:-1 tvg-id="320043" tvg-name="Mega (España)" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2021/04/12/7DC7BFBE-A48A-4898-BCEE-166C6812F73F//720x540.jpg" group-title="ESPAÑA", Mega (España)
-http://directo.ddns.me:2082/Camilafuentes/NaFLe5yL7Ahs/16000?PlaylistM3UCL
-#EXTINF:-1 tvg-id="320797" tvg-name="NEOX" tvg-logo="http://www.cablevisionguadalquivir.com/wp-content/uploads/2014/11/neox-455x250.jpg" group-title="ESPAÑA", NEOX
-http://directo.ddns.me:2082/Camilafuentes/NaFLe5yL7Ahs/2523?PlaylistM3UCL
-#EXTINF:-1 tvg-id="320045" tvg-name="Nova" tvg-logo="https://i.imgur.com/Vx1F4o5.png" group-title="ESPAÑA", Nova
-http://directo.ddns.me:2082/Camilafuentes/NaFLe5yL7Ahs/2528?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319680" tvg-name="Antena 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6dtC1BvPcFHYtA9Z3EtmZffEYR8RSs1Xq-w&s" group-title="ESPAÑA", Antena 3
-http://45.14.248.42:6001/play/ANTENA3HD?PlaylistM3UCL
-#EXTINF:-1 tvg-id="326686" tvg-name="Star TVE" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/3/33/Star_TVE_HD.png/revision/latest?cb=20160218201719&path-prefix=es" group-title="ESPAÑA", Star TVE
-http://181.188.216.5:18000/play/a0el/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a02y/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320316" tvg-name="TVE Internacional • América" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_TVE-Internacional.svg" group-title="ESPAÑA", TVE Internacional • América
-http://181.188.216.5:18000/play/a0q4/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a0lz/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322051" tvg-name="Clan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Clan_logo.svg/1200px-Clan_logo.svg.png" group-title="ESPAÑA", Clan
 https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322392" tvg-name="El País TV" tvg-logo="https://i.ibb.co/cQwqfFC/ees.jpg" group-title="ESPAÑA", El País TV
 https://d2xqbi89ghm9hh.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-79fx3huimw4xc-ssai-prd/fast-channel-el-pais.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="326686" tvg-name="Star TVE" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/3/33/Star_TVE_HD.png/revision/latest?cb=20160218201719&path-prefix=es" group-title="ESPAÑA", Star TVE
+http://128.201.227.251:4000/play/a0at?PlaylistM3UCL
 #EXTINF:-1 tvg-id="327711" tvg-name="Teledeporte" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmYMrnoEFvET1PyOoRmg0u0zNBivLq0_2MGQ&s" group-title="ESPAÑA", Teledeporte
 https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310455" tvg-name="TVE 24h" tvg-logo="https://cdn.m3u.cl/logo/598_TVE_24H.png" group-title="ESPAÑA", TVE 24h
@@ -2778,13 +2744,15 @@ http://tv14s.xyz:8080/49457200/49457200/110637?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319454" tvg-name="Perú Mágico" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgfaEFVocdVl55HH5aZiCZrqSbK7jeki-DVQ&s" group-title="PERÚ", Perú Mágico
 http://179.51.136.19:8000/play/a1gv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310459" tvg-name="ATV" tvg-logo="https://cdn.m3u.cl/logo/1065_ATV.png" group-title="PERÚ", ATV
-http://179.51.136.19:8000/play/a0zp/index.m3u8?PlaylistM3UCL
+http://201.230.105.202:8126/play/rf99jj/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310458" tvg-name="TV Perú Noticias" tvg-logo="https://cdn.m3u.cl/logo/705_TV_Peru_Noticias.png" group-title="PERÚ", TV Perú Noticias
 https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="323533" tvg-name="TV Perú" tvg-logo="https://cdn.storage.foromedios.com/monthly_2020_04/306391394_1200px-Tv_Per_-_Logo_2019_Reducido_(TVPE)_svg.png.b81af0e8b7bfbeebf3cb3ddf0ef24371.png" group-title="PERÚ", TV Perú
-http://181.188.216.5:18000/play/a01o/index.m3u8?PlaylistM3UCL
+http://201.230.105.202:8126/play/a0m0/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319453" tvg-name="Panamericana TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Segundo_Logotipo_de_Panamericana_Televisi%C3%B3n.svg" group-title="PERÚ", Panamericana TV HD
-http://179.51.136.19:8000/play/a0zl/index.m3u8?PlaylistM3UCL
+http://45.173.74.2:2010/play/a070/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="322662" tvg-name="Radio Exitosa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Logoexitosa.png/500px-Logoexitosa.png" group-title="PERÚ", Radio Exitosa TV
+http://190.232.82.15/play/a0cq/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="316955" tvg-name="Radio Ovación " tvg-logo="https://i.imgur.com/Xwbpj7i.jpg" group-title="PERÚ", Radio Ovación 
 https://5c3fb01839654.streamlock.net:1963/iptvovacion2/liveovacion2tv/chunklist_w542180951.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319679" tvg-name="SBT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Sistema_Brasileiro_de_Televis%C3%A3o.svg/1200px-Sistema_Brasileiro_de_Televis%C3%A3o.svg.png" group-title="Brasil", SBT
@@ -2793,26 +2761,28 @@ http://tv14s.xyz:8080/49457200/49457200/20978?PlaylistM3UCL
 http://tv14s.xyz:8080/49457200/49457200/164943?PlaylistM3UCL
 #EXTINF:-1 tvg-id="328647" tvg-name="Canal E" tvg-logo="https://mediakit.perfil.com/img/canal-e-logo.png" group-title="Argentina", Canal E
 https://pantera1-100gb-cl-movistar.dps.live/perfiltv/perfiltv.smil/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="320017" tvg-name="LN Más • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="Argentina", LN Más • Argentina
-http://190.95.60.228:8500/play/a01m?PlaylistM3UCL
-#EXTINF:-1 tvg-id="320169" tvg-name="Crónica TV • Argentina" tvg-logo="https://i.ytimg.com/vi/avly0uwZzOE/maxresdefault.jpg" group-title="Argentina", Crónica TV • Argentina
-http://190.95.60.228:8500/play/a01k?PlaylistM3UCL
-#EXTINF:-1 tvg-id="320879" tvg-name="América TV Internacional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Argentina", América TV Internacional
-https://api.m3use.projectmoose.xyz/m3u/asdng23/BRUCMS27092025/686a400f9f82d505718ba41f.m3u8?uid=asdng23&pkey=pR5j8khz&PlaylistM3UCL
-#EXTINF:-1 tvg-id="320880" tvg-name="América TV • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Argentina", América TV • Argentina
-http://190.95.60.228:8500/play/a00y?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321697" tvg-name="El Nueve • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="Argentina", El Nueve • Argentina
-https://api.m3use.projectmoose.xyz/m3u/BrunoFlores2525/BRUCMS/681aefee626edc70d7214ca9.m3u8?uid=BrunoFlores2525&pkey=mD4nA73p&PlaylistM3UCL
+http://181.13.252.102:8000/play/a04h/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="330182" tvg-name="América 24 " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8yfXBuQmon9WVy3ETX9fuq0w4U8Hvq391YA&s" group-title="Argentina", América 24 
+http://181.13.252.102:8000/play/a01o/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="330183" tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/C5N_%282017%29.png" group-title="Argentina", C5N
+http://181.13.252.102:8000/play/a01p/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="320017" tvg-name="LN Más • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="Argentina", LN Más • Argentina
+http://181.13.252.102:8000/play/a01s/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="320169" tvg-name="Crónica TV • Argentina" tvg-logo="https://i.ytimg.com/vi/avly0uwZzOE/maxresdefault.jpg" group-title="Argentina", Crónica TV • Argentina
+http://181.13.252.102:8000/play/a01q/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="320880" tvg-name="América TV • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" group-title="Argentina", América TV • Argentina
+http://181.13.252.102:8000/play/a055/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321174" tvg-name="TV Pública • Argentina" tvg-logo="https://i.postimg.cc/cLtNCgRK/tvp.png" group-title="Argentina", TV Pública • Argentina
 https://g5.mc-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001_1080p.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320168" tvg-name="TN • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/1200px-TN_todo_noticias_logo.svg.png" group-title="Argentina", TN • Argentina
-http://tv14s.xyz:8080/49457200/49457200/164873?PlaylistM3UCL
+http://181.13.252.102:8000/play/a058/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320016" tvg-name="Canal 26 • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/1200px-Canal_26_logo_%282022%29.svg.png" group-title="Argentina", Canal 26 • Argentina
-http://190.95.60.228:8500/play/a01l?PlaylistM3UCL
+http://181.13.252.102:8000/play/a01r/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320015" tvg-name="Telefe • Córdoba, Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/800px-Telefe_%28nuevo_logo%29.png" group-title="Argentina", Telefe • Córdoba, Argentina
 http://190.95.60.228:8500/play/a031?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320014" tvg-name="El Trece • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8d/Isotipo_eltrece_2016.png" group-title="Argentina", El Trece • Argentina
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8?PlaylistM3UCL&PlaylistM3UCL
+http://181.13.252.102:8000/play/a0bg/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="316956" tvg-name="LITUS" tvg-logo="https://i.imgur.com/oiW6vgk.jpg" group-title="Argentina", LITUS
 https://stream.arcast.com.ar/litustv/ngrp:litustv_all/chunklist_w1549013966_b581072.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="328513" tvg-name="Red Uno" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/1200px-Uno_logo.svg.png" group-title="Bolivia", Red Uno
@@ -2829,18 +2799,24 @@ http://rtmp.info:8081/iqtv/envivo/playlist.m3u8?PlaylistM3UCL
 https://cdn-edge1.cef-technology.com/wow/wow_tv/chunks.m3u8?nimblesessionid=342470&PlaylistM3UCL
 #EXTINF:-1 tvg-id="316949" tvg-name="Nuevo Tiempo" tvg-logo="https://i.imgur.com/1Ve91c2.png" group-title="RELIGIOSO", Nuevo Tiempo
 http://stream.novotempo.com:1935/tv/smil:tvnuevotiempo.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="330178" tvg-name="L1MAX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/330px-L1MAX-LOGO.svg.png" group-title="Deportes", L1MAX
+http://45.232.177.16:8000/play/a02o?PlaylistM3UCL
+#EXTINF:-1 tvg-id="330173" tvg-name="Fitmaxx" tvg-logo="https://static.wixstatic.com/media/c5adb2_14286ffa39e849019f87ea63de793581~mv2.jpg/v1/fill/w_280,h_199,al_c,lg_1,q_80,enc_avif,quality_auto/Image-empty-state.jpg" group-title="Deportes", Fitmaxx
+http://45.160.12.200:8008/play/231/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="329821" tvg-name="Latin America Sport" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBpyFfS_isX5pLICeWcccj0M_qDBgPiEusvg&s" group-title="Deportes", Latin America Sport
+http://179.51.136.19:8000/play/a14j/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321173" tvg-name="Canal del Caballo " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_xvWxCk74O1qQ5cB8JKhbTHBryd68HFHXnA&s" group-title="Deportes", Canal del Caballo 
 https://stream.canaldelcaballo.cl/video/video.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322106" tvg-name="Golf Channel • Latin America" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_l7PVtPLj8eIYzV6TRlAATjqKwjeCc8Pe-AAFo2-0gCDg=s900-c-k-c0x00ffffff-no-rj" group-title="Deportes", Golf Channel • Latin America
-http://179.51.136.19:8000/play/a1bo/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="321482" tvg-name="WWE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/WWE_official_logo.svg/800px-WWE_official_logo.svg.png" group-title="Deportes", WWE
-http://directo.ddns.me:2082/Camilafuentes/NaFLe5yL7Ahs/31856?PlaylistM3UCL
+http://200.229.147.142:8000/play/a026/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="330172" tvg-name="Canal F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/DAZN_F1_logo.png" group-title="Deportes", Canal F1
+http://128.201.227.251:4000/play/a0cm?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320315" tvg-name="UFC " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/UFC_Logo.svg" group-title="Deportes", UFC 
 https://linear-893.frequency.stream/dist/xumo/893/hls/master/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321567" tvg-name="Gol TV • Latino América" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSvxR3q73e5lO7D_N-D1_O6wO9GcKpGDmfrw&s" group-title="Deportes", Gol TV • Latino América
-http://179.51.136.19:8000/play/a1gz/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a0h3/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321298" tvg-name="TyC Sports • Latinoamérica" tvg-logo="https://www.newslinereport.com/online/nota_tyc-sports-es-uno-de-los-tres-canales-de-mayor-audiencia-de-argentina.jpg" group-title="Deportes", TyC Sports • Latinoamérica
-http://179.51.136.19:8000/play/a1h0/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a031/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="316988" tvg-name="FOX Sports 1" tvg-logo="https://i.imgur.com/O9BapV9.png" group-title="Deportes", FOX Sports 1
 https://tvpass.org/live/FoxSports1/hd?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310181" tvg-name="13 Deportes" tvg-logo="https://cdn.m3u.cl/logo/1199_D13.png" group-title="Deportes", 13 Deportes
@@ -2850,27 +2826,29 @@ https://v2.tustreaming.cl:443/catvlive/index.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318537" tvg-name="FutGO" tvg-logo="https://cdn.m3u.cl/logo/1598_FutGO.png" group-title="Deportes", FutGO
 https://origin.dpsgo.com/ssai/event/Jxo4ZkwHQr-9XqguRcdsSg/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321301" tvg-name="Teletrak SD" tvg-logo="https://cdn.m3u.cl/logo/376_Teletrak.png" group-title="Chile (RESPALDOS)", Teletrak SD
-http://179.51.136.19:8000/play/a1il/index.m3u8?PlaylistM3UCL
+http://45.181.122.46:8090/play/a00v?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310180" tvg-name="Teletrak" tvg-logo="https://cdn.m3u.cl/logo/376_Teletrak.png" group-title="Deportes", Teletrak
 https://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="323086" tvg-name="CDO Premium" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7c/CDO_2021.png/revision/latest?cb=20211122020635&path-prefix=es" group-title="Deportes", CDO Premium
-http://directo.ddns.me:2082/Camilafuentes/NaFLe5yL7Ahs/3117?PlaylistM3UCL
+http://190.102.247.123:8000/play/a0fv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322269" tvg-name="CDO 2" tvg-logo="https://www.lyngsat.com/logo/tv/cc/cdo-2-cl.png" group-title="Deportes", CDO 2
-http://179.51.136.19:8000/play/a1in/index.m3u8?PlaylistM3UCL
+http://128.201.227.251:4000/play/a0ds?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321694" tvg-name="TNT Sports • Chile" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTU1xPXLYb8ydng1WIFCZtoN7tlAeqpYeicjw&s" group-title="Deportes", TNT Sports • Chile
-http://179.51.136.19:8000/play/a1im/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a0hh/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="324548" tvg-name="TNT Sports Premium SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" group-title="Deportes", TNT Sports Premium SD
-http://179.51.136.19:8000/play/a1mv/index.m3u8?PlaylistM3UCL
+http://207.248.3.81:8081/play/a0r2?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319040" tvg-name="TNT Sports Premium 2 • Chile" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYcZpYoiEecPCpDU3NUfmGvxVJ2zJFiUQmyw&s" group-title="Deportes", TNT Sports Premium 2 • Chile
-http://179.51.136.19:8000/play/a1mc/index.m3u8?PlaylistM3UCL
+http://45.181.122.46:8090/play/a00i?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310178" tvg-name="Canal 2 San Antonio" tvg-logo="https://cdn.m3u.cl/logo/76_Canal_2_de_San_Antonio.png" group-title="Chile", Canal 2 San Antonio
 https://unlimited1-cl-isp.dps.live/canal2/canal2.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="330176" tvg-name="Raices Árabes" tvg-logo="https://raicesarabes.tv/wp-content/uploads/2024/02/descarga-1.jpg" group-title="Chile", Raices Árabes
+https://tv.arkeo.cl:1936/raicesarabestv/raicesarabestv/chunklist_w914797177.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="327286" tvg-name="La Chilena TV" tvg-logo="https://cdn.m3u.cl/logo/1195_La_Chilena_TV.png" group-title="Chile", La Chilena TV
 https://vdochile.com:3134/hybrid/play.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="320796" tvg-name="Chile Channel HD" tvg-logo="https://i.postimg.cc/CMfx4z56/chilech.jpg" group-title="Chile", Chile Channel HD
 https://v2.tustreaming.cl/chilechannel/tracks-v1a1/mono.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="328484" tvg-name="ECOOL TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1841KNedgDYbla8PadhU2WfM9W_HKxc-xLA&s" group-title="Chile", ECOOL TV
-http://201.222.45.70:4000/play/a044/index.m3u8?PlaylistM3UCL
+http://38.7.197.119:4000/play/a044/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321171" tvg-name="Rocco TV LQ" tvg-logo="https://cdn.m3u.cl/logo/367_Rocco_TV_4.png" group-title="Chile", Rocco TV LQ
 https://v2.tustreaming.cl/roccotv/index.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="324868" tvg-name="Pucón TV" tvg-logo="https://cdn.m3u.cl/logo/83_Pucon_TV.png" group-title="Chile", Pucón TV
@@ -2879,6 +2857,8 @@ https://unlimited1-cl-isp.dps.live/pucontv/pucontv.smil/playlist.m3u8?PlaylistM3
 https://unlimited2-cl-isp.dps.live/decimatv/decimatv.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="322383" tvg-name="Bombi TV" tvg-logo="https://cdn.m3u.cl/logo/1615_Bombi_TV.png" group-title="Chile", Bombi TV
 https://tv.arkeo.cl:1936/bombitv/bombitv/chunklist_w308801834.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="329908" tvg-name="Canal 5 Laja TV" tvg-logo="https://static.mytuner.mobi/media/tvos_radios/ucvezekejhw4.jpg" group-title="Regionales", Canal 5 Laja TV
+http://190.102.247.123:8000/play/a071/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322379" tvg-name="Holvoet TV" tvg-logo="https://cdn.m3u.cl/logo/72_Holvoet_TV.png" group-title="Regionales", Holvoet TV
 https://unlimited1-cl-isp.dps.live/holvoettv/holvoettv.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="322384" tvg-name="Girovisual" tvg-logo="https://pbs.twimg.com/profile_images/1222959189766627328/SYfmOK59_400x400.jpg" group-title="Regionales", Girovisual
@@ -2887,6 +2867,12 @@ https://pantera1-100gb-cl-movistar.dps.live/girovisual2/girovisual2.smil/girovis
 https://unlimited2-cl-isp.dps.live/cm/cm.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321299" tvg-name="ITV Patagonia" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kdEW4qoHzyyElv4_hgspSc_q1-YOpGLKRhdFKnUZCtLZs=s900-c-k-c0x00ffffff-no-rj" group-title="Chile", ITV Patagonia
 https://unlimited1-cl-isp.dps.live/itv/itv.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="329825" tvg-name="Juntos TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBRqq-y6N5ZNiijTbHfv6AjqrMKEDkKZtJUw&s" group-title="Chile", Juntos TV
+https://video.juntostvchile.cl:8879/hls/web-jntv.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="329823" tvg-name="Chile Informa" tvg-logo="https://lh4.googleusercontent.com/proxy/0zOS_8Ga-5AS_ViHNFJ36SNih6KYvQDFodKbXML7N2v5L7iT7VOWV0Kufz1qrMgWJdD4w-s--AkKnWRGfBLJTlCHQjQJSOXPXhSUtVIjcxa-KtDS234DBgbfou1lPPtFJT0KRvM9hnz_YR5_Zg" group-title="Chile", Chile Informa
+http://128.201.227.251:4000/play/a0d8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="329862" tvg-name="Sport EX" tvg-logo="https://i.imgur.com/umpgt0U.png" group-title="Chile", Sport EX
+http://128.201.227.251:4000/play/a0dk?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319481" tvg-name="TVO San Vicente de Tagua Tagua" tvg-logo="https://cdn.m3u.cl/logo/340_TVO_San_Vicente.png" group-title="Chile", TVO San Vicente de Tagua Tagua
 https://5ff3d9babae13.streamlock.net:443/8014/8014/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321692" tvg-name="En Línea Maule" tvg-logo="https://cdn.m3u.cl/logo/79_En_Linea_Maule.png" group-title="Regionales", En Línea Maule
@@ -2894,7 +2880,7 @@ https://v1.tustreaming.cl/enlineamauletv/index.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321693" tvg-name="Nova TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRwWkWiFrGWt952r9nrUyAoc97fk1ZsDDjVQ&s" group-title="Chile", Nova TV
 https://freya.mivideo.pro/novatv/tracks-v1a1/mono.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322393" tvg-name="RTV" tvg-logo="https://i.imgur.com/o1pUzGJ.jpeg" group-title="Chile", RTV
-https://eu1.servers10.com:8081/8162/tracks-v1a1/mono.m3u8?PlaylistM3UCL
+https://origin-us.streaminghd.cl/rtv/rtv/chunklist_w981874333.m3u8?WebM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="322098" tvg-name="Telecanal Santa Cruz" tvg-logo="https://cdn.m3u.cl/logo/1025_Telecanal_Santa_Cruz.png" group-title="Chile", Telecanal Santa Cruz
 https://origin-us.streaminghd.cl/telecanal/telecanal/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319856" tvg-name="Sextavisión" tvg-logo="https://cdn.m3u.cl/logo/341_Sextavision.png" group-title="Chile", Sextavisión
@@ -2915,20 +2901,22 @@ https://tls-cl.cdnz.cl/aeradio/live/playlist.m3u8?PlaylistM3UCL
 https://jireh-1-hls-video-cl-isp.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/carolinatv2/carolinatv2.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="320754" tvg-name="+Cine" tvg-logo="https://cdn.m3u.cl/logo/1435__Cine.png" group-title="Chile", +Cine
 https://tv.arkeo.cl:19360/8128/8128.m3u8?PlaylistM3UCL&PlaylistM3UCL
-#EXTINF:-1 tvg-id="320033" tvg-name="Señal Mediabanco" tvg-logo="https://cdn.m3u.cl/logo/1239_Senal_Mediabanco.png" group-title="Chile", Señal Mediabanco
-https://unlimited1-cl-isp.dps.live/mediabanco/mediabanco.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="310165" tvg-name="Universidad Autónoma TV" tvg-logo="https://cdn.m3u.cl/logo/58_Universidad_Autonoma_TV.png" group-title="Chile", Universidad Autónoma TV
 https://unlimited1-cl-isp.dps.live/uatv/uatv.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="323987" tvg-name="Puranoticia" tvg-logo="https://i.postimg.cc/5yFY9Z9L/puran.jpg" group-title="Chile", Puranoticia
 https://pnt.janusmedia.tv/hls/pnt.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321560" tvg-name="TV5 Linares" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLo1Qy8frh9ztHiGWwlerB0kTdDHnsO7tqwg&s" group-title="Chile", TV5 Linares
 https://v1.tustreaming.cl/tv5linares/index.m3u8?PlaylistM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="329818" tvg-name="Iquique TV" tvg-logo="https://iquiquetv.cl/wp-content/uploads/2019/08/logo_iquiqueTV_544x180.png" group-title="Regionales", Iquique TV
+https://stream.skarnetchile.com:19360/iquiquetv-hd/iquiquetv-hd.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310164" tvg-name="Canal 9 Bío-Bío Televisión" tvg-logo="https://cdn.m3u.cl/logo/353_Canal_9_Bio_Bi­o_TV.png" group-title="Regionales", Canal 9 Bío-Bío Televisión
 https://unlimited1-cl-isp.dps.live/c9/c9.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319850" tvg-name="Radio Euskadi" tvg-logo="https://cdn.onlineradiobox.com/img/l/7/52727.v12.png" group-title="ESPAÑA", Radio Euskadi
 https://multimedia.eitb.eus/live-content/radioeuskadi-hls/master.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="327906" tvg-name="ADN Radio (Opc. YouTube)" tvg-logo="https://yt3.googleusercontent.com/iKWMDFrfvrXEBt1b1v9iLCIyLVrqy2PPCyUeIeMZKFa4LYFmEXNBrZPdfuz8Yk2oyF9m-EPApA=s160-c-k-c0x00ffffff-no-rj" group-title="Canales Chilenos (YouTube)", ADN Radio (Opc. YouTube)
-https://api.m3use.projectmoose.xyz/m3u/ashdqa11/BRUCMS13102025/68f6be436223bd33c3b456c2.m3u8?uid=ashdqa11&pkey=26uPutjZ&PlaylistM3UCL
+#EXTINF:-1 tvg-id="327906" tvg-name="ADN Radio (Respaldo)" tvg-logo="https://yt3.googleusercontent.com/iKWMDFrfvrXEBt1b1v9iLCIyLVrqy2PPCyUeIeMZKFa4LYFmEXNBrZPdfuz8Yk2oyF9m-EPApA=s160-c-k-c0x00ffffff-no-rj" group-title="Chile (RESPALDOS)", ADN Radio (Respaldo)
+http://190.102.247.123:8000/play/a042/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="329152" tvg-name="Nina FM" tvg-logo="https://ninafm.cl/wp-content/uploads/2025/04/1234.png" group-title="Radio Tv Chile", Nina FM
+https://tv1.ninatv.cl/web/stream.m3u8?hls_ctx=m9082zg8&PlaylistM3UCL
 #EXTINF:-1 tvg-id="328648" tvg-name="El Conquistador Concepción" tvg-logo="https://cdn.m3u.cl/logo/419_El_Conquistador_Concepcion.png" group-title="Radio Tv Chile", El Conquistador Concepción
 https://v1.tustreaming.cl/conquistadorconcepcion/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320076" tvg-name="Radio Colo Colo 760 AM" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/330.v11.png" group-title="Radio Tv Chile", Radio Colo Colo 760 AM
@@ -2971,13 +2959,13 @@ https://streaming.viphosting.cl:7053/stream?type=http&nocache=376&PlaylistM3UCL
 http://sonando.us.digitalproserver.com/mania.mp3?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321186" tvg-name="Radio Cautiva 101.3 FM" tvg-logo="https://cdn.onlineradiobox.com/img/l/4/81724.v7.png" group-title="Radios San Fernando - Chile", Radio Cautiva 101.3 FM
 https://stream.zeno.fm/c69kjwcpvfrvv?PlaylistM3UCL
-#EXTINF:-1 tvg-id="319699" tvg-name="Radio Artesanía 100.5 FM (Chimbarongo)" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/3485.v4.png" group-title="Radios FM - Chimbarongo", Radio Artesanía 100.5 FM (Chimbarongo)
+#EXTINF:-1 tvg-id="319699" tvg-name="Radio Artesanía" tvg-logo="https://cdn.onlineradiobox.com/img/l/5/3485.v4.png" group-title="Radios FM - Chimbarongo", Radio Artesanía
 http://200.24.229.253:8010/;?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322369" tvg-name="Radio Pasión FM " tvg-logo="https://cdn.onlineradiobox.com/img/l/8/101938.v6.png" group-title="Radios San Fernando - Chile", Radio Pasión FM 
 https://streaming.viphosting.cl/8202/sanfernando?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319853" tvg-name="Radio Caramelo 94.7 FM" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/88483.v11.png" group-title="Radios San Fernando - Chile", Radio Caramelo 94.7 FM
 https://audio4.tustreaming.cl/7330/stream?PlaylistM3UCL
-#EXTINF:-1 tvg-id="319688" tvg-name="RTL San Fernando 93.7 FM" tvg-logo="https://radiortl.cl/wp-content/uploads/2023/05/cropped-rtl-logo-cuadrado-300x300-1.jpg" group-title="Radios San Fernando - Chile", RTL San Fernando 93.7 FM
+#EXTINF:-1 tvg-id="319688" tvg-name="RTL San Fernando" tvg-logo="https://radiortl.cl/wp-content/uploads/2023/05/cropped-rtl-logo-cuadrado-300x300-1.jpg" group-title="Radios San Fernando - Chile", RTL San Fernando
 https://radio.mediadev.cl/radio/8110/san_fernando?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319852" tvg-name="Radio Punto9" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/62871.v15.png" group-title="Radios San Fernando - Chile", Radio Punto9
 https://stream.zeno.fm/t5jmgbldfruvv?PlaylistM3UCL
@@ -2999,15 +2987,15 @@ https://as100.globalhost1.com/8186/;?PlaylistM3UCL
 https://stream.zeno.fm/js7rab0ewa7vv?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319849" tvg-name="Sonar FM" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/2988.v8.png" group-title="Radio Tv Chile", Sonar FM
 https://mdstrm.com/audio/5c915724519bce27671c4d15/icecast.audio?property=radiobox&PlaylistM3UCL
-#EXTINF:-1 tvg-id="322434" tvg-name="Radio Amor 104.9 FM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9uBoX6NjaxPxU3pisnkvieKgftmFJgWKvsQ&s" group-title="Radio Tv Chile", Radio Amor 104.9 FM
+#EXTINF:-1 tvg-id="322434" tvg-name="Radio Amor" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9uBoX6NjaxPxU3pisnkvieKgftmFJgWKvsQ&s" group-title="Radio Tv Chile", Radio Amor
 https://sonic.portalfoxmix.club/8194/stream?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320077" tvg-name="Radio Armonía 104.5 FM" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/2989.v6.png" group-title="Radio Tv Chile", Radio Armonía 104.5 FM
 http://audio.armonia.cl:3032/1.mp3?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310044" tvg-name="Radio Romántica" tvg-logo="https://cdn.m3u.cl/logo/428_Radio_Romantica.png" group-title="Radio Tv Chile", Radio Romántica
 https://mdstrm.com/live-stream-playlist/63a0674c1137d408b45d4821.m3u8?PlaylistM3UCL&PlaylistM3UCL
-#EXTINF:-1 tvg-id="328474" tvg-name="Tele13 Radio TV" tvg-logo="https://yt3.googleusercontent.com/0P1_MXfXqpJxXRPiSMzmhQInwx6e-3EqU9Q8SEUNejCrimtvx7TY6DzyUGsbqOq1r_cwm5PJ=s900-c-k-c0x00ffffff-no-rj" group-title="Canales Chilenos (YouTube)", Tele13 Radio TV
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1761023000/ei/uL_2aKuwH43LgM8P9NK0eQ/ip/186.105.148.71/id/KlVIXH50GrA.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/bui/ATw7iSXSn5ZZD9ZG88l8lsqOZ8aNqVu4AcNAPq1id7rzBzjHh15B-j7VAEWbI-HcL0rm-iY7Dz3yDiii/spc/hcYD5V5CpqVR7oCQGP6BtSVUTDxONQ5Q8qRAarO9NPbArvHAfm0m/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565115%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgbKoZFkFlcvBEfKeTGRkMKERtPj4-2rKMWVvyp0gOBLACIQD4KNPlXftcp41qjTfor7G8-tLg45XSntIZWa2N0etEyg%3D%3D/file/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="319848" tvg-name="Tele13 Radio 103.3 FM" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/63666.v9.png" group-title="Radio Tv Chile", Tele13 Radio 103.3 FM
+#EXTINF:-1 tvg-id="328474" tvg-name="T13 Radio TV" tvg-logo="https://yt3.googleusercontent.com/0P1_MXfXqpJxXRPiSMzmhQInwx6e-3EqU9Q8SEUNejCrimtvx7TY6DzyUGsbqOq1r_cwm5PJ=s900-c-k-c0x00ffffff-no-rj" group-title="Canales Chilenos (YouTube)", T13 Radio TV
+https://api.m3use.projectmoose.xyz/m3u/sadn2231/BRUCMS01NOV2025/68f6bf926223bd33c3b456c3.m3u8?uid=sadn2231&pkey=9etRarfH&PlaylistM3UCL
+#EXTINF:-1 tvg-id="319848" tvg-name="Tele13 Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/63666.v9.png" group-title="Radio Tv Chile", Tele13 Radio
 https://mdstrm.com/audio/5c915613519bce27671c4caa/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322432" tvg-name="Radio La Consentida 103.1 FM" tvg-logo="https://i.ibb.co/1YTkSKTZ/Logo-03-1.png" group-title="Radio Tv Chile", Radio La Consentida 103.1 FM
 https://stream.connected305.xyz:8000/stream?PlaylistM3UCL
@@ -3015,7 +3003,7 @@ https://stream.connected305.xyz:8000/stream?PlaylistM3UCL
 https://sonic-us.arkeo.cl/8186/stream?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319703" tvg-name="13c Radio 102.1 FM" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/2943.v11.png" group-title="Radio Tv Chile", 13c Radio 102.1 FM
 https://mdstrm.com/audio/5c915497c6fd7c085b29169d/live.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="319701" tvg-name="Los 40 101.7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/1200px-Los_40.svg.png" group-title="Radio Tv Chile", Los 40 101.7
+#EXTINF:-1 tvg-id="319701" tvg-name="Los 40 Principales" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Los_40.svg/1200px-Los_40.svg.png" group-title="Radio Tv Chile", Los 40 Principales
 https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CHILEAAC.aac?dist=onlineradiobox&PlaylistM3UCL
 #EXTINF:-1 tvg-id="320080" tvg-name="Radio Corazón" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/2940.v12.png" group-title="Radio Tv Chile", Radio Corazón
 https://playerservices.streamtheworld.com/api/livestream-redirect/CORAZONAAC.aac?dist=onlineradiobox&PlaylistM3UCL
@@ -3025,14 +3013,14 @@ http://mdstrm.com/audio/5c8d6406f98fbf269f57c82c/icecast.audio?PlaylistM3UCL
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/pautatv/pautatv.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="310043" tvg-name="Radio Infinita" tvg-logo="https://cdn.m3u.cl/logo/425_Radio_Infinita.png" group-title="Radio Tv Chile", Radio Infinita
 https://mdstrm.com/live-stream-playlist/63a066e54ed536087960b550.m3u8?PlaylistM3UCL&PlaylistM3UCL
-#EXTINF:-1 tvg-id="327905" tvg-name="BíoBío TV (Opc. YouTube)" tvg-logo="https://tvdaldia.cl/CDN/media/epg/canales/biobiotv.png" group-title="Canales Chilenos (YouTube)", BíoBío TV (Opc. YouTube)
-https://api.m3use.projectmoose.xyz/m3u/ashdqa11/BRUCMS13102025/68f6bebc6eeeb7b348dff695.m3u8?uid=ashdqa11&pkey=26uPutjZ&PlaylistM3UCL
 #EXTINF:-1 tvg-id="325828" tvg-name="Bío Bío TV (respaldo)" tvg-logo="https://www.clarochile.cl/portal/cl/recursos_contenido/1712161767386-BioBioTV.webp" group-title="Chile (RESPALDOS)", Bío Bío TV (respaldo)
-http://201.222.45.70:4000/play/a0c3/index.m3u8?PlaylistM3UCL
+http://190.102.247.123:8000/play/a070/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310054" tvg-name="BíoBío TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeRi84e8-GGB7vVvwH268lzinlbAH29qZSgA&s" group-title="Radio Tv Chile", BíoBío TV
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/bbtv/bbtv.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="310179" tvg-name="Carolina TV" tvg-logo="https://cdn.m3u.cl/logo/27_Carolina_TV.png" group-title="Radio Tv Chile", Carolina TV
 https://mdstrm.com/live-stream-playlist/63a06468117f42713374addd.m3u8?PlaylistM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="321495" tvg-name="BEFDYT Radio TV" tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/6BJ3kHa48qwnHzRDcmIRzSCuXQFTnifu2FpfQvGdRQc/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOGNjYWVmZDAtYTE1Yy00YjA0LWJhOGEtMTRlYTZhZTNmYjljL2ltYWdlLz91PTE3MDY4MDY4NzgwMDA.webp" group-title="Radio Tv Chile", BEFDYT Radio TV
+https://api.m3use.projectmoose.xyz/m3u/dfghjbs25/BRUCMS2/68aa5cadad0e4de4523e4663.m3u8?uid=dfghjbs25&pkey=g3HSNF2J&PlaylistM3UCL
 #EXTINF:-1 tvg-id="314359" tvg-name="BrunoElFanDeYoutube Radio" tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/6BJ3kHa48qwnHzRDcmIRzSCuXQFTnifu2FpfQvGdRQc/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOGNjYWVmZDAtYTE1Yy00YjA0LWJhOGEtMTRlYTZhZTNmYjljL2ltYWdlLz91PTE3MDY4MDY4NzgwMDA.webp" group-title="Radio Tv Chile", BrunoElFanDeYoutube Radio
 https://uk16freenew.listen2myradio.com/live.mp3?typeportmount=ice_31394_stream_863716771&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319844" tvg-name="FM Dos" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/2938.v9.png" group-title="Radio Tv Chile", FM Dos
@@ -3083,8 +3071,12 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTOAAC.a
 https://playerservices.streamtheworld.com/api/livestream-redirect/IMAGINA_SC?dist=onlineradiobox&PlaylistM3UCL
 #EXTINF:-1 tvg-id="310039" tvg-name="Nativa TV" tvg-logo="https://cdn.m3u.cl/logo/346_Nativa_TV.png" group-title="Chile", Nativa TV
 https://origin-us.streaminghd.cl/nativatv/nativatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="330180" tvg-name="Radio Suyai" tvg-logo="https://cdn.m3u.cl/logo/1611_Suyai_Radio.png" group-title="Chile", Radio Suyai
+https://signal.suyaitv.cl/live/37/playlist.m3u8?username=ZZWebSuyaiTV&password=SoloParaSitioWEBSuyaiTV&WebM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="310036" tvg-name="Suyai TV" tvg-logo="https://cdn.m3u.cl/logo/1288_Suyai_TV.png" group-title="Chile", Suyai TV
-https://signal.suyaitv.cl/live/37/playlist.m3u8?username=ZZWebSuyaiTV&password=SoloParaSitioWEBSuyaiTV&PlaylistM3UCL
+http://179.57.171.184:8000/play/a011?PlaylistM3UCL
+#EXTINF:-1 tvg-id="330174" tvg-name="Teletón Channel" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQarfA2xt8l-QchL3r_BPHiWZRL3Cy7nV8dvw&s" group-title="Chile", Teletón Channel
+https://tls-cl.cdnz.cl/eventoz05/live/chunklist_w1867528204.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319859" tvg-name="La Nuestra TV" tvg-logo="https://cdn.m3u.cl/logo/1472_La_Nuestra.png" group-title="Musica", La Nuestra TV
 https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/ln/ln.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="320757" tvg-name="La Granja TV" tvg-logo="https://cdn.m3u.cl/logo/1001_La_Granja_TV.png" group-title="Chile", La Granja TV
@@ -3092,9 +3084,11 @@ https://oracle.streaminghd.cl/8126/8126/playlist.m3u8?PlaylistM3UCL&PlaylistM3UC
 #EXTINF:-1 tvg-id="310162" tvg-name="El 3 de Conce" tvg-logo="https://cdn.m3u.cl/logo/65_El_3_de_Conce.png" group-title="Chile", El 3 de Conce
 https://5ff3d9babae13.streamlock.net:443/xedkektnqj/xedkektnqj/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="322262" tvg-name="BEFDYT TV" tvg-logo="https://yt3.googleusercontent.com/v6rJI6z27p1JOg80l_astX63_Pl-xHZCdnUu7Dzw36N3sYVjJBPUyx4C6Puf0q9FJMpGfyERGg4=s160-c-k-c0x00ffffff-no-rj" group-title="Chile", BEFDYT TV
-https://api.m3use.projectmoose.xyz/m3u/asdng23/BRUCMS27092025/68560d5fe5508a7485d4f1c3.m3u8?uid=asdng23&pkey=pR5j8khz&PlaylistM3UCL
+https://api.m3use.projectmoose.xyz/m3u/sadn2231/BRUCMS01NOV2025/68560d5fe5508a7485d4f1c3.m3u8?uid=sadn2231&pkey=9etRarfH&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319061" tvg-name="Canal Turno" tvg-logo="https://cdn.m3u.cl/logo/1666_TurnoEnVivo.png" group-title="Chile", Canal Turno
 https://jireh-4-hls-video-cl-movistar.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/turno/turno.smil/turno/livestream1/chunks.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="320743" tvg-name="Funbox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FunBox_TV_logo.svg/800px-FunBox_TV_logo.svg.png" group-title="Chile", Funbox
+http://190.102.247.123:8000/play/a04c/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310038" tvg-name="Vision Plus TV" tvg-logo="https://cdn.m3u.cl/logo/1024_Vision_Plus_TV.jpg" group-title="Chile", Vision Plus TV
 https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="320314" tvg-name="VC Online TV " tvg-logo="https://i.imgur.com/VlKl2VB.png" group-title="Chile", VC Online TV 
@@ -3108,61 +3102,61 @@ https://bst.buin.cl/0.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="310000" tvg-name="Antofagasta TV" tvg-logo="https://cdn.m3u.cl/logo/71_Antofagasta_TV.png" group-title="Regionales", Antofagasta TV
 https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319056" tvg-name="Señal 3 La Victoria" tvg-logo="https://arteymedios.org/wp-content/uploads/2020/11/24d767ce6c156eb07b1fc26c266211f5.jpg" group-title="Chile", Señal 3 La Victoria
-https://api.m3use.projectmoose.xyz/m3u/ashdqa11/BRUCMS13102025/6857350a44af2ce49b973941.m3u8?uid=ashdqa11&pkey=26uPutjZ&PlaylistM3UCL
+https://api.m3use.projectmoose.xyz/m3u/sadn2231/BRUCMS01NOV2025/6857350a44af2ce49b973941.m3u8?uid=sadn2231&pkey=9etRarfH&PlaylistM3UCL
 #EXTINF:-1 tvg-id="309997" tvg-name="STGO.TV" tvg-logo="https://cdn.m3u.cl/logo/53_STGO_TV.png" group-title="Chile", STGO.TV
 https://stv4.janus.cl/playlist/stream.m3u8?s=lq&t=&id=luflljxo&q=&d=w&PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="309996" tvg-name="Canal TVU" tvg-logo="https://cdn.m3u.cl/logo/56_TVU.png" group-title="Regionales", Canal TVU
 https://unlimited1-cl-isp.dps.live/tvu/tvu.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
-#EXTINF:-1 tvg-id="323088" tvg-name="TV Senado (YouTube)" tvg-logo="https://cdn.m3u.cl/logo/444_TV_Senado.png" group-title="Canales Chilenos (YouTube)", TV Senado (YouTube)
-https://api.m3use.projectmoose.xyz/m3u/ashdqa11/BRUCMS13102025/685343c6deeec70abb6b136e.m3u8?uid=ashdqa11&pkey=26uPutjZ&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318340" tvg-name="TV Senado" tvg-logo="https://cdn.m3u.cl/logo/444_TV_Senado.png" group-title="Chile", TV Senado
 https://janus-tv-ply.senado.cl/playlist/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318339" tvg-name="Cámara de Diputados Televisión" tvg-logo="https://cdn.m3u.cl/logo/445_Camara_de_Diputados.png" group-title="Chile", Cámara de Diputados Televisión
 https://tls-cl.cdnz.cl/streamdiptudadosa/live/chunklist_w185956816.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320759" tvg-name="CNN International • Latin America" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlwEP6k9Z5fLrhZFJIy_oS_kFsXemW5N6_kw&s" group-title="Noticias", CNN International • Latin America
-http://179.51.136.19:8000/play/a1ff/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a09s/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319674" tvg-name="CNN en Español" tvg-logo="https://yt3.googleusercontent.com/jnFLuIufF5FIbyeatgUuNRCZHkdk0Fe3-KDR3sbaPobP3WZzbmGqM7vKqiPUOpFoQHcH1uKG-g=s900-c-k-c0x00ffffff-no-rj" group-title="Noticias", CNN en Español
-http://179.51.136.19:8000/play/a1fq/index.m3u8?PlaylistM3UCL
+http://168.90.221.3:8000/play/a0no/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="329293" tvg-name="Sin Filtros TV" tvg-logo="https://yt3.googleusercontent.com/REkXA9PDR4JzGyuj2jaG74RgM3U2UTKnVfh4Vw4oTqbaV1P4zloxLwUvNe89OQRfPqIPpj3JHw=s160-c-k-c0x00ffffff-no-rj" group-title="Chile", Sin Filtros TV
+https://api.m3use.projectmoose.xyz/m3u/sadn2231/BRUCMS01NOV2025/68facf19fc0a88ccea0de92b.m3u8?uid=sadn2231&pkey=9etRarfH&PlaylistM3UCL
 #EXTINF:-1 tvg-id="320748" tvg-name="CNN Chile Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/CNNChileRadio.png" group-title="Radio Tv Chile", CNN Chile Radio
 https://mdstrm.com/audio/663e790bd43b6e086ef99b5f/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322385" tvg-name="CNN Chile [Respaldo]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/1200px-CNN_Chile_logo_2017.svg.png" group-title="Chile (RESPALDOS)", CNN Chile [Respaldo]
-http://179.51.136.19:8000/play/a1if/index.m3u8?PlaylistM3UCL
+http://45.181.122.46:8090/play/a03c?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319029" tvg-name="CNN Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/CNN_Chile_logo_2017.svg/1200px-CNN_Chile_logo_2017.svg.png" group-title="Chile", CNN Chile
 https://jireh-1-hls-video-cl-entel.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/livestream3/chunks.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320795" tvg-name="ETC TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT8kibM-TVeyf1fsAOmBF8QwI0nXzqd9NFGQ&s" group-title="Chile", ETC TV
-http://45.181.122.46:8090/play/a00t?PlaylistM3UCL
-#EXTINF:-1 tvg-id="328949" tvg-name="eSports Chile TV" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/fbce066f-e10c-4785-a68b-b6e6ad3b8913-profile_image-300x300.png" group-title="Chile", eSports Chile TV
-http://186.78.53.223:1080/play/a19h?PlaylistM3UCL
+http://179.57.171.184:8000/play/a00g?PlaylistM3UCL
+#EXTINF:-1 tvg-id="329910" tvg-name="Docu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpWpqLXSnNqvvBGQVyi1tYDYfsTg7LvnCIIg&s" group-title="Chile", Docu
+http://128.201.227.251:4000/play/a01q?PlaylistM3UCL
+#EXTINF:-1 tvg-id="329909" tvg-name="ARTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/ARTV_Logo_2020.png" group-title="Chile", ARTV
+http://128.201.227.251:4000/play/a0cf?PlaylistM3UCL
+#EXTINF:-1 tvg-id="329423" tvg-name="eSports Chile TV" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.twitch.tv%2Fesports_chile_oficial%2Fvideos%3Ffilter%3Dclips%26lang%3Des-mx&psig=AOvVaw0GCbEd95neRXwP0RHDkT-e&ust=1762110714897000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMiBx4zU0ZADFQAAAAAdAAAAABAE" group-title="Chile", eSports Chile TV
+http://186.78.38.80:1080/play/a19h?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320746" tvg-name="Vía X Esports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIQ2coqUc8z6ox1MvjhM76lLrOZTpntkXKQA&s" group-title="Chile", Vía X Esports
-http://179.51.136.19:8000/play/a1h1/index.m3u8?PlaylistM3UCL
+http://128.201.227.251:4000/play/a01r?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322052" tvg-name="Via X (Respaldo)" tvg-logo="https://pbs.twimg.com/profile_images/1635423578651852802/dwa1KZ_o_400x400.jpg" group-title="Chile (RESPALDOS)", Via X (Respaldo)
-http://181.78.23.26:45000/play/a01p?PlaylistM3UCL
+http://186.194.160.110:9002/play/a05j/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320327" tvg-name="Via X" tvg-logo="https://pbs.twimg.com/profile_images/1635423578651852802/dwa1KZ_o_400x400.jpg" group-title="Chile", Via X
-http://179.51.136.19:8000/play/a1hz/index.m3u8?PlaylistM3UCL
+http://128.201.227.251:4000/play/a0d4?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318033" tvg-name="Zona Latina" tvg-logo="https://yt3.googleusercontent.com/C-QlHq6oLPiaP2JMbpgVrC6X2kEgbk_sEqm91YR7YLrT2c9X8nc7h25QF-ES-N59U2aPEj-R=s900-c-k-c0x00ffffff-no-rj" group-title="Chile", Zona Latina
-http://179.51.136.19:8000/play/a1hy/index.m3u8?PlaylistM3UCL
+http://128.201.227.251:4000/play/a0d5?PlaylistM3UCL
 #EXTINF:-1 tvg-id="309994" tvg-name="TVN 3" tvg-logo="https://cdn.m3u.cl/logo/1437_TVN3.png" group-title="Chile", TVN 3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL&PlaylistM3UCL
-#EXTINF:-1 tvg-id="320075" tvg-name="FM Plus TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiJD5T3u5ZM8L7ndrGiaqOPzik0hUkj9Op0w&s" group-title="Radio Tv Chile", FM Plus TV
-https://streaming-secure.conectaapp.cl/fmplus.cl?token=f2dbfd16fa2ed744b3039c1f8df4986d5682498b74e00ef19d59391d41cfc5fa&PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="309991" tvg-name="TVR" tvg-logo="https://cdn.m3u.cl/logo/77_TVR.png" group-title="Regionales", TVR
 https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321572" tvg-name="13 Rec (Respaldo)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/13rec_2025.svg/revision/latest/scale-to-width-down/200?cb=20250416192151" group-title="Chile (RESPALDOS)", 13 Rec (Respaldo)
-http://179.51.136.19:8000/play/a1i0/index.m3u8?PlaylistM3UCL
+http://207.248.3.81:8081/play/a0om?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322998" tvg-name="Canal 13 Chile (YouTube)" tvg-logo="https://yt3.googleusercontent.com/d1lMOILbNU6iqX_NNkLhR2ih_kXjXtAH-8JD7N1PWDLXCBJRHiu-H4ndswgew12T0SHFexWMaeE=s160-c-k-c0x00ffffff-no-rj" group-title="Canales Chilenos (YouTube)", Canal 13 Chile (YouTube)
-https://api.m3use.projectmoose.xyz/m3u/ashdqa11/BRUCMS13102025/685c59fb5783e92a9638709b.m3u8?uid=ashdqa11&pkey=26uPutjZ&PlaylistM3UCL
-#EXTINF:-1 tvg-id="321483" tvg-name="Canal 13 [HD - Closed Captions]" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Canal_13_2025.svg/revision/latest/scale-to-width-down/1000?cb=20250415161306" group-title="Chile (RESPALDOS)", Canal 13 [HD - Closed Captions]
-http://179.51.136.19:8000/play/a1l2/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="325827" tvg-name="Canal 13 SD (opción 2)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Canal_13_2025.svg/revision/latest/scale-to-width-down/1000?cb=20250415161306" group-title="Canales - Chile [SD]", Canal 13 SD (opción 2)
-http://181.188.216.5:18000/play/a0g8/index.m3u8?PlaylistM3UCL
+https://api.m3use.projectmoose.xyz/m3u/loxile2892/BRUCMS23112025/685c59fb5783e92a9638709b.m3u8?uid=loxile2892&pkey=Ad5nF6pY&PlaylistM3UCL
+#EXTINF:-1 tvg-id="321483" tvg-name="Canal 13 HD [Respaldo]" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Canal_13_2025.svg/revision/latest/scale-to-width-down/1000?cb=20250415161306" group-title="Chile (RESPALDOS)", Canal 13 HD [Respaldo]
+http://45.181.122.209:8088/play/a07i?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319044" tvg-name="Canal 13 SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Canal_13_2025.svg/revision/latest/scale-to-width-down/1000?cb=20250415161306" group-title="Canales - Chile [SD]", Canal 13 SD
-http://tv14s.xyz:8080/49457200/49457200/164885?PlaylistM3UCL
+http://207.248.3.81:8081/play/a0r1?PlaylistM3UCL
 #EXTINF:-1 tvg-id="309990" tvg-name="Canal 13 (RAW) [HD]" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Canal_13_2025.svg/revision/latest/scale-to-width-down/1000?cb=20250415161306" group-title="Chile", Canal 13 (RAW) [HD]
 https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="320331" tvg-name="13c" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Canal_13C_2025.svg/revision/latest?cb=20250415234114" group-title="Chile", 13c
-http://186.194.160.110:9002/play/a0h2/index.m3u8?PlaylistM3UCL
+http://179.57.171.184:8000/play/a00n?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320328" tvg-name="Rec TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/13rec_2025.svg/revision/latest/scale-to-width-down/200?cb=20250416192151" group-title="Chile", Rec TV
-https://panel.miplay.cl:8082/rec/index.m3u8?PlaylistM3UCL
+http://179.57.171.184:8000/play/a00o?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318539" tvg-name="13 Realities" tvg-logo="https://cdn.m3u.cl/logo/1448_13_Realities.png" group-title="Chile", 13 Realities
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318538" tvg-name="13 Teleseries" tvg-logo="https://cdn.m3u.cl/logo/1032_13_Teleseries.png" group-title="Chile", 13 Teleseries
@@ -3176,9 +3170,9 @@ https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL&PlaylistM3U
 #EXTINF:-1 tvg-id="310174" tvg-name="13 Cultura" tvg-logo="https://cdn.m3u.cl/logo/1193_13_Cultura.png" group-title="Chile", 13 Cultura
 https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="328490" tvg-name="T13 SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl-sFpSkgeDmr6fl9hRB94wOhrimcLDZFVAg&s" group-title="Canales - Chile [SD]", T13 SD
-http://179.51.136.19:8000/play/a1i1/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="324547" tvg-name="T13 En Vivo (YouTube)" tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKkAAACUCAMAAADf7/luAAAAsVBMVEX////qWSEILF4AGlVxe5UMJ1y+w86psL/qVhoAC1DoTAAAKl0AIFj+9/UAE1Pi5+ztd1PX2uH2+Pq1vcmJiqAQI1r1tqMAH1rufFr2vatsdJB+iJ9HTHL0r5rxnYcAAE7rXy7pUg4AAEntcUfoRAAuQ2z86eT508j98OzypZCIlKn3x7n74tteZ4YAAEXsaDnvhGLwk3k+U3kXOGfMztcAADZPXoAiM2OWnrHvims+QmyeeclRAAALfElEQVR4nO2ca3uiPBOAQaRyEgS7YrUV8XzA1VpfV/f//7A3QAIBJoBKpc917XxphQRuhslkMgnhOOvUqkIMLiWL5dZrpw8mpL3wth+fnf2Y5/nxfnoY9bbegl3FGkwm8sPi/G+YvOx2tJ/NlGsO5nZ92CszxZUkPhBJctHPfX+0XcE1Np" group-title="Canales Chilenos (YouTube)", T13 En Vivo (YouTube)
-https://api.m3use.projectmoose.xyz/m3u/ashdqa11/BRUCMS13102025/68e31a4b25ea72f7866c8d01.m3u8?uid=ashdqa11&pkey=26uPutjZ&PlaylistM3UCL
+http://186.194.160.110:9002/play/a05k/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="324547" tvg-name="T13 En Vivo (YouTube)" tvg-logo="https://yt3.googleusercontent.com/QlXT9eo7ws4PZlMGvCRf1h3wU7-lPw1nIgJ3IFDpsdR_IDM3F9mYuzusaalNVDdylnVZzMhAUnk=s160-c-k-c0x00ffffff-no-rj" group-title="Canales Chilenos (YouTube)", T13 En Vivo (YouTube)
+https://api.m3use.projectmoose.xyz/m3u/loxile2892/BRUCMS23112025/68e31a4b25ea72f7866c8d01.m3u8?uid=loxile2892&pkey=Ad5nF6pY&PlaylistM3UCL
 #EXTINF:-1 tvg-id="309989" tvg-name="T13 En Vivo" tvg-logo="https://cdn.m3u.cl/logo/1054_T13.png" group-title="Noticias Chile", T13 En Vivo
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="316957" tvg-name="Canal 13 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Canal_13_2025.svg/revision/latest/scale-to-width-down/1000?cb=20250415161306" group-title="Chile", Canal 13 
@@ -3186,9 +3180,7 @@ https://m3u.cl/channel/c13.php?PlaylistM3UCL&PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="324891" tvg-name="Chilevisión Móvil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Emblema_de_Chilevisi%C3%B3n.png" group-title="Canales - Chile [SD]", Chilevisión Móvil
 http://200.113.4.75:7210/play/a009/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322365" tvg-name="Chilevisión SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Emblema_de_Chilevisi%C3%B3n.png" group-title="Canales - Chile [SD]", Chilevisión SD
-http://181.188.216.5:18000/play/a07u/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="320905" tvg-name="Chilevisión (Respaldo - 540p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Emblema_de_Chilevisi%C3%B3n.png" group-title="Chile (RESPALDOS)", Chilevisión (Respaldo - 540p)
-http://tv14s.xyz:8080/49457200/49457200/164884?PlaylistM3UCL
+http://45.160.12.253:8000/play/SD06?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322050" tvg-name="Chilevisión Contigo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Chvcontigoptv.png/revision/latest?cb=20231014035938&path-prefix=es" group-title="Chile", Chilevisión Contigo
 https://jmp2.uk/plu-62aa5740a47b6c000769f407.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310182" tvg-name="CHV Deportes" tvg-logo="https://cdn.m3u.cl/logo/1569_CHV_Deportes.png" group-title="Chile", CHV Deportes
@@ -3198,59 +3190,57 @@ https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8?PlaylistM3
 #EXTINF:-1 tvg-id="309992" tvg-name="UChile TV" tvg-logo="https://cdn.m3u.cl/logo/1017_U_Chile_TV.png" group-title="Chile", UChile TV
 https://unlimited1-cl-isp.dps.live/uchiletv/uchiletv.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318699" tvg-name="Chilevisión" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Emblema_de_Chilevisi%C3%B3n.png" group-title="Chile", Chilevisión
-http://179.51.136.19:8000/play/a1ac/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a0bb/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="325408" tvg-name="Mega Ficción" tvg-logo="https://tvdaldia.cl/CDN/media/epg/canales/megaficcion.png" group-title="Chile", Mega Ficción
+http://179.57.171.184:8000/play/a00f?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320811" tvg-name="Megatiempo" tvg-logo="https://yt3.googleusercontent.com/RzCO1IBS2apaz17btCM4JMmgPE4bvb8brS3C_9Rp5FNbxxsipFQOYLCMh8TqeWIt-mrmy-b8=s900-c-k-c0x00ffffff-no-rj" group-title="Chile", Megatiempo
-https://api.m3use.projectmoose.xyz/m3u/ashdqa11/BRUCMS13102025/68572300dc1dfbc7e71a662b.m3u8?uid=ashdqa11&pkey=26uPutjZ&PlaylistM3UCL
-#EXTINF:-1 tvg-id="322435" tvg-name="Meganoticias Ahora (Respaldo)" tvg-logo="https://www.clarochile.cl/portal/cl/recursos_contenido/1712167910130-MegaNoticias-48x48.webp" group-title="Chile (RESPALDOS)", Meganoticias Ahora (Respaldo)
-https://api.m3use.projectmoose.xyz/m3u/BrunoFlores2525/BRUCMS/68675340e2a5897767525773.m3u8?uid=BrunoFlores2525&pkey=mD4nA73p&PlaylistM3UCL
+http://179.57.171.184:8000/play/a00i?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310175" tvg-name="Meganoticias" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwxEO03gK-QrKTR_qwT76CzhAhQZwYXfnn8Q&s" group-title="Noticias Chile", Meganoticias
-https://api.m3use.projectmoose.xyz/m3u/ashdqa11/BRUCMS13102025/68572300dc1dfbc7e71a662b.m3u8?uid=ashdqa11&pkey=26uPutjZ&PlaylistM3UCL
+http://179.57.171.184:8000/play/a00j?PlaylistM3UCL
+#EXTINF:-1 tvg-id="329292" tvg-name="Mega (YouTube)" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="Canales Chilenos (YouTube)", Mega (YouTube)
+https://api.m3use.projectmoose.xyz/m3u/loxile2892/BRUCMS23112025/68faca01fe38f7ba39f8e07f.m3u8?uid=loxile2892&pkey=Ad5nF6pY&PlaylistM3UCL
 #EXTINF:-1 tvg-id="322366" tvg-name="Mega [SD]" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="Canales - Chile [SD]", Mega [SD]
 http://200.113.4.75:7210/play/a008/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="320794" tvg-name="Mega (Respaldo) [1080p]" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="Chile (RESPALDOS)", Mega (Respaldo) [1080p]
-http://179.51.136.19:8000/play/a1mh/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="320794" tvg-name="Mega HD [Respaldo]" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="Chile (RESPALDOS)", Mega HD [Respaldo]
+http://186.194.160.110:9002/play/a0bg/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320805" tvg-name="Mega 2 (Respaldo)" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/c/c4/Logomega2.png/revision/latest?cb=20240327172424&path-prefix=es" group-title="Chile (RESPALDOS)", Mega 2 (Respaldo)
-http://201.222.45.70:4000/play/a0e7/index.m3u8?PlaylistM3UCL
+http://38.7.197.119:4000/play/a0e7/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320324" tvg-name="Mega 2" tvg-logo="https://cdn-w.tvdaldia.cl/logos/cartelera-tv/mega2.png" group-title="Chile", Mega 2
 http://45.232.210.1:8029/play/a006/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="309986" tvg-name="Mega" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="Chile", Mega
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="323980" tvg-name="Canal 24 Horas (Opc. YouTube)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/24_horas_2023_logo.png" group-title="Canales Chilenos (YouTube)", Canal 24 Horas (Opc. YouTube)
-https://api.m3use.projectmoose.xyz/m3u/ashdqa11/BRUCMS13102025/6813dd2b45a08d704336897c.m3u8?uid=ashdqa11&pkey=26uPutjZ&PlaylistM3UCL
+https://api.m3use.projectmoose.xyz/m3u/loxile2892/BRUCMS23112025/6813dd2b45a08d704336897c.m3u8?uid=loxile2892&pkey=Ad5nF6pY&PlaylistM3UCL
 #EXTINF:-1 tvg-id="317771" tvg-name="Canal 24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/24_horas_2023_logo.png" group-title="Noticias Chile", Canal 24 Horas
 http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="324228" tvg-name="NTV (op. SD)" tvg-logo="https://cdn.m3u.cl/logo/45_NTV.png" group-title="Canales - Chile [SD]", NTV (op. SD)
-http://179.51.136.19:8000/play/a1ir/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a05z/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310002" tvg-name="NTV" tvg-logo="https://cdn.m3u.cl/logo/45_NTV.png" group-title="Chile", NTV
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321303" tvg-name="TVN SD" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png" group-title="Canales - Chile [SD]", TVN SD
 http://200.113.4.75:7210/play/a007/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320907" tvg-name="TVN [Respaldo]" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png" group-title="Chile (RESPALDOS)", TVN [Respaldo]
-http://179.51.136.19:8000/play/a1m9/index.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a0ba/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318698" tvg-name="TVN" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png" group-title="Chile", TVN
-http://201.222.45.70:4000/play/a0e3/index.m3u8?PlaylistM3UCL
+http://45.232.210.1:8029/play/a06r/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318541" tvg-name="UCV 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8a/UCV_2_2014.png/revision/latest?cb=20190813044108&path-prefix=es" group-title="Chile", UCV 2
 https://unlimited1-cl-isp.dps.live/ucvtveventos/ucvtveventos.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321688" tvg-name="TV Más (Respaldo)" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png" group-title="Chile (RESPALDOS)", TV Más (Respaldo)
-http://181.188.216.5:18000/play/a0ep/index.m3u8?PlaylistM3UCL
+http://170.239.207.48:4050/play/CH11?PlaylistM3UCL
 #EXTINF:-1 tvg-id="309993" tvg-name="UCV TV" tvg-logo="https://cdn.m3u.cl/logo/54_UCV.png" group-title="Chile", UCV TV
 https://unlimited2-cl-isp.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318338" tvg-name="TV Más 2" tvg-logo="https://cdn.m3u.cl/logo/1243_TVMas2.png" group-title="Chile", TV Más 2
-http://45.232.210.1:8029/play/a00a/index.m3u8?PlaylistM3UCL
+http://45.181.120.65:9087/play/a0b3/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="309982" tvg-name="TV Más" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png" group-title="Chile", TV Más
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="322386" tvg-name="La Red [SD]" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png" group-title="Canales - Chile [SD]", La Red [SD]
 http://200.113.4.75:7210/play/a006/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="324895" tvg-name="La Red (1080p)" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png" group-title="Chile (RESPALDOS)", La Red (1080p)
+#EXTINF:-1 tvg-id="324895" tvg-name="La Red (ISDB-T)" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png" group-title="Señales ISDB-T", La Red (ISDB-T)
 http://45.232.210.1:8029/play/a00o/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="309980" tvg-name="La Red HD" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png" group-title="Chile", La Red HD
 https://d2qsan2ut81n2k.cloudfront.net/live/5d5c158e-721f-46d5-b375-d62875636b41/ts:abr.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="323302" tvg-name="Telecanal HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMMsVSYZ1MCIuYj3tCXEYnJ9N_3KT9M71DCw&s" group-title="Chile", Telecanal HD
-http://45.232.210.1:8029/play/a00s/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319482" tvg-name="Telecanal" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Telecanal_-_2011_logo_%283D_variant%29.png" group-title="Chile", Telecanal
-http://179.51.136.19:8000/play/a1hv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="321170" tvg-name="M3U.cl TV" tvg-logo="https://play-lh.googleusercontent.com/puuSUeBe_IVC4n3M_-Pd6wM81715kgcVhvf5jsN5PI9C63EEEZ3qWBrPKCqX2utS_w" group-title="INFORMATIVO", M3U.cl TV
-https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
+http://186.194.160.110:9002/play/a05g/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MVXNJbV/alf1.jpg" group-title="ALF 👽",ALF | S01E01 | Latino [1986]
 https://archive.org/download/alf_latino/S01.E01.mp4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MVXNJbV/alf1.jpg" group-title="ALF 👽",ALF | S01E02 | Latino [1986]
@@ -6342,6 +6332,7 @@ http://200.113.4.75:7210/play/a00u/index.m3u8
 http://200.113.4.75:7210/play/a01i/index.m3u8
 #EXTINF:-1,NINA TV
 https://tv1.ninatv.cl/web/stream.m3u8?hls_ctx=892b9079
+
 
 
 
