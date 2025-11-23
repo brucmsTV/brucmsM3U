@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/Public/guia-de-programacion.xml" tv-test="bruno2255.m3u"
-#EXTINF:-1 tvg-name="+ Listas en M3U.CL" tvg-logo="https://www.m3u.cl/logo/156___Listas_en_M3U_CL.png", + Listas en M3U.CL * | CL
-https://videostreaming.cloudserverlatam.com:443/htbbgdnudk/htbbgdnudk/playlist.m3u8
 #EXTINF:-1 tvg-id="322443" tvg-name="Sin EPG" tvg-logo="" group-title="PRUEBA", Sin EPG
 https://i.imgur.com/8PYoeq1.mp4?PlaylistM3UCL
 #EXTINF:-1 tvg-id="326271" tvg-name="Canal 13 (Señal de Pruebas)" tvg-logo="" group-title="PRUEBA", Canal 13 (Señal de Pruebas)
@@ -521,6 +519,8 @@ https://mitv.zplay.cl/Ztv/index.m3u8?PlaylistM3UCL&PlaylistM3UCL
 http://200.113.4.75:7210/play/a02j/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="311886" tvg-name="Cosmovisión" tvg-logo="https://cdn.m3u.cl/logo/125_Cosmovision.png" group-title="Infantil", Cosmovisión
 https://videohls2.cosmovision.tv/hls/sd.m3u8?PlaylistM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="329820" tvg-name="La Voz de María" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH5GtXT0LxYBR-aDMJHi0j5jxfbVnZYr5Yng&s" group-title="RELIGIOSO", La Voz de María
+http://179.51.136.19:8000/play/a0xk/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321172" tvg-name="Bethel TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLcT-23DFpJkrvWE4TkIHzZwZg1ysxysPz6w&s" group-title="RELIGIOSO", Bethel TV
 http://186.194.160.110:9002/play/a0bm/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="326685" tvg-name="Cristovisión" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Cristovisi%C3%B3n_2016.png/revision/latest/scale-to-width-down/168?cb=20210503213723&path-prefix=es" group-title="RELIGIOSO", Cristovisión
@@ -635,6 +635,12 @@ http://tv14s.xyz:8080/49457200/49457200/20978?PlaylistM3UCL
 http://tv14s.xyz:8080/49457200/49457200/164943?PlaylistM3UCL
 #EXTINF:-1 tvg-id="328647" tvg-name="Canal E" tvg-logo="https://mediakit.perfil.com/img/canal-e-logo.png" group-title="Argentina", Canal E
 https://pantera1-100gb-cl-movistar.dps.live/perfiltv/perfiltv.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="321697" tvg-name="El Nueve • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" group-title="Argentina", El Nueve • Argentina
+http://181.13.252.102:8000/play/a04h/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="330182" tvg-name="América 24 " tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8yfXBuQmon9WVy3ETX9fuq0w4U8Hvq391YA&s" group-title="Argentina", América 24 
+http://181.13.252.102:8000/play/a01o/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="330183" tvg-name="C5N" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/C5N_%282017%29.png" group-title="Argentina", C5N
+http://181.13.252.102:8000/play/a01p/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320017" tvg-name="LN Más • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/LN%2B.png" group-title="Argentina", LN Más • Argentina
 http://181.13.252.102:8000/play/a01s/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320169" tvg-name="Crónica TV • Argentina" tvg-logo="https://i.ytimg.com/vi/avly0uwZzOE/maxresdefault.jpg" group-title="Argentina", Crónica TV • Argentina
