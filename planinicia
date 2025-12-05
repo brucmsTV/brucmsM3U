@@ -881,8 +881,8 @@ https://as100.globalhost1.com/8186/;?PlaylistM3UCL
 https://stream.zeno.fm/js7rab0ewa7vv?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319849" tvg-name="Sonar FM" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/2988.v8.png" group-title="Radio Tv Chile", Sonar FM
 https://mdstrm.com/audio/5c915724519bce27671c4d15/icecast.audio?property=radiobox&PlaylistM3UCL
-#EXTINF:-1 tvg-id="320077" tvg-name="Radio Armonía 104.5 FM" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/2989.v6.png" group-title="Radio Tv Chile", Radio Armonía 104.5 FM
-http://audio.armonia.cl:3032/1.mp3?PlaylistM3UCL
+#EXTINF:-1 tvg-id="320077" tvg-name="Radio Armonía" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/2989.v6.png" group-title="Radio Tv Chile", Radio Armonía
+https://v2.tustreaming.cl/armonia/tracks-v1a1/mono.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310044" tvg-name="Radio Romántica" tvg-logo="https://cdn.m3u.cl/logo/428_Radio_Romantica.png" group-title="Radio Tv Chile", Radio Romántica
 https://mdstrm.com/live-stream-playlist/63a0674c1137d408b45d4821.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="328474" tvg-name="T13 Radio TV" tvg-logo="https://yt3.googleusercontent.com/0P1_MXfXqpJxXRPiSMzmhQInwx6e-3EqU9Q8SEUNejCrimtvx7TY6DzyUGsbqOq1r_cwm5PJ=s900-c-k-c0x00ffffff-no-rj" group-title="Canales Chilenos (YouTube)", T13 Radio TV
@@ -923,7 +923,7 @@ https://unlimited3-cl.dps.live/beethovenfm/gotardis/audio/now/livestream1.m3u8?P
 https://audio1.tustreaming.cl/8026/stream?PlaylistM3UCL
 #EXTINF:-1 tvg-id="328262" tvg-name="Radio Nuevo Tiempo" tvg-logo="https://www.nuevotiempo.cl/wp-content/uploads/2023/02/Logo-NuevoTiempo.svg" group-title="Radio Tv Chile", Radio Nuevo Tiempo
 https://stream.live.novotempo.com/radio/smil:rntChillanCL.smil/chunklist_b64000_slspa.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="310051" tvg-name="Estación Metropolitana " tvg-logo="https://cdn.m3u.cl/logo/1534_Estacion_Metropolitana.png" group-title="Radio Tv Chile", Estación Metropolitana 
+#EXTINF:-1 tvg-id="310051" tvg-name="La Metro TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDp_T_vQGjEjOFiWrco8yEVl3DGRWz4fEfgg&s" group-title="Radio Tv Chile", La Metro TV
 https://redirector.rudo.video/hls-video/931b584451fa6dd1313ee66efbfd5802e3f3bcea/metropolitanatv/metropolitanatv.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319812" tvg-name="Radio Disney " tvg-logo="https://cdn.onlineradiobox.com/img/l/0/62400.v17.png" group-title="Radio Tv Chile", Radio Disney 
 https://mdstrm.com/audio/67fe714d82a1ac0e129ae3cc/live.m3u8?dist=web-radiodisney&PlaylistM3UCL
@@ -977,8 +977,6 @@ https://5ff3d9babae13.streamlock.net:443/xedkektnqj/xedkektnqj/playlist.m3u8?Pla
 https://api.m3use.projectmoose.xyz/m3u/loxile2892/BRUCMS23112025/68560d5fe5508a7485d4f1c3.m3u8?uid=loxile2892&pkey=Ad5nF6pY&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319061" tvg-name="Canal Turno" tvg-logo="https://cdn.m3u.cl/logo/1666_TurnoEnVivo.png" group-title="Chile", Canal Turno
 https://jireh-4-hls-video-cl-movistar.dps.live/hls-video/ey6283je82983je9823je8jowowiekldk9838274/turno/turno.smil/turno/livestream1/chunks.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="320743" tvg-name="Funbox" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/FunBox_TV_logo.svg/800px-FunBox_TV_logo.svg.png" group-title="Chile", Funbox
-http://190.102.247.123:8000/play/a04c/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310038" tvg-name="Vision Plus TV" tvg-logo="https://cdn.m3u.cl/logo/1024_Vision_Plus_TV.jpg" group-title="Chile", Vision Plus TV
 https://5ff3d9babae13.streamlock.net/jwagpqxehu/jwagpqxehu/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="320314" tvg-name="VC Online TV " tvg-logo="https://i.imgur.com/VlKl2VB.png" group-title="Chile", VC Online TV 
@@ -1016,17 +1014,17 @@ https://jireh-1-hls-video-cl-entel.dps.live/hls-video/lvcl5/cnn/cnn.smil/cnn/liv
 #EXTINF:-1 tvg-id="320795" tvg-name="ETC TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT8kibM-TVeyf1fsAOmBF8QwI0nXzqd9NFGQ&s" group-title="Chile", ETC TV
 http://179.57.171.184:8000/play/a00g?PlaylistM3UCL
 #EXTINF:-1 tvg-id="329423" tvg-name="eSports Chile TV" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.twitch.tv%2Fesports_chile_oficial%2Fvideos%3Ffilter%3Dclips%26lang%3Des-mx&psig=AOvVaw0GCbEd95neRXwP0RHDkT-e&ust=1762110714897000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMiBx4zU0ZADFQAAAAAdAAAAABAE" group-title="Chile", eSports Chile TV
-http://186.78.33.250:1080/play/a19h?PlaylistM3UCL
+http://186.78.46.182:1080/play/a19h?PlaylistM3UCL
 #EXTINF:-1 tvg-id="329910" tvg-name="Docu" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpWpqLXSnNqvvBGQVyi1tYDYfsTg7LvnCIIg&s" group-title="Chile", Docu
 http://128.201.227.251:4000/play/a01q?PlaylistM3UCL
 #EXTINF:-1 tvg-id="329909" tvg-name="ARTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/ARTV_Logo_2020.png" group-title="Chile", ARTV
 http://128.201.227.251:4000/play/a0cf?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320746" tvg-name="Vía X Esports" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIQ2coqUc8z6ox1MvjhM76lLrOZTpntkXKQA&s" group-title="Chile", Vía X Esports
-http://168.90.221.3:8000/play/a0s6/index.m3u8?PlaylistM3UCL
+http://128.201.227.251:4000/play/a01r?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320327" tvg-name="Via X" tvg-logo="https://pbs.twimg.com/profile_images/1635423578651852802/dwa1KZ_o_400x400.jpg" group-title="Chile", Via X
-http://186.194.160.110:9002/play/a05j/index.m3u8?PlaylistM3UCL
+http://128.201.227.251:4000/play/a0d4?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318033" tvg-name="Zona Latina" tvg-logo="https://yt3.googleusercontent.com/C-QlHq6oLPiaP2JMbpgVrC6X2kEgbk_sEqm91YR7YLrT2c9X8nc7h25QF-ES-N59U2aPEj-R=s900-c-k-c0x00ffffff-no-rj" group-title="Chile", Zona Latina
-http://186.194.160.110:9002/play/a05i/index.m3u8?PlaylistM3UCL
+http://128.201.227.251:4000/play/a0d5?PlaylistM3UCL
 #EXTINF:-1 tvg-id="309994" tvg-name="TVN 3" tvg-logo="https://cdn.m3u.cl/logo/1437_TVN3.png" group-title="Chile", TVN 3
 https://mdstrm.com/live-stream-playlist/5653641561b4eba30a7e4929.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="309991" tvg-name="TVR" tvg-logo="https://cdn.m3u.cl/logo/77_TVR.png" group-title="Regionales", TVR
@@ -1074,7 +1072,7 @@ http://190.102.255.34:9980/play/a0o0?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322050" tvg-name="Chilevisión Contigo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Chvcontigoptv.png/revision/latest?cb=20231014035938&path-prefix=es" group-title="Chile", Chilevisión Contigo
 https://jmp2.uk/plu-62aa5740a47b6c000769f407.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310182" tvg-name="CHV Deportes" tvg-logo="https://cdn.m3u.cl/logo/1569_CHV_Deportes.png" group-title="Chile", CHV Deportes
-https://mdstrm.com/live-stream-playlist/6531749eaf244059b3ade17b.m3u8?PlaylistM3UCL&PlaylistM3UCL
+https://jmp2.uk/plu-638df6f8b63cf100075ccfa1.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="317772" tvg-name="CHV Noticias" tvg-logo="https://cdn.m3u.cl/logo/1153_CHV.png" group-title="Noticias Chile", CHV Noticias
 https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="309992" tvg-name="UChile TV" tvg-logo="https://cdn.m3u.cl/logo/1017_U_Chile_TV.png" group-title="Chile", UChile TV
