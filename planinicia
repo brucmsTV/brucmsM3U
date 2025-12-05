@@ -961,6 +961,8 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/FUTURO_SC?dist
 https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTOAAC.aac?dist=onlineradiobox&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319702" tvg-name="Radio Imagina" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/322.v8.png" group-title="Radio Tv Chile", Radio Imagina
 https://playerservices.streamtheworld.com/api/livestream-redirect/IMAGINA_SC?dist=onlineradiobox&PlaylistM3UCL
+#EXTINF:-1 tvg-id="310037" tvg-name="Wapp TV" tvg-logo="https://cdn.m3u.cl/logo/881_Wapp.png" group-title="Chile", Wapp TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wapptv/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310039" tvg-name="Nativa TV" tvg-logo="https://cdn.m3u.cl/logo/346_Nativa_TV.png" group-title="Chile", Nativa TV
 https://origin-us.streaminghd.cl/nativatv/nativatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="330180" tvg-name="Radio Suyai" tvg-logo="https://cdn.m3u.cl/logo/1611_Suyai_Radio.png" group-title="Chile", Radio Suyai
@@ -1069,6 +1071,8 @@ https://m3u.cl/channel/c13.php?PlaylistM3UCL&PlaylistM3UCL&PlaylistM3UCL
 http://200.113.4.75:7210/play/a009/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322365" tvg-name="Chilevisión SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Emblema_de_Chilevisi%C3%B3n.png" group-title="Canales - Chile [SD]", Chilevisión SD
 http://190.102.255.34:9980/play/a0o0?PlaylistM3UCL
+#EXTINF:-1 tvg-id="320905" tvg-name="Chilevisión (Respaldo)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Emblema_de_Chilevisi%C3%B3n.png" group-title="Chile (RESPALDOS)", Chilevisión (Respaldo)
+https://mdstrm.com/live-stream-playlist/5ef5fb3025c9a6086c457c55.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="322050" tvg-name="Chilevisión Contigo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Chvcontigoptv.png/revision/latest?cb=20231014035938&path-prefix=es" group-title="Chile", Chilevisión Contigo
 https://jmp2.uk/plu-62aa5740a47b6c000769f407.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310182" tvg-name="CHV Deportes" tvg-logo="https://cdn.m3u.cl/logo/1569_CHV_Deportes.png" group-title="Chile", CHV Deportes
