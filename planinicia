@@ -918,7 +918,7 @@ http://179.57.171.184:8000/play/a00h?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321495" tvg-name="BEFDYT Radio TV" tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/6BJ3kHa48qwnHzRDcmIRzSCuXQFTnifu2FpfQvGdRQc/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOGNjYWVmZDAtYTE1Yy00YjA0LWJhOGEtMTRlYTZhZTNmYjljL2ltYWdlLz91PTE3MDY4MDY4NzgwMDA.webp" group-title="Radio Tv Chile", BEFDYT Radio TV
 https://api.m3use.projectmoose.xyz/m3u/loxile2892/BRUCMS23112025/69347fc4c502cdf4647b609c.m3u8?uid=loxile2892&pkey=Ad5nF6pY
 #EXTINF:-1 tvg-id="314359" tvg-name="BrunoElFanDeYoutube Radio" tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/6BJ3kHa48qwnHzRDcmIRzSCuXQFTnifu2FpfQvGdRQc/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOGNjYWVmZDAtYTE1Yy00YjA0LWJhOGEtMTRlYTZhZTNmYjljL2ltYWdlLz91PTE3MDY4MDY4NzgwMDA.webp" group-title="Radio Tv Chile", BrunoElFanDeYoutube Radio
-https://uk16freenew.listen2myradio.com/live.mp3?typeportmount=ice_31394_stream_863716771&PlaylistM3UCL
+https://uk16freenew.listen2myradio.com/live.mp3?typeportmount=ice_31394_stream_876347063
 #EXTINF:-1 tvg-id="319844" tvg-name="FM Dos" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/2938.v9.png" group-title="Radio Tv Chile", FM Dos
 https://playerservices.streamtheworld.com/api/livestream-redirect/FMDOS_SC?dist=onlineradiobox&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319813" tvg-name="Radio Carabineros de Chile" tvg-logo="https://cdn.onlineradiobox.com/img/l/9/75629.v11.png" group-title="Radio Tv Chile", Radio Carabineros de Chile
