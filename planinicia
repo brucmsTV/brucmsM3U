@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/smithers/guia-de-programacion.xml" tv-test="bruno2255.m3u"
-#EXTINF:-1 tvg-name="+ Listas en M3U.CL" tvg-logo="https://www.m3u.cl/logo/156___Listas_en_M3U_CL.png", + Listas en M3U.CL * | CL
-https://videostreaming.cloudserverlatam.com:443/htbbgdnudk/htbbgdnudk/playlist.m3u8
 #EXTINF:-1 tvg-id="322443" tvg-name="Sin EPG" tvg-logo="" group-title="PRUEBA", Sin EPG
 https://i.imgur.com/8PYoeq1.mp4?PlaylistM3UCL
 #EXTINF:-1 tvg-id="326271" tvg-name="Canal 13 (Señal de Pruebas)" tvg-logo="" group-title="PRUEBA", Canal 13 (Señal de Pruebas)
@@ -456,23 +454,23 @@ https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb&Playlis
 #EXTINF:-1 tvg-id="318771" tvg-name="CBS (KCBS) - Los Angeles [SD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/CBS_logo_%282020%29.svg" group-title="ESTADOS UNIDOS", CBS (KCBS) - Los Angeles [SD]
 http://tv14s.xyz:8080/49457200/49457200/121234?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318770" tvg-name="NBC (KNBC) - Los Angeles [SD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/NBC_logo_2022_%28vertical%29.svg" group-title="ESTADOS UNIDOS", NBC (KNBC) - Los Angeles [SD]
-http://tv14s.xyz:8080/49457200/49457200/120656?PlaylistM3UCL
+http://fortv.cc:8080/futrellconsulting@gmail.com/9u3djjNr02/120656?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318772" tvg-name="ABC (WABC) - New York [HD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="ESTADOS UNIDOS", ABC (WABC) - New York [HD]
-https://tvpass.org/live/WABCDT1/hd?PlaylistM3UCL
+http://fortv.cc:8080/futrellconsulting@gmail.com/9u3djjNr02/121139?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318030" tvg-name="Cartoon Network (USA)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/Cartoon_Network_2010.svg/revision/latest?cb=20210726224754" group-title="ESTADOS UNIDOS", Cartoon Network (USA)
-http://tv14s.xyz:8080/49457200/49457200/46708?PlaylistM3UCL
+http://fortv.cc:8080/futrellconsulting@gmail.com/9u3djjNr02/46708?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321491" tvg-name="National Geographic (USA)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/National-Geographic-Logo.svg/2560px-National-Geographic-Logo.svg.png" group-title="ESTADOS UNIDOS", National Geographic (USA)
-http://tv14s.xyz:8080/71700855/71700855/46722?PlaylistM3UCL
+http://fortv.cc:8080/futrellconsulting@gmail.com/9u3djjNr02/46722?PlaylistM3UCL
 #EXTINF:-1 tvg-id="326274" tvg-name="Red Bull TV" tvg-logo="https://i.postimg.cc/g0LyDwBt/redbulltv.jpg" group-title="ESTADOS UNIDOS", Red Bull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="325032" tvg-name="Yahoo! Finance" tvg-logo="https://s.yimg.com/os/creatr-uploaded-images/2019-09/1f16fbf0-de0a-11e9-9af9-77bfe97840a9" group-title="ESTADOS UNIDOS", Yahoo! Finance
 https://api.m3use.projectmoose.xyz/m3u/sadn2231/BRUCMS01NOV2025/681c994a81742c00e20298b5.m3u8?uid=sadn2231&pkey=9etRarfH&PlaylistM3UCL
 #EXTINF:-1 tvg-id="322377" tvg-name="USA Network [USA]" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" group-title="ESTADOS UNIDOS", USA Network [USA]
-http://tv14s.xyz:8080/49457200/49457200/10252?PlaylistM3UCL
+http://fortv.cc:8080/futrellconsulting@gmail.com/9u3djjNr02/10252?PlaylistM3UCL
 #EXTINF:-1 tvg-id="316990" tvg-name="MTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png" group-title="ESTADOS UNIDOS", MTV
-http://tv14s.xyz:8080/49457200/49457200/9818?PlaylistM3UCL
+http://fortv.cc:8080/futrellconsulting@gmail.com/9u3djjNr02/9818?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318023" tvg-name="Comedy Central (US)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMj49OK_7OIRyOtU4EPJ_tVxyNmmAARDFMqA&s" group-title="ESTADOS UNIDOS", Comedy Central (US)
-http://tv14s.xyz:8080/71700855/71700855/7466?PlaylistM3UCL
+http://fortv.cc:8080/futrellconsulting@gmail.com/9u3djjNr02/7466?PlaylistM3UCL
 #EXTINF:-1 tvg-id="330208" tvg-name="31 Minutos - Maratón" tvg-logo="https://i.ytimg.com/vi/MgZdsn4VWIg/hqdefault.jpg?v=690a2123&sqp=-oaymwEnCNACELwBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLDa1O4Irsr_5BEk5cYFZIyMWXv3HQ" group-title="series", 31 Minutos - Maratón
 https://api.m3use.projectmoose.xyz/m3u/loxile2892/BRUCMS23112025/691978ed6eeeb7b348dff6ca.m3u8?uid=loxile2892&pkey=Ad5nF6pY&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321196" tvg-name="Chespirito 24/7" tvg-logo="https://m.media-amazon.com/images/M/MV5BM2JmNTAzMDAtMTVkMi00NjNmLWJhYTktZmQ2ZjZkMGM1NzU4XkEyXkFqcGc@._V1_.jpg" group-title="series", Chespirito 24/7
@@ -916,7 +914,7 @@ https://redirector.rudo.video/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5
 #EXTINF:-1 tvg-id="310179" tvg-name="Carolina TV" tvg-logo="https://cdn.m3u.cl/logo/27_Carolina_TV.png" group-title="Radio Tv Chile", Carolina TV
 http://179.57.171.184:8000/play/a00h?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321495" tvg-name="BEFDYT Radio TV" tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/6BJ3kHa48qwnHzRDcmIRzSCuXQFTnifu2FpfQvGdRQc/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOGNjYWVmZDAtYTE1Yy00YjA0LWJhOGEtMTRlYTZhZTNmYjljL2ltYWdlLz91PTE3MDY4MDY4NzgwMDA.webp" group-title="Radio Tv Chile", BEFDYT Radio TV
-https://api.m3use.projectmoose.xyz/m3u/loxile2892/BRUCMS23112025/69347fc4c502cdf4647b609c.m3u8?uid=loxile2892&pkey=Ad5nF6pY&PlaylistM3UCL
+https://live-stream.iblups.com/live/cc60aba4289a5d99399ba69fb568dff84e509c85.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="314359" tvg-name="BrunoElFanDeYoutube Radio" tvg-logo="https://zeno.fm/_ipx/_/https://images.zeno.fm/6BJ3kHa48qwnHzRDcmIRzSCuXQFTnifu2FpfQvGdRQc/rs:fill:288:288/g:ce:0:0/aHR0cHM6Ly9wcm94eS56ZW5vLmZtL2NvbnRlbnQvc3RhdGlvbnMvOGNjYWVmZDAtYTE1Yy00YjA0LWJhOGEtMTRlYTZhZTNmYjljL2ltYWdlLz91PTE3MDY4MDY4NzgwMDA.webp" group-title="Radio Tv Chile", BrunoElFanDeYoutube Radio
 https://stream.zeno.fm/oeenhpuosz7uv?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319844" tvg-name="FM Dos" tvg-logo="https://cdn.onlineradiobox.com/img/l/8/2938.v9.png" group-title="Radio Tv Chile", FM Dos
