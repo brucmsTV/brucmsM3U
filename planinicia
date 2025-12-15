@@ -1,4 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/smithers/guia-de-programacion.xml" tv-test="bruno2255.m3u"
+
 #EXTINF:-1 tvg-id="322443" tvg-name="Sin EPG" tvg-logo="" group-title="PRUEBA", Sin EPG
 https://i.imgur.com/8PYoeq1.mp4?PlaylistM3UCL
 #EXTINF:-1 tvg-id="326271" tvg-name="Canal 13 (Señal de Pruebas)" tvg-logo="" group-title="PRUEBA", Canal 13 (Señal de Pruebas)
@@ -123,8 +124,14 @@ http://181.119.66.250:2222/play/a0fv/index.m3u8?PlaylistM3UCL
 https://vdo1.panelstreaming.live:3350/hybrid/play.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="324453" tvg-name="From Hell" tvg-logo="https://i.postimg.cc/gkJQxhJD/starf.jpg" group-title="Musica", From Hell
 https://starfm.streamabc.net/30-fromhell-mp3-192-7408486?PlaylistM3UCL
+#EXTINF:-1 tvg-id="331051" tvg-name="Ballad Rock" tvg-logo="https://i.postimg.cc/3rVWB1sg/starb.jpg" group-title="Musica", Ballad Rock
+https://starfm.streamabc.net/30-rockballads-mp3-192-4391848?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322104" tvg-name="Hard Rock" tvg-logo="https://i.postimg.cc/Gt7y9V2b/starha.jpg" group-title="Musica", Hard Rock
 https://starfm.streamabc.net/30-hardrock-mp3-192-6928617?PlaylistM3UCL
+#EXTINF:-1 tvg-id="331050" tvg-name="Christmas Rock" tvg-logo="https://i.postimg.cc/Dz0tDsD4/starch.jpg" group-title="Musica", Christmas Rock
+https://starfm.streamabc.net/30-christmasrock-mp3-192-7174283?PlaylistM3UCL
+#EXTINF:-1 tvg-id="331056" tvg-name="Mi Música Popular" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQiW4aB1muZa8RL6WmG_BKpZ4O7QFy9f3f0A&s" group-title="Musica", Mi Música Popular
+http://170.239.207.48:4050/play/CH37?PlaylistM3UCL
 #EXTINF:-1 tvg-id="327281" tvg-name="Mi Música Regional" tvg-logo="https://bittchannel.com/wp-content/uploads/2023/06/LOGO-MIMUSICA-REGIONAL-e1687306108209.png" group-title="Musica", Mi Música Regional
 http://170.239.207.48:4050/play/CH36?PlaylistM3UCL
 #EXTINF:-1 tvg-id="329861" tvg-name="Mi Música Reggaeton" tvg-logo="https://americancable.ec/wp-content/uploads/2023/12/MIMUSICAREGGAETON-LOGO.png" group-title="Musica", Mi Música Reggaeton
@@ -149,6 +156,14 @@ https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992460&ads.csid=lgchannels_[COUNTRY]_StingraySoulStorm_ssai&ads.ad_tag_id=15710&ads.xumo_contentName=StingraySoulStorm&ads.xumo_contentId=1860&ads.content_language=en&ads.content_category=IAB1-6&ads.content_genre=music&ads.content_rating=tv-g&ads.did=[IFA]&ads.coppa=0&ads.lmt=[LMT]&ads.dnt=[DNS]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.country=[COUNTRY]&ads.livestream=0&ads.prodq=1&ads.app_name=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_storeurl=[APP_STOREURL]&ads.givn=[NONCE]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319599" tvg-name="Stingray Pop Adult" tvg-logo="https://i.imgur.com/H2ugC9L.png" group-title="Musica", Stingray Pop Adult
 https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="331052" tvg-name="Stingray Urban Beat" tvg-logo="https://www.allradio.net/500/-FytTaFYOYnuQRbR3naj2.webp" group-title="Musica", Stingray Urban Beat
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="331055" tvg-name="Stingray Kpop" tvg-logo="https://i.imgur.com/mMbntB5.png" group-title="Musica", Stingray Kpop
+https://jmp2.uk/stvp-USBD3500016NH?PlaylistM3UCL
+#EXTINF:-1 tvg-id="331054" tvg-name="Stingray TikTok Radio" tvg-logo="https://i.postimg.cc/fyfFxrXv/tiktok.jpg" group-title="Musica", Stingray TikTok Radio
+https://jmp2.uk/plu-63dac1b78795f300086d5ca6.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="331053" tvg-name="Stingray Holidayscapes" tvg-logo="https://images.pluto.tv/channels/66ff1d5a565d3a000892bdcd/featuredImage_1762018700213.jpg" group-title="Musica", Stingray Holidayscapes
+https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320804" tvg-name="Sextreme • Adultos Desbloqueado" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/6/69/OM04E.jpg/revision/latest?cb=20110531221305&path-prefix=es" group-title="XXX", Sextreme • Adultos Desbloqueado
 http://186.194.160.110:9002/play/a0h9/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320803" tvg-name="Venus • Adultos Desbloqueado" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Canal_Venus_logo_%282%29.svg/800px-Canal_Venus_logo_%282%29.svg.png" group-title="XXX", Venus • Adultos Desbloqueado
@@ -393,6 +408,8 @@ http://45.181.122.46:8090/play/a01l?PlaylistM3UCL
 http://45.181.122.46:8090/play/a02c?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318352" tvg-name="Univisión • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/1200px-Logo_Univision_2019.svg.png" group-title="Premium", Univisión • Latinoamérica
 http://186.194.160.110:9002/play/a0gj/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="331049" tvg-name="Golden Edge" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bc/Golden_Edge_2020.png/revision/latest/scale-to-width-down/300?cb=20201201140323&path-prefix=es" group-title="Premium", Golden Edge
+http://186.194.160.110:9002/play/a0gp/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318349" tvg-name="Golden Premier" tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg" group-title="Premium", Golden Premier
 http://45.184.87.142:8000/play/a03a?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318348" tvg-name="Golden Plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Golden_Plus_2017.png/revision/latest?cb=20191215194002&path-prefix=es" group-title="Premium", Golden Plus
@@ -559,6 +576,8 @@ http://186.194.160.110:9002/play/a0lm/index.m3u8?PlaylistM3UCL
 http://186.194.160.110:9002/play/a06v/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310451" tvg-name="Señal Colombia" tvg-logo="https://cdn.m3u.cl/logo/128_Senal_Colombia.png" group-title="Colombia", Señal Colombia
 http://186.194.160.110:9002/play/a072/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="331048" tvg-name="City TV • Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/11/Citytv2025.png" group-title="Colombia", City TV • Colombia
+http://186.194.160.110:9002/play/a02k/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322111" tvg-name="Canal El Tiempo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/ET_canal_El_Tiempo_logo.png" group-title="Colombia", Canal El Tiempo
 http://186.194.160.110:9002/play/a0ll/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320167" tvg-name="RCN Novelas" tvg-logo="https://www.google.cl/url?sa=i&url=https%3A%2F%2Fes.wikipedia.org%2Fwiki%2FRCN_Novelas&psig=AOvVaw2k7MX2qW57dUwrObdR1N05&ust=1747272251477000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKC8-cHmoY0DFQAAAAAdAAAAABAE" group-title="Colombia", RCN Novelas
