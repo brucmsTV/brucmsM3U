@@ -338,7 +338,7 @@ http://186.194.160.110:9002/play/a0kr/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319090" tvg-name="HGTV • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/HGTV_US_Logo_2015.svg/1200px-HGTV_US_Logo_2015.svg.png" group-title="Premium", HGTV • Latinoamérica
 http://181.13.252.102:8000/play/a02j/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321696" tvg-name="Food Network • Latinoamérica" tvg-logo="https://yt3.googleusercontent.com/7LSM7e2bBFpWMUufog_dSKN_O4hkOYAbqLcBpAlFyBzdmRQtDOKxVG__Wnc8L8a3mZ4lmcTx=s900-c-k-c0x00ffffff-no-rj" group-title="Premium", Food Network • Latinoamérica
-http://186.194.160.110:9002/play/a0k6/index.m3u8?PlaylistM3UCL
+http://190.102.247.123:8000/play/a0eg/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319088" tvg-name="Love Nature" tvg-logo="https://mms.businesswire.com/media/20160221005252/es/510305/5/LoveNature_TypeMask_FINAL_highres.jpg" group-title="Premium", Love Nature
 http://128.201.227.251:4000/play/a0e4?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321695" tvg-name="El Gourmet • Sur" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThc8E5QRSH04Iu5P9f61DUQh-ZOqvPUGj4Gg&s" group-title="Premium", El Gourmet • Sur
@@ -349,6 +349,8 @@ http://45.181.122.46:8090/play/a02f?PlaylistM3UCL
 http://45.181.122.46:8090/play/a00e?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319047" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Premium", Comedy Central
 http://186.194.160.110:9002/play/a0at/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="324892" tvg-name="Quiero Música en mi idioma" tvg-logo="https://i.imgur.com/RPyA2OJ.png" group-title="Musica", Quiero Música en mi idioma
+http://181.13.252.102:8000/play/a02n/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="330175" tvg-name="Mundo de la Música" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZrYNzRXNz7LbnZr9Skrvj1yU9GWCZGgu-Qg&s" group-title="Musica", Mundo de la Música
 https://tv.arkeo.cl:1936/mundodelamusica/mundodelamusica/chunklist_w1998367691.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321183" tvg-name="HTV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/100px-Htv_logo.svg.png" group-title="Musica", HTV HD
@@ -363,8 +365,6 @@ https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8?PlaylistM3
 https://api.m3use.projectmoose.xyz/m3u/loxile2892/BRUCMS23112025/681cb91f3f3fe66ffedb6ac7.m3u8?uid=loxile2892&pkey=Ad5nF6pY&PlaylistM3UCL
 #EXTINF:-1 tvg-id="326614" tvg-name="Karavana TV" tvg-logo="https://play-lh.googleusercontent.com/n0O4b6HKlayT7L_sWxhzsb5-A0Pak84QsA1XrXGNASFgnqxLQJmHQbY8Aj4zHcXnvJY" group-title="Musica", Karavana TV
 http://45.184.87.142:8000/play/a02w?PlaylistM3UCL
-#EXTINF:-1 tvg-id="324892" tvg-name="Quiero Música en mi idioma" tvg-logo="https://i.imgur.com/RPyA2OJ.png" group-title="Musica", Quiero Música en mi idioma
-http://190.95.60.228:8500/play/a02h?PlaylistM3UCL
 #EXTINF:-1 tvg-id="324425" tvg-name="KPOP" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/Public/logos/kpop.jpg" group-title="Musica", KPOP
 http://45.184.87.142:8000/play/a02x?PlaylistM3UCL
 #EXTINF:-1 tvg-id="324227" tvg-name="Retro Plus TV 2" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="Musica", Retro Plus TV 2
@@ -397,8 +397,8 @@ http://186.194.160.110:9002/play/a0gj/index.m3u8?PlaylistM3UCL
 http://45.184.87.142:8000/play/a03a?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318348" tvg-name="Golden Plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d3/Golden_Plus_2017.png/revision/latest?cb=20191215194002&path-prefix=es" group-title="Premium", Golden Plus
 http://45.184.87.142:8000/play/a037?PlaylistM3UCL
-#EXTINF:-1 tvg-id="318347" tvg-name="Discovery Home and Health • Sur" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="Premium", Discovery Home and Health • Sur
-http://186.194.160.110:9002/play/a06b/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="318347" tvg-name="Discovery Home and Health • Feed 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/1200px-Discovery_Home_%26_Health_logo.svg.png" group-title="Premium", Discovery Home and Health • Feed 1
+http://186.194.160.110:9002/play/a0a1/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321306" tvg-name="TLC • Latinoamérica" tvg-logo="https://yt3.googleusercontent.com/RzWGuPEoU86dJsKmz2cMtOlqh9VS9Uy_T1rm6YS8Jt01qnDKSVdduBlQj0tsP-zQ0F7429fEpQ=s900-c-k-c0x00ffffff-no-rj" group-title="Premium", TLC • Latinoamérica
 http://186.194.160.110:9002/play/a0k0/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318346" tvg-name="Investigation Discovery • Sur" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Discovery_ID_2020.svg/revision/latest?cb=20201110132225&path-prefix=es" group-title="Premium", Investigation Discovery • Sur
@@ -451,8 +451,10 @@ https://backend.energeek.cl/webtv/egradioweb/tracks-v1a1/mono.ts.m3u8?WebM3UCL&t
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="318028" tvg-name="EnerGeek FAN" tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png" group-title="Chile", EnerGeek FAN
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL&PlaylistM3UCL
+#EXTINF:-1 tvg-id="318024" tvg-name="FOX (KTTV) - Los Angeles [HD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg" group-title="ESTADOS UNIDOS", FOX (KTTV) - Los Angeles [HD]
+http://fortv.cc:8080/futrellconsulting@gmail.com/9u3djjNr02/120655?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318771" tvg-name="CBS (KCBS) - Los Angeles [SD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/CBS_logo_%282020%29.svg" group-title="ESTADOS UNIDOS", CBS (KCBS) - Los Angeles [SD]
-http://tv14s.xyz:8080/49457200/49457200/121234?PlaylistM3UCL
+http://fortv.cc:8080/futrellconsulting@gmail.com/9u3djjNr02/121234?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318770" tvg-name="NBC (KNBC) - Los Angeles [SD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/NBC_logo_2022_%28vertical%29.svg" group-title="ESTADOS UNIDOS", NBC (KNBC) - Los Angeles [SD]
 http://fortv.cc:8080/futrellconsulting@gmail.com/9u3djjNr02/120656?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318772" tvg-name="ABC (WABC) - New York [HD]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ABC-2021-LOGO.svg/512px-ABC-2021-LOGO.svg.png" group-title="ESTADOS UNIDOS", ABC (WABC) - New York [HD]
@@ -490,7 +492,7 @@ http://tv14s.xyz:8080/49457200/49457200/18926?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321700" tvg-name="FOX News Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/11853.v22.png" group-title="ESTADOS UNIDOS", FOX News Radio
 https://live.amperwave.net/direct/foxnewsradio-foxnewsradioaac-imc?&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319458" tvg-name="FOX News " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1200px-Fox_News_Channel_logo.svg.png" group-title="ESTADOS UNIDOS", FOX News 
-http://tv14s.xyz:8080/49457200/49457200/135794?PlaylistM3UCL
+http://fortv.cc:8080/futrellconsulting@gmail.com/9u3djjNr02/135794?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318524" tvg-name="CBS News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/CBS_News_2020.svg/revision/latest?cb=20220831053100&path-prefix=es" group-title="ESTADOS UNIDOS", CBS News
 https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="316989" tvg-name="FOX Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/512px-" group-title="ESTADOS UNIDOS", FOX Weather
@@ -506,21 +508,21 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321175" tvg-name="DW Español" tvg-logo="https://cdn.m3u.cl/logo/511_DW_Espanol.png" group-title="Noticias", DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319670" tvg-name="Sky Sports F1 " tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kiEuPmeOVl-LKB42k9s2crSFOWaV8mLleSufLg1teuM20=s900-c-k-c0x00ffffff-no-rj" group-title="Reino Unido (UK)", Sky Sports F1 
-http://tv14s.xyz:8080/71700855/71700855/53704?PlaylistM3UCL
+http://fortv.cc:8080/futrellconsulting@gmail.com/9u3djjNr02/53704?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319668" tvg-name="History Channel (UK)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/History_%282021%29.svg" group-title="Reino Unido (UK)", History Channel (UK)
-http://tv14s.xyz:8080/71700855/71700855/53694?PlaylistM3UCL
+http://fortv.cc:8080/futrellconsulting@gmail.com/9u3djjNr02/53694?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319667" tvg-name="Discovery Channel (Reino Unido)" tvg-logo="https://yt3.googleusercontent.com/fUU0ZIkqRoDbsSYiSFomiywGa2SOjbh1HxoACHa3nthh0XyCtyNNg_OAlxaD6k1QXr7Y1A-F=s900-c-k-c0x00ffffff-no-rj" group-title="Reino Unido (UK)", Discovery Channel (Reino Unido)
-http://tv14s.xyz:8080/71700855/71700855/53684?PlaylistM3UCL
+http://fortv.cc:8080/futrellconsulting@gmail.com/9u3djjNr02/53684?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319669" tvg-name="Channel 4 " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Channel_4_Logo_2023.svg/1200px-Channel_4_Logo_2023.svg.png" group-title="Reino Unido (UK)", Channel 4 
-http://tv14s.xyz:8080/71700855/71700855/99138?PlaylistM3UCL
+http://fortv.cc:8080/futrellconsulting@gmail.com/9u3djjNr02/99138?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320318" tvg-name="Reuters" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" group-title="Reino Unido (UK)", Reuters
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320761" tvg-name="BBC Radio 1" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/1193.v25.png" group-title="Reino Unido (UK)", BBC Radio 1
 https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_one.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319478" tvg-name="BBC One FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/1200px-BBC_One_logo_2021.svg.png" group-title="Reino Unido (UK)", BBC One FHD
-http://tv14s.xyz:8080/71700855/71700855/53649?PlaylistM3UCL
+http://fortv.cc:8080/futrellconsulting@gmail.com/9u3djjNr02/53649?PlaylistM3UCL
 #EXTINF:-1 tvg-id="316987" tvg-name="BBC News" tvg-logo="https://i.imgur.com/vSz2WEp.png" group-title="Reino Unido (UK)", BBC News
-http://168.90.221.3:8000/play/a0qj/index.m3u8?PlaylistM3UCL
+http://fortv.cc:8080/futrellconsulting@gmail.com/9u3djjNr02/53757?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320798" tvg-name="France 24 Español" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_kzqAgL2TukPL1ijpuPdoOgU75Av9cdQVf0mahAZSySyA=s900-c-k-c0x00ffffff-no-rj" group-title="FRANCIA ", France 24 Español
 http://186.194.160.110:9002/play/a02n/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="323361" tvg-name="Azteca Internacional (Pluto TV)" tvg-logo="https://images.pluto.tv/channels/646cce4d1593940008a33f09/colorLogoPNG.png" group-title="Pluto TV", Azteca Internacional (Pluto TV)
@@ -1049,7 +1051,7 @@ https://unlimited1-cl-isp.dps.live/t13radio/t13radio.smil/playlist.m3u8?Playlist
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320331" tvg-name="13c" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c2/Canal_13C_2025.svg/revision/latest?cb=20250415234114" group-title="Chile", 13c
 http://179.57.171.184:8000/play/a00n?PlaylistM3UCL
-#EXTINF:-1 tvg-id="320328" tvg-name="Rec TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/13rec_2025.svg/revision/latest/scale-to-width-down/200?cb=20250416192151" group-title="Chile", Rec TV
+#EXTINF:-1 tvg-id="320328" tvg-name="13 Rec" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/13rec_2025.svg/revision/latest/scale-to-width-down/200?cb=20250416192151" group-title="Chile", 13 Rec
 http://179.57.171.184:8000/play/a00o?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318539" tvg-name="13 Realities" tvg-logo="https://cdn.m3u.cl/logo/1448_13_Realities.png" group-title="Chile", 13 Realities
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8?PlaylistM3UCL
@@ -1067,7 +1069,7 @@ https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8?PlaylistM
 http://186.194.160.110:9002/play/a05k/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="324547" tvg-name="T13 En Vivo (YouTube)" tvg-logo="https://yt3.googleusercontent.com/QlXT9eo7ws4PZlMGvCRf1h3wU7-lPw1nIgJ3IFDpsdR_IDM3F9mYuzusaalNVDdylnVZzMhAUnk=s160-c-k-c0x00ffffff-no-rj" group-title="Canales Chilenos (YouTube)", T13 En Vivo (YouTube)
 https://api.m3use.projectmoose.xyz/m3u/loxile2892/BRUCMS23112025/68e31a4b25ea72f7866c8d01.m3u8?uid=loxile2892&pkey=Ad5nF6pY&PlaylistM3UCL
-#EXTINF:-1 tvg-id="309989" tvg-name="T13 En Vivo" tvg-logo="https://cdn.m3u.cl/logo/1054_T13.png" group-title="Noticias Chile", T13 En Vivo
+#EXTINF:-1 tvg-id="309989" tvg-name="T13 en Vivo" tvg-logo="https://cdn.m3u.cl/logo/1054_T13.png" group-title="Noticias Chile", T13 en Vivo
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="316957" tvg-name="Canal 13 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Canal_13_2025.svg/revision/latest/scale-to-width-down/1000?cb=20250415161306" group-title="Chile", Canal 13 
 https://m3u.cl/channel/c13.php?PlaylistM3UCL&PlaylistM3UCL&PlaylistM3UCL
