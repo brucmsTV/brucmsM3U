@@ -261,35 +261,35 @@ http://45.181.120.65:9087/play/a0h5/index.m3u8?PlaylistM3UCL
 http://45.181.122.46:8090/play/a01p?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318543" tvg-name="TNT Series • Argentina" tvg-logo="https://cdn.mitvstatic.com/channels/cl_tnt-series_m.png" group-title="Premium", TNT Series • Argentina
 http://45.181.122.46:8090/play/a01k?PlaylistM3UCL
-#EXTINF:-1 tvg-id="318542" tvg-name="TNT • América Latina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg" group-title="Premium", TNT • América Latina
+#EXTINF:-1 tvg-id="318542" tvg-name="TNT • Feed 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/24/TNT_Logo_2016.svg" group-title="Premium", TNT • Feed 1
 http://45.181.122.46:8090/play/a01s?PlaylistM3UCL
-#EXTINF:-1 tvg-id="318523" tvg-name="Space • Latinoamérica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Space_2008.svg/revision/latest?cb=20200216172603&path-prefix=es" group-title="Premium", Space • Latinoamérica
+#EXTINF:-1 tvg-id="318523" tvg-name="Space • Feed 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Space_2008.svg/revision/latest?cb=20200216172603&path-prefix=es" group-title="Premium", Space • Feed 1
 http://186.194.160.110:9002/play/a0jc/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="318522" tvg-name="AXN • Andes" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/AXN_2015.svg/revision/latest?cb=20210405161841&path-prefix=es" group-title="Premium", AXN • Andes
+#EXTINF:-1 tvg-id="318522" tvg-name="AXN • Feed 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/99/AXN_2015.svg/revision/latest?cb=20210405161841&path-prefix=es" group-title="Premium", AXN • Feed 1
 http://186.194.160.110:9002/play/a0ja/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="318769" tvg-name="HBO Xtreme • Latinoamérica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s" group-title="Premium", HBO Xtreme • Latinoamérica
+#EXTINF:-1 tvg-id="318769" tvg-name="HBO Xtreme" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUGbj613doA_lyYhNByuF0DRhIk9yKSfzkLA&s" group-title="Premium", HBO Xtreme
 http://45.181.122.46:8090/play/a018?PlaylistM3UCL
-#EXTINF:-1 tvg-id="318768" tvg-name="HBO Signature • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_Signature.svg" group-title="Premium", HBO Signature • Latinoamérica
+#EXTINF:-1 tvg-id="318768" tvg-name="HBO Signature" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/HBO_Signature.svg" group-title="Premium", HBO Signature
 http://186.194.160.110:9002/play/a0hg/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="321294" tvg-name="HBO Mundi • Latinoamérica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAXp130AYAc4pXI_m-PqxrYip5VQCNRfUVA&s" group-title="Premium", HBO Mundi • Latinoamérica
+#EXTINF:-1 tvg-id="321294" tvg-name="HBO Mundi" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbAXp130AYAc4pXI_m-PqxrYip5VQCNRfUVA&s" group-title="Premium", HBO Mundi
 http://186.194.160.110:9002/play/a0lv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="318767" tvg-name="HBO Family • Latinoamérica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJRIWFgQrQ5k4ZufJyms_2wa89EkiimMjmog&s" group-title="Premium", HBO Family • Latinoamérica
+#EXTINF:-1 tvg-id="318767" tvg-name="HBO Family" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJRIWFgQrQ5k4ZufJyms_2wa89EkiimMjmog&s" group-title="Premium", HBO Family
 http://45.181.122.46:8090/play/a017?PlaylistM3UCL
-#EXTINF:-1 tvg-id="321296" tvg-name="HBO Pop • Latinoamérica" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FhNUxlMyYp_u6f5ukXD7PSp9t5s50OYfYQ&s" group-title="Premium", HBO Pop • Latinoamérica
+#EXTINF:-1 tvg-id="321296" tvg-name="HBO Pop" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0FhNUxlMyYp_u6f5ukXD7PSp9t5s50OYfYQ&s" group-title="Premium", HBO Pop
 http://45.181.122.46:8090/play/a00j?PlaylistM3UCL
-#EXTINF:-1 tvg-id="318766" tvg-name="HBO Plus • Latinoamérica" tvg-logo="https://static.wikia.nocookie.net/rarter/images/b/ba/Logohboplus2019.png/revision/latest?cb=20231222070039" group-title="Premium", HBO Plus • Latinoamérica
+#EXTINF:-1 tvg-id="318766" tvg-name="HBO Plus" tvg-logo="https://static.wikia.nocookie.net/rarter/images/b/ba/Logohboplus2019.png/revision/latest?cb=20231222070039" group-title="Premium", HBO Plus
 http://200.229.147.142:8000/play/a00s/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318521" tvg-name="HBO 2 • Latinoamérica" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/HBO2_logo.svg/revision/latest?cb=20230305153839&path-prefix=es" group-title="Premium", HBO 2 • Latinoamérica
 http://45.181.122.46:8090/play/a04e?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318520" tvg-name="HBO • Este" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/HBO.svg/revision/latest?cb=20201126030141" group-title="Premium", HBO • Este
 http://45.181.122.46:8090/play/a029?PlaylistM3UCL
-#EXTINF:-1 tvg-id="321485" tvg-name="Lifetime • México" tvg-logo="https://yt3.googleusercontent.com/cH4kYblOErtfBb83ogYYRJQuh6LZmYSfLlsP2jdnkBt8MBIYPvIWNKbPDKPrDQxkE19DWGle1mM=s900-c-k-c0x00ffffff-no-rj" group-title="Premium", Lifetime • México
+#EXTINF:-1 tvg-id="321485" tvg-name="Lifetime • Feed 1" tvg-logo="https://yt3.googleusercontent.com/cH4kYblOErtfBb83ogYYRJQuh6LZmYSfLlsP2jdnkBt8MBIYPvIWNKbPDKPrDQxkE19DWGle1mM=s900-c-k-c0x00ffffff-no-rj" group-title="Premium", Lifetime • Feed 1
 http://186.194.160.110:9002/play/a0kv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="319070" tvg-name="Studio Universal • Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/330px-StudioUniversal2016.png" group-title="Premium", Studio Universal • Latinoamérica
+#EXTINF:-1 tvg-id="319070" tvg-name="Studio Universal • Feed 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/330px-StudioUniversal2016.png" group-title="Premium", Studio Universal • Feed 1
 http://186.194.160.110:9002/play/a0ib/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="320800" tvg-name="Universal TV • América Latina Este" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="Premium", Universal TV • América Latina Este
+#EXTINF:-1 tvg-id="320800" tvg-name="Universal TV • Feed 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="Premium", Universal TV • Feed 1
 http://45.232.210.1:8029/play/a0ap/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="321487" tvg-name="Cinecanal • Chile" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Premium", Cinecanal • Chile
+#EXTINF:-1 tvg-id="321487" tvg-name="Cinecanal • Feed 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Premium", Cinecanal • Feed 1
 http://186.194.160.110:9002/play/a0j6/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="330542" tvg-name="Esports Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Esports_Max_Logo.png" group-title="Premium", Esports Max
 http://128.201.227.251:4000/play/a025?PlaylistM3UCL
@@ -297,11 +297,11 @@ http://128.201.227.251:4000/play/a025?PlaylistM3UCL
 https://soul-5mincrafteng-rakuten.amagi.tv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="326029" tvg-name="Alan Becker TV" tvg-logo="https://static.wikia.nocookie.net/animator-vs-animation-id/images/9/99/ABTV_logo.png/revision/latest?cb=20241121025902&path-prefix=id" group-title="Premium", Alan Becker TV
 https://api.m3use.projectmoose.xyz/m3u/loxile2892/BRUCMS23112025/68e241b0c066e4951cc1c5bf.m3u8?uid=loxile2892&pkey=Ad5nF6pY&PlaylistM3UCL
-#EXTINF:-1 tvg-id="320799" tvg-name="Universal Cinema • Este" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/4/42/UniversalCinema.png/revision/latest?cb=20240130201240&path-prefix=es" group-title="Premium", Universal Cinema • Este
+#EXTINF:-1 tvg-id="320799" tvg-name="Universal Cinema • Feed 1" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/4/42/UniversalCinema.png/revision/latest?cb=20240130201240&path-prefix=es" group-title="Premium", Universal Cinema • Feed 1
 http://45.184.87.142:8000/play/a05o?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318519" tvg-name="Universal Reality" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/14/Universal_Reality.svg/revision/latest?cb=20220311032056" group-title="Premium", Universal Reality
 http://45.184.87.142:8000/play/a059?PlaylistM3UCL
-#EXTINF:-1 tvg-id="318518" tvg-name="Universal Comedy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Universal_Comedy.svg/revision/latest?cb=20220311032038" group-title="Premium", Universal Comedy
+#EXTINF:-1 tvg-id="318518" tvg-name="Universal Comedy • Feed 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5f/Universal_Comedy.svg/revision/latest?cb=20220311032038" group-title="Premium", Universal Comedy • Feed 1
 http://45.184.87.142:8000/play/a05p?PlaylistM3UCL
 #EXTINF:-1 tvg-id="328483" tvg-name="Clan Latinoamérica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Clan_logo.svg/1200px-Clan_logo.svg.png" group-title="Infantil", Clan Latinoamérica
 http://38.7.197.119:4000/play/a0e5/index.m3u8?PlaylistM3UCL
@@ -381,6 +381,8 @@ https://api.m3use.projectmoose.xyz/m3u/loxile2892/BRUCMS23112025/681cb91f3f3fe66
 http://45.184.87.142:8000/play/a02w?PlaylistM3UCL
 #EXTINF:-1 tvg-id="324425" tvg-name="KPOP" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/Public/logos/kpop.jpg" group-title="Musica", KPOP
 http://45.184.87.142:8000/play/a02x?PlaylistM3UCL
+#EXTINF:-1 tvg-id="310183" tvg-name="VideoHit" tvg-logo="https://us-east-1.tixte.net/uploads/memilio-cdn.tixte.co/videohit_new_negro.png" group-title="Musica", VideoHit
+https://cdn.global.elektamedia.com/live/c7eds/VideoHit/SA_LIVE_hls_enc/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="324227" tvg-name="Retro Plus TV 2" tvg-logo="https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png" group-title="Musica", Retro Plus TV 2
 https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="324226" tvg-name="Retro Plus TV" tvg-logo="https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png" group-title="Musica", Retro Plus TV
