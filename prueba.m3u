@@ -27,21 +27,33 @@ https://jireh-7-hls-video-cl-movistar.dps.live/hls-video/339f69c6122f6d8f4574732
 https://bond.zappingtv.com/play/external/tntsportshd/on
 #EXTINF:-1, HBO
 https://bond.zappingtv.com/play/external/hbo/on
+#EXTINF:-1, 13 Rec
+https://bond.zappingtv.com/play/web/rec/off
+#EXTINF:-1, Discovery Theater
+https://bond.zappingtv.com/play/web/d-theater/off
+#EXTINF:-1, ETC TV
+https://bond.zappingtv.com/play/web/etc/off
+#EXTINF:-1, Chilevisión
+https://bond.zappingtv.com/play/web/chv/off
+#EXTINF:-1, CDO Premium
+https://bond.zappingtv.com/play/web/cdo/off
+#EXTINF:-1, Cartoon Network
+https://bond.zappingtv.com/play/web/cn/off
+#EXTINF:-1, NTV
+https://bond.zappingtv.com/play/web/ntv/off
+#EXTINF:-1, UCV TV
+https://bond.zappingtv.com/play/web/ucv3/off
 #EXTINF:-1, CLAN
 https://dum8zv1rbdjj2.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-x6uutpgph4tpt/ClanES.m3u8
 #EXTINF:-1, CÁMARA DE SEGURIDAD 2
 http://192.168.1.92:4747/video
-#EXTINF:-1, MEGA EN VIVO
-https://us-b4-p-e-ja16.cdn.mdstrm.com/live-stream-dai/60ca5d9a4721a43eebc87865/4a772e4bcea145e982688fd007852bbd/f624fec49dadc88894ebeff1d974eab019af7757/session/5774ad0a-8c54-45c3-acbe-a97e4bbe5093/media.m3u8?aid=53bc2bcae41e2d9c662e1ba7&uid=67ENf53o2bXW6Y7cBGNYUzhnCBhHCenc&sid=k2d9JCpTZH8kHC7WC9la5mxPclGDpnQ2&pid=9AZoJ2aD2iEWpZS6EIP89C4gOvsA9vcA&pid_dvr=1KBvS823FxKYhXrAKKDZG1zqGQ9AVRw9&c=6a18536b-86ac-4b20-a189-eff31341e778&ref=&without_cookies=false&listenerid=&dnt=true&access_token=lN1oBaJcYh2siZpSoDllVpNCcBnkcvPkbYd6EVzXTPWtAlyRsXx9o2pe5sKfxTKSXNaaN4KFPXr&es=cl-a3-p-e-hb2.cdn.mdstrm.com&ote=1760826292169&ot=GPKvbyqFRa8c5T2c9eF62Q&proto=https&pz=cl
-#EXTINF:-1, MEGAtiempo
-https://us-b4-p-e-zs14.cdn.mdstrm.com/live-stream-dai/c85ddd77dde3481b86819df52a6d9b2a/manifest/f624fec49dadc88894ebeff1d974eab019af7757/6672fe49970da27e63321f1f/3e7681b5-9d58-45fd-b7b8-2aa0f545a34f/0.m3u8?aid=53bc2bcae41e2d9c662e1ba7&uid=67ENf53o2bXW6Y7cBGNYUzhnCBhHCenc&sid=k2d9JCpTZH8kHC7WC9la5mxPclGDpnQ2&pid=EeFF0zFrkM8SPav6RyEB8XXcstHRLq8Y&pid_dvr=unQuBGAG8QtVFdmbsdxI3D5d7sX3foBP&c=6a18536b-86ac-4b20-a189-eff31341e778&ref=&without_cookies=false&listenerid=&dnt=true&access_token=bllSSa5D6XCNI0sLuvhy22MfJhGr43uj0qTyK5FoNvJ8sHmClogxZEpB5DR2FU8e48ycvYDXI8G&es=cl-a3-p-e-uy6.cdn.mdstrm.com&ote=1760826250087&ot=fjoYve8Zix2ChDp_DQHC3w&proto=https&pz=cl
-#EXTINF:-1, CHV
-https://mdstrm.com/live-stream-playlist/63ee47e1daeeb80a30d98ef4.m3u8?uid=67ENf53o2bXW6Y7cBGNYUzhnCBhHCenc&sid=k2d9JCpTZH8kHC7WC9la5mxPclGDpnQ2&pid=wlTzypoXk6vu6g8qlUivzC0GV3DGB0Ys&pid_dvr=ZbV8x5iRiOnxLFlvtgTrSXrf7quWNBvA&an=mdstrm-player&at=web-app&av=v6.0.213&ref=https%3A%2F%2Fwww.chilevision.cl%2F&res=968x546&without_cookies=false&listenerid=&dnt=true&access_token=Y0ijpGxitd2w6IQXD0oe2dAVqv0UY6w0AAbeqjPbWhGEbAxpzYQMwtja8vayk1TdgfD7MA3a5s8
-#EXTINF:-1, MEGA2
-https://mdstrm.com/live-stream-playlist/6526f7860f75fc601338bfcb.m3u8
-#EXTINF:-1, MEGA INTERNET
-https://mdstrm.com/live-stream-playlist/60ca5d9a4721a43eebc87865.m3u8
-#EXTINF:-1, TVN
-https://mdstrm.com/live-stream-playlist/57a498c4d7b86d600e5461cb.m3u8?uid=67ENf53o2bXW6Y7cBGNYUzhnCBhHCenc&sid=k2d9JCpTZH8kHC7WC9la5mxPclGDpnQ2&pid=TvvtLVQDba3ZAnSonTDYn77CfzA5RWaW&pid_dvr=AnyPVmVtraYjo7BgC76o6Urp0DnmWEEJ&an=tvn-play-app-web&at=web-app&av=v6.0.213&c=61a6a82e2bcc8579a214db55&ref=https%3A%2F%2Ftvnplay.cl%2F&res=806x454&without_cookies=false&listenerid=&dnt=true&access_token=7wLB7itwq9IHKtIOnnvCpZZkWCfEqCJuMQTlHfGSbwv15BAPOKlfVnsAinkPuQhqK0NDxH2t73B
 #EXTINF:-1, CHV NOTICIAS
 https://mdstrm.com/live-stream-playlist/6491ced935a5833c47dd7f41.m3u8
+#EXTINF:-1, +CINE
+http://216.155.88.4:8100/play/a00p/index.m3u8
+#EXTINF:-1, mi musica salsa
+http://200.229.147.142:8000/play/a088/index.m3u8
+#EXTINF:-1, Animations
+http://190.102.247.123:8000/play/a0co/index.m3u8
+#EXTINF:-1, Euronews
+http://128.201.227.251:4000/play/a0cl
