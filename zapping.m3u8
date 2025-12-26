@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1, TNT Sports HD
+https://bond.zappingtv.com/play/external/tntsportshd/on
+#EXTINF:-1, HBO
+https://bond.zappingtv.com/play/external/hbo/on
+#EXTINF:-1, 13 Rec
+https://bond.zappingtv.com/play/web/rec/off
+#EXTINF:-1, Discovery Theater
+https://bond.zappingtv.com/play/web/d-theater/off
+#EXTINF:-1, ETC TV
+https://bond.zappingtv.com/play/web/etc/off
+#EXTINF:-1, Chilevisión
+https://bond.zappingtv.com/play/web/chv/off
+#EXTINF:-1, CDO Premium
+https://bond.zappingtv.com/play/web/cdo/off
+#EXTINF:-1, Cartoon Network
+https://bond.zappingtv.com/play/web/cn/off
+#EXTINF:-1, NTV
+https://bond.zappingtv.com/play/web/ntv/off
+#EXTINF:-1, UCV TV
+https://bond.zappingtv.com/play/web/ucv3/off
