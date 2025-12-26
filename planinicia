@@ -562,7 +562,7 @@ http://186.194.160.110:9002/play/a0bm/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="326685" tvg-name="Cristovisión" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/94/Cristovisi%C3%B3n_2016.png/revision/latest/scale-to-width-down/168?cb=20210503213723&path-prefix=es" group-title="RELIGIOSO", Cristovisión
 http://186.194.160.110:9002/play/a01o/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="323006" tvg-name="Esne TV" tvg-logo="https://static.wikia.nocookie.net/newlogosfake/images/f/f0/El_Sembrador_Nueva_Evangelizaci%C3%B3n.png/revision/latest?cb=20191231142425" group-title="RELIGIOSO", Esne TV
-http://200.113.4.75:7210/play/a027/index.m3u8?PlaylistM3UCL
+http://152.230.229.67:9990/play/a0lw/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319858" tvg-name="TNE" tvg-logo="https://cdn.m3u.cl/logo/168_TNE.png" group-title="RELIGIOSO", TNE
 https://v2.tustreaming.cl/tnetv/index.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="311884" tvg-name="ISB - Iglesia en San Bernardo" tvg-logo="https://cdn.m3u.cl/logo/159_Canal_ISB.png" group-title="RELIGIOSO", ISB - Iglesia en San Bernardo
@@ -956,7 +956,7 @@ https://mdstrm.com/audio/67fe714d82a1ac0e129ae3cc/live.m3u8?dist=web-radiodisney
 #EXTINF:-1 tvg-id="320038" tvg-name="Radio Usach" tvg-logo="https://cdn.onlineradiobox.com/img/l/3/3543.v16.png" group-title="Radio Tv Chile", Radio Usach
 https://rusach2.janus.cl/playlist/stream.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="330602" tvg-name="Rock & Pop TV" tvg-logo="https://yt3.googleusercontent.com/vh_PP2Dj-kVf3ZBr1hvEdtS4CAeG3xjMlKe-HrHv9XP5yeTBoKwl737uEzGKwPzaUBeAJvHkJKo=s160-c-k-c0x00ffffff-no-rj" group-title="Radio Tv Chile", Rock & Pop TV
-https://api.m3use.projectmoose.xyz/m3u/loxile2892/BRUCMS23112025/692f55c66eeeb7b348dff6e1.m3u8?uid=loxile2892&pkey=Ad5nF6pY&PlaylistM3UCL
+https://pantera1-100gb-cl-movistar.dps.live/rockandpop/rockandpop.smil/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319846" tvg-name="Rock & Pop" tvg-logo="https://cdn.onlineradiobox.com/img/l/0/2920.v8.png" group-title="Radio Tv Chile", Rock & Pop
 https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_AND_POPAAC.aac?dist=onlineradiobox&PlaylistM3UCL
 #EXTINF:-1 tvg-id="331228" tvg-name="Radio Universo TV" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/306.v9.png" group-title="Radio Tv Chile", Radio Universo TV
@@ -1096,9 +1096,9 @@ https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd
 #EXTINF:-1 tvg-id="316957" tvg-name="Canal 13 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Canal_13_2025.svg/revision/latest/scale-to-width-down/1000?cb=20250415161306" group-title="Chile", Canal 13 
 https://m3u.cl/channel/c13.php?PlaylistM3UCL&PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="324891" tvg-name="Chilevisión SD (op. 2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Emblema_de_Chilevisi%C3%B3n.png" group-title="Canales - Chile [SD]", Chilevisión SD (op. 2)
-http://200.113.4.75:7210/play/a009/index.m3u8?PlaylistM3UCL
+http://152.230.229.67:9990/play/a0ke/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322365" tvg-name="Chilevisión SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Emblema_de_Chilevisi%C3%B3n.png" group-title="Canales - Chile [SD]", Chilevisión SD
-http://190.102.255.34:9980/play/a0o0?PlaylistM3UCL
+http://186.194.160.110:9002/play/a064/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320905" tvg-name="Chilevisión (Respaldo)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Emblema_de_Chilevisi%C3%B3n.png" group-title="Chile (RESPALDOS)", Chilevisión (Respaldo)
 https://mdstrm.com/live-stream-playlist/5ef5fb3025c9a6086c457c55.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="322050" tvg-name="Chilevisión Contigo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Chvcontigoptv.png/revision/latest?cb=20231014035938&path-prefix=es" group-title="Chile", Chilevisión Contigo
@@ -1120,7 +1120,7 @@ http://179.57.171.184:8000/play/a00j?PlaylistM3UCL
 #EXTINF:-1 tvg-id="329292" tvg-name="Mega (YouTube)" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="Canales Chilenos (YouTube)", Mega (YouTube)
 https://api.m3use.projectmoose.xyz/m3u/loxile2892/BRUCMS23112025/68faca01fe38f7ba39f8e07f.m3u8?uid=loxile2892&pkey=Ad5nF6pY&PlaylistM3UCL
 #EXTINF:-1 tvg-id="322366" tvg-name="Mega [SD]" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="Canales - Chile [SD]", Mega [SD]
-http://200.113.4.75:7210/play/a008/index.m3u8?PlaylistM3UCL
+http://45.232.210.1:18000/play/a086/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320794" tvg-name="Mega HD [Respaldo]" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="Chile (RESPALDOS)", Mega HD [Respaldo]
 http://186.194.160.110:9002/play/a0bg/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320805" tvg-name="Mega 2 (Respaldo)" tvg-logo="https://static.wikia.nocookie.net/tvcable/images/c/c4/Logomega2.png/revision/latest?cb=20240327172424&path-prefix=es" group-title="Chile (RESPALDOS)", Mega 2 (Respaldo)
@@ -1138,7 +1138,7 @@ http://186.194.160.110:9002/play/a05z/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310002" tvg-name="NTV" tvg-logo="https://cdn.m3u.cl/logo/45_NTV.png" group-title="Chile", NTV
 https://mdstrm.com/live-stream-playlist/5aaabe9e2c56420918184c6d.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="321303" tvg-name="TVN SD" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png" group-title="Canales - Chile [SD]", TVN SD
-http://200.113.4.75:7210/play/a007/index.m3u8?PlaylistM3UCL
+http://152.230.229.67:9990/play/a0kc/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320907" tvg-name="TVN [Respaldo]" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png" group-title="Chile (RESPALDOS)", TVN [Respaldo]
 http://186.194.160.110:9002/play/a0ba/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318698" tvg-name="TVN" tvg-logo="https://1000marcas.net/wp-content/uploads/2022/12/TVN-Chile-Logo.png" group-title="Chile", TVN
@@ -1156,7 +1156,7 @@ http://45.181.120.65:9087/play/a0b3/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="309982" tvg-name="TV Más" tvg-logo="https://cdn.m3u.cl/logo/458_TV_.png" group-title="Chile", TV Más
 https://redirector.rudo.video/hls-video/ey6283je82983je9823je8jowowiekldk9838274/tvmas/tvmas.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="322386" tvg-name="La Red [SD]" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png" group-title="Canales - Chile [SD]", La Red [SD]
-http://200.113.4.75:7210/play/a006/index.m3u8?PlaylistM3UCL
+http://190.102.247.123:8000/play/a0jq/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="324895" tvg-name="La Red (ISDB-T)" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png" group-title="Señales ISDB-T", La Red (ISDB-T)
 http://45.232.210.1:8029/play/a00o/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="330597" tvg-name="La Red 2" tvg-logo="https://cdn.m3u.cl/logo/790_La_Red.png" group-title="Señales ISDB-T", La Red 2
