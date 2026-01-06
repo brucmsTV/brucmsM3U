@@ -282,11 +282,11 @@ http://45.181.122.46:8090/play/a029?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321485" tvg-name="Lifetime • Feed 1" tvg-logo="https://yt3.googleusercontent.com/cH4kYblOErtfBb83ogYYRJQuh6LZmYSfLlsP2jdnkBt8MBIYPvIWNKbPDKPrDQxkE19DWGle1mM=s900-c-k-c0x00ffffff-no-rj" group-title="Premium", Lifetime • Feed 1
 http://186.194.160.110:9002/play/a0kv/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319070" tvg-name="Studio Universal • Feed 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/330px-StudioUniversal2016.png" group-title="Premium", Studio Universal • Feed 1
-http://186.194.160.110:9002/play/a0ib/index.m3u8?PlaylistM3UCL
+http://200.229.147.142:8000/play/a01t/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320800" tvg-name="Universal TV • Feed 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/1200px-Universal_TV_logo.svg.png" group-title="Premium", Universal TV • Feed 1
 http://45.232.210.1:8029/play/a0ap/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321487" tvg-name="Cinecanal • Feed 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/CinecanalLA.png" group-title="Premium", Cinecanal • Feed 1
-http://186.194.160.110:9002/play/a0j6/index.m3u8?PlaylistM3UCL
+http://181.13.252.102:8000/play/a07b/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="330542" tvg-name="Esports Max" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Esports_Max_Logo.png" group-title="Premium", Esports Max
 http://128.201.227.251:4000/play/a025?PlaylistM3UCL
 #EXTINF:-1 tvg-id="327287" tvg-name="5-Minute Craft" tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/96/5-Minute_Crafts_logo.jpg" group-title="Premium", 5-Minute Craft
@@ -358,7 +358,7 @@ http://45.181.122.46:8090/play/a02f?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318353" tvg-name="Sony Channel • Argentina" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" group-title="Premium", Sony Channel • Argentina
 http://45.181.122.46:8090/play/a00e?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319047" tvg-name="Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" group-title="Premium", Comedy Central
-http://186.194.160.110:9002/play/a0at/index.m3u8?PlaylistM3UCL
+http://181.13.252.102:8000/play/a02x/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="324892" tvg-name="Quiero Música en mi idioma" tvg-logo="https://i.imgur.com/RPyA2OJ.png" group-title="Musica", Quiero Música en mi idioma
 http://181.13.252.102:8000/play/a02n/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="330175" tvg-name="Mundo de la Música" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZrYNzRXNz7LbnZr9Skrvj1yU9GWCZGgu-Qg&s" group-title="Musica", Mundo de la Música
@@ -372,7 +372,7 @@ http://190.102.247.123:8000/play/a06t/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="321182" tvg-name="Music TOP" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/Public/logos/musictop.jpg" group-title="Musica", Music TOP
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="319062" tvg-name="Música Rap" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMkE_A_5akpntR8CIa_NA24Pu0p78nwvjR-Q&s" group-title="Musica", Música Rap
-https://api.m3use.projectmoose.xyz/m3u/loxile2892/BRUCMS23112025/681cb91f3f3fe66ffedb6ac7.m3u8?uid=loxile2892&pkey=Ad5nF6pY&PlaylistM3UCL
+https://api.m3use.projectmoose.xyz/m3u/tahiv68135/BRUCMS04012026/681cb91f3f3fe66ffedb6ac7.m3u8?uid=tahiv68135&pkey=7KMFR3nP&PlaylistM3UCL
 #EXTINF:-1 tvg-id="326614" tvg-name="Karavana TV" tvg-logo="https://play-lh.googleusercontent.com/n0O4b6HKlayT7L_sWxhzsb5-A0Pak84QsA1XrXGNASFgnqxLQJmHQbY8Aj4zHcXnvJY" group-title="Musica", Karavana TV
 http://45.184.87.142:8000/play/a02w?PlaylistM3UCL
 #EXTINF:-1 tvg-id="324425" tvg-name="KPOP" tvg-logo="https://raw.githubusercontent.com/Puticastillo/EPGCL/refs/heads/main/Public/logos/kpop.jpg" group-title="Musica", KPOP
