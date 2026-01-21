@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/smithers/guia-de-programacion.xml" tv-test="bruno2255.m3u"
+#EXTINF:-1 tvg-name="+ Listas en M3U.CL" tvg-logo="https://www.m3u.cl/logo/156___Listas_en_M3U_CL.png", + Listas en M3U.CL * | CL
+https://videostreaming.cloudserverlatam.com:443/htbbgdnudk/htbbgdnudk/playlist.m3u8
 #EXTINF:-1 tvg-id="322443" tvg-name="Sin EPG" tvg-logo="" group-title="PRUEBA", Sin EPG
 https://i.imgur.com/8PYoeq1.mp4?PlaylistM3UCL
 #EXTINF:-1 tvg-id="326271" tvg-name="Canal 13 (Señal de Pruebas)" tvg-logo="" group-title="PRUEBA", Canal 13 (Señal de Pruebas)
@@ -1073,6 +1075,8 @@ http://179.57.171.184:8000/play/a00o?PlaylistM3UCL
 https://origin.dpsgo.com/ssai/event/g7_JOM0ORki9SR5RKHe-Kw/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="318538" tvg-name="13 Teleseries" tvg-logo="https://cdn.m3u.cl/logo/1032_13_Teleseries.png" group-title="Chile", 13 Teleseries
 https://origin.dpsgo.com/ssai/event/f4TrySe8SoiGF8Lu3EIq1g/master.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="331667" tvg-name="13 Humor" tvg-logo="https://s.13.cl/sites/default/files/13go/logo/Logo%20Humor_0.png" group-title="Chile", 13 Humor
+https://origin.dpsgo.com/ssai/event/cKWySXKgSK-SzlJmESkOWw/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322442" tvg-name="13 Pop" tvg-logo="https://cdn.m3u.cl/logo/1033_13_Pop.png" group-title="Chile", 13 Pop
 https://redirector.dps.live/hls/13pop/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319797" tvg-name="13 Festival" tvg-logo="https://cdn.m3u.cl/logo/1446_13_Festival.png" group-title="Musica", 13 Festival
