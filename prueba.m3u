@@ -9,6 +9,8 @@ https://alba-cl-lared-lared.stream.mediatiquestream.com/index.m3u8
 https://mblesmain01.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 #EXTINF:-1, Duna TV
 https://mdstrm.com/live-stream-playlist/67ed8a8d6db4af9a0188555c.m3u8
+#EXTINF:-1, 13 en vivo
+https://origin.dpsgo.com/ssai/event/bFL1IVq9RNGlWQaqgiFuNw/master.m3u8
 #EXTINF:-1, CAMARA DE SEGURIDAD
 http://192.168.1.98:4747/video?640x480
 #EXTINF:-1, El Nueve OPC1
