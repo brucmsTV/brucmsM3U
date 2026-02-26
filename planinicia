@@ -1,8 +1,4 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/Puticastillo/EPGCL/main/smithers/guia-de-programacion.xml" tv-test="bruno2255.m3u"
-#EXTINF:-1 tvg-name="+ Listas en M3U.CL" tvg-logo="https://www.m3u.cl/logo/156___Listas_en_M3U_CL.png", + Listas en M3U.CL * | CL
-https://videostreaming.cloudserverlatam.com:443/htbbgdnudk/htbbgdnudk/playlist.m3u8
-#EXTINF:-1 tvg-id="332077" tvg-name="Chilevisión (Respaldo 2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Emblema_de_Chilevisi%C3%B3n.png" group-title="Chile (RESPALDOS)", Chilevisión (Respaldo 2)
-https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="322443" tvg-name="Sin EPG" tvg-logo="" group-title="PRUEBA", Sin EPG
 https://i.imgur.com/8PYoeq1.mp4?PlaylistM3UCL
 #EXTINF:-1 tvg-id="326271" tvg-name="Canal 13 (Señal de Pruebas)" tvg-logo="" group-title="PRUEBA", Canal 13 (Señal de Pruebas)
@@ -914,7 +910,7 @@ https://v2.tustreaming.cl/armonia/tracks-v1a1/mono.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310044" tvg-name="Radio Romántica" tvg-logo="https://cdn.m3u.cl/logo/428_Radio_Romantica.png" group-title="Radio Tv Chile", Radio Romántica
 https://mdstrm.com/live-stream-playlist/63a0674c1137d408b45d4821.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="328474" tvg-name="T13 Radio TV" tvg-logo="https://yt3.googleusercontent.com/0P1_MXfXqpJxXRPiSMzmhQInwx6e-3EqU9Q8SEUNejCrimtvx7TY6DzyUGsbqOq1r_cwm5PJ=s900-c-k-c0x00ffffff-no-rj" group-title="Canales Chilenos (YouTube)", T13 Radio TV
-https://api.m3use.projectmoose.xyz/m3u/loxile2892/BRUCMS23112025/692f56025da02f8e79dba0b7.m3u8?uid=loxile2892&pkey=Ad5nF6pY&PlaylistM3UCL
+https://api.m3use.projectmoose.xyz/m3u/wodowok494/BRUCMS26022025/69a0c688fe8a6e944a0148ff.m3u8?uid=wodowok494&pkey=bKrcmhA7&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319848" tvg-name="Tele13 Radio" tvg-logo="https://cdn.onlineradiobox.com/img/l/6/63666.v9.png" group-title="Radios Chilenas (solo audio)", Tele13 Radio
 https://mdstrm.com/audio/5c915613519bce27671c4caa/live.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320079" tvg-name="Radio Universidad de Chile 102.5 FM" tvg-logo="https://cdn.onlineradiobox.com/img/l/1/3081.v16.png" group-title="Radios Chilenas (solo audio)", Radio Universidad de Chile 102.5 FM
@@ -987,8 +983,6 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/FUTURO_SC?dist
 https://playerservices.streamtheworld.com/api/livestream-redirect/CONCIERTOAAC.aac?dist=onlineradiobox&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319702" tvg-name="Radio Imagina" tvg-logo="https://cdn.onlineradiobox.com/img/l/2/322.v8.png" group-title="Radios Chilenas (solo audio)", Radio Imagina
 https://playerservices.streamtheworld.com/api/livestream-redirect/IMAGINA_SC?dist=onlineradiobox&PlaylistM3UCL
-#EXTINF:-1 tvg-id="310037" tvg-name="Wapp TV" tvg-logo="https://cdn.m3u.cl/logo/881_Wapp.png" group-title="Chile", Wapp TV
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wapptv/master.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310039" tvg-name="Nativa TV" tvg-logo="https://cdn.m3u.cl/logo/346_Nativa_TV.png" group-title="Chile", Nativa TV
 https://origin-us.streaminghd.cl/nativatv/nativatv/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="330180" tvg-name="Radio Suyai" tvg-logo="https://cdn.m3u.cl/logo/1611_Suyai_Radio.png" group-title="Chile", Radio Suyai
@@ -1018,7 +1012,7 @@ https://bst.buin.cl/0.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="310000" tvg-name="Antofagasta TV" tvg-logo="https://cdn.m3u.cl/logo/71_Antofagasta_TV.png" group-title="Regionales", Antofagasta TV
 https://unlimited1-cl-isp.dps.live/atv/atv.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="319056" tvg-name="Señal 3 La Victoria" tvg-logo="https://arteymedios.org/wp-content/uploads/2020/11/24d767ce6c156eb07b1fc26c266211f5.jpg" group-title="Chile", Señal 3 La Victoria
-https://api.m3use.projectmoose.xyz/m3u/tahiv68135/BRUCMS04012026/6857350a44af2ce49b973941.m3u8?uid=tahiv68135&pkey=7KMFR3nP&PlaylistM3UCL
+https://api.m3use.projectmoose.xyz/m3u/wodowok494/BRUCMS26022025/6857350a44af2ce49b973941.m3u8?uid=wodowok494&pkey=bKrcmhA7&PlaylistM3UCL
 #EXTINF:-1 tvg-id="309997" tvg-name="STGO.TV" tvg-logo="https://cdn.m3u.cl/logo/53_STGO_TV.png" group-title="Chile", STGO.TV
 https://stv4.janus.cl/playlist/stream.m3u8?s=lq&t=&id=luflljxo&q=&d=w&PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="309996" tvg-name="Canal TVU" tvg-logo="https://cdn.m3u.cl/logo/56_TVU.png" group-title="Regionales", Canal TVU
@@ -1086,7 +1080,7 @@ https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8?PlaylistM
 #EXTINF:-1 tvg-id="328490" tvg-name="T13 En Vivo SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl-sFpSkgeDmr6fl9hRB94wOhrimcLDZFVAg&s" group-title="Canales - Chile [SD]", T13 En Vivo SD
 http://186.194.160.110:9002/play/a05k/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="324547" tvg-name="T13 En Vivo (YouTube)" tvg-logo="https://yt3.googleusercontent.com/QlXT9eo7ws4PZlMGvCRf1h3wU7-lPw1nIgJ3IFDpsdR_IDM3F9mYuzusaalNVDdylnVZzMhAUnk=s160-c-k-c0x00ffffff-no-rj" group-title="Canales Chilenos (YouTube)", T13 En Vivo (YouTube)
-https://api.m3use.projectmoose.xyz/m3u/tahiv68135/BRUCMS04012026/68e31a4b25ea72f7866c8d01.m3u8?uid=tahiv68135&pkey=7KMFR3nP&PlaylistM3UCL
+https://api.m3use.projectmoose.xyz/m3u/wodowok494/BRUCMS26022025/68e31a4b25ea72f7866c8d01.m3u8?uid=wodowok494&pkey=bKrcmhA7&PlaylistM3UCL
 #EXTINF:-1 tvg-id="309989" tvg-name="T13 en Vivo" tvg-logo="https://cdn.m3u.cl/logo/1054_T13.png" group-title="Noticias Chile", T13 en Vivo
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="316957" tvg-name="Canal 13 " tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Canal_13_2025.svg/revision/latest/scale-to-width-down/1000?cb=20250415161306" group-title="Chile", Canal 13 
@@ -1095,6 +1089,8 @@ https://m3u.cl/channel/c13.php?PlaylistM3UCL&PlaylistM3UCL&PlaylistM3UCL
 http://152.230.229.67:9990/play/a0ke/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="322365" tvg-name="Chilevisión SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Emblema_de_Chilevisi%C3%B3n.png" group-title="Canales - Chile [SD]", Chilevisión SD
 http://190.151.80.244:9990/play/a0ke/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="332077" tvg-name="Chilevisión (Respaldo 2)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Emblema_de_Chilevisi%C3%B3n.png" group-title="Chile (RESPALDOS)", Chilevisión (Respaldo 2)
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chv/chv.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="320905" tvg-name="Chilevisión (Respaldo)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Emblema_de_Chilevisi%C3%B3n.png" group-title="Chile (RESPALDOS)", Chilevisión (Respaldo)
 https://mdstrm.com/live-stream-playlist/5ef5fb3025c9a6086c457c55.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="322050" tvg-name="Chilevisión Contigo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Chvcontigoptv.png/revision/latest?cb=20231014035938&path-prefix=es" group-title="Chile", Chilevisión Contigo
@@ -1114,7 +1110,7 @@ http://179.57.171.184:8000/play/a00i?PlaylistM3UCL
 #EXTINF:-1 tvg-id="310175" tvg-name="Meganoticias" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwxEO03gK-QrKTR_qwT76CzhAhQZwYXfnn8Q&s" group-title="Noticias Chile", Meganoticias
 http://179.57.171.184:8000/play/a00j?PlaylistM3UCL
 #EXTINF:-1 tvg-id="329292" tvg-name="Mega (YouTube)" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="Canales Chilenos (YouTube)", Mega (YouTube)
-https://api.m3use.projectmoose.xyz/m3u/loxile2892/BRUCMS23112025/68faca01fe38f7ba39f8e07f.m3u8?uid=loxile2892&pkey=Ad5nF6pY&PlaylistM3UCL
+https://api.m3use.projectmoose.xyz/m3u/wodowok494/BRUCMS26022025/68baf66e6a87b6f9f80ffb5d.m3u8?uid=wodowok494&pkey=bKrcmhA7&PlaylistM3UCL
 #EXTINF:-1 tvg-id="322366" tvg-name="Mega [SD]" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="Canales - Chile [SD]", Mega [SD]
 http://45.232.210.1:18000/play/a086/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="320794" tvg-name="Mega HD [Respaldo]" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="Chile (RESPALDOS)", Mega HD [Respaldo]
@@ -1126,7 +1122,7 @@ http://45.232.210.1:8029/play/a006/index.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="309986" tvg-name="Mega" tvg-logo="https://cdn.m3u.cl/logo/455_Mega.png" group-title="Chile", Mega
 https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8?PlaylistM3UCL&PlaylistM3UCL
 #EXTINF:-1 tvg-id="323980" tvg-name="Canal 24 Horas (Opc. YouTube)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/24_horas_2023_logo.png" group-title="Canales Chilenos (YouTube)", Canal 24 Horas (Opc. YouTube)
-https://api.m3use.projectmoose.xyz/m3u/tahiv68135/BRUCMS04012026/6813dd2b45a08d704336897c.m3u8?uid=tahiv68135&pkey=7KMFR3nP&PlaylistM3UCL
+https://api.m3use.projectmoose.xyz/m3u/wodowok494/BRUCMS26022025/6813dd2b45a08d704336897c.m3u8?uid=wodowok494&pkey=bKrcmhA7&PlaylistM3UCL
 #EXTINF:-1 tvg-id="317771" tvg-name="Canal 24 Horas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/24_horas_2023_logo.png" group-title="Noticias Chile", Canal 24 Horas
 http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="324228" tvg-name="NTV (op. SD)" tvg-logo="https://cdn.m3u.cl/logo/45_NTV.png" group-title="Canales - Chile [SD]", NTV (op. SD)
